@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/projects/nemro/</loc>
-<lastmod>2015-02-01T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/projects/hy-push-state/</loc>
-<lastmod>2016-10-05T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/projects/hy-img/</loc>
-<lastmod>2018-03-01T00:00:00-08:00</lastmod>
+<loc>http://localhost:4000/projects/tunnel_inspection/</loc>
+<lastmod>2014-04-01T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
