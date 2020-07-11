@@ -4,6 +4,12 @@
   "pages": [
     {
       
+      
+      
+      "content": "\n",
+      "url": "/404.html"
+    },{
+      
       "title": "Home",
       
       "content": "\n  Latest Publications\n  Latest Projects\n\n\nI am Cédric Girerd, a Postdoctoral Researcher in Medical Robotics at the University of California San Diego. I work in Morimoto Lab, which is part of the Contextual Robotics Institute.\n\nSee Résumé for more\n\n\nLatest Publications\n\n\nC. Girerd, T. Schlinquer, N. Andreff, P. Renaud, and K. Rabenorosoa, “Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment,” Journal of Mechanisms and Robotics, 2020 (to appear).\n\nBibtex\n \n\n    \n\n \n\n    \n\n\n\n    \n\n\n\n@article{girerd19jmr,\n  author = {C. Girerd and Schlinquer, T. and Andreff, N. and Renaud, P. and Rabenorosoa, K.},\n  journal = {Journal of Mechanisms and Robotics},\n  title = {Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment},\n  year = {2020 (to appear)},\n  volume = {},\n  number = {},\n  pages = {},\n  keywords = {},\n  doi = {},\n  issn = {},\n  month = {}\n}\n\n\n\n\n\n\nC. Girerd, A. V. Kudryavtsev, P. Rougeot, P. Renaud, K. Rabenorosoa, and B. Tamadazte, “SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots,” IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 548–555, Apr. 2020.\n\nBibtex\n \n\n    \n\n \n\n    \n\n\n\n    \n\n\n\n@article{girerd20ral,\n  author = {C. Girerd and Kudryavtsev, A. V. and Rougeot, P. and Renaud, P. and Rabenorosoa, K. and Tamadazte, B.},\n  journal = {IEEE Robotics and Automation Letters},\n  title = {SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots},\n  year = {2020},\n  volume = {5},\n  number = {2},\n  pages = {548-555},\n  keywords = {Surgical robotics: steerable catheters/needles;medical robots and systems},\n  doi = {10.1109/LRA.2019.2963821},\n  issn = {2377-3774},\n  month = apr\n}\n\n\n\n\n\nSee Publications for more\n\n\nLatest Projects\n\n",
