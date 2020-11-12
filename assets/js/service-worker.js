@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.0.3--v7--sw/";
 const ASSETS_CACHE = "assets--v7--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2020-10-31T02:06:51-07:00--sw/";
+const CONTENT_CACHE = "content--2020-11-11T17:38:22-08:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -56,6 +56,7 @@ const STATIC_FILES = [
   /**/"/assets/ieee.csl",
   /**/"/assets/img/cgirerd.png",
   /**/"/assets/img/projects/3d_view.jpg",
+  /**/"/assets/img/projects/hand-held-ctr.jpg",
   /**/"/assets/img/projects/logo_nemro.png",
   /**/"/assets/papers/girerd16ark.pdf",
   /**/"/assets/papers/girerd16cras.pdf",
