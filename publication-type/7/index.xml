@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | C. Girerd</title>
+    <link>https://cgirerd.github.io/publication-type/7/</link>
+      <atom:link href="https://cgirerd.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu9d97e5c8bfbc0acf941a2623d086cbfb_32291_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://cgirerd.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Conception de robots à tubes concentriques et application à l&#39;inspection des cellules olfactives</title>
+      <link>https://cgirerd.github.io/publication/girerd18phdthesis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd18phdthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

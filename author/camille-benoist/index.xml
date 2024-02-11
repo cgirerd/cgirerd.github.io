@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camille Benoist | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/camille-benoist/</link>
+      <atom:link href="https://cgirerd.github.io/author/camille-benoist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camille Benoist</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cgirerd.github.io/author/camille-benoist/avatar_hu8afedbb61db304ddd4817fa9c496f253_469541_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Camille Benoist</title>
+      <link>https://cgirerd.github.io/author/camille-benoist/</link>
+    </image>
+    
+  </channel>
+</rss>

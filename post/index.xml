@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | C. Girerd</title>
+    <link>https://cgirerd.github.io/post/</link>
+      <atom:link href="https://cgirerd.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu9d97e5c8bfbc0acf941a2623d086cbfb_32291_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://cgirerd.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Susan Calvin Colloquium</title>
+      <link>https://cgirerd.github.io/post/23-10-19-susan-calvin/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/post/23-10-19-susan-calvin/</guid>
+      <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations!&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Lab Days at LIRMM</title>
+      <link>https://cgirerd.github.io/post/23-10-15-open-days/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/post/23-10-15-open-days/</guid>
+      <description>&lt;p&gt;It was Open Lab Days this Saturday on campus! It was a pleasure to have so many visitors, of any age, who wanted to learn more about our activities. Looking forward to the 2024 session!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiming Zhang | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/qiming-zhang/</link>
+      <atom:link href="https://cgirerd.github.io/author/qiming-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiming Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu9d97e5c8bfbc0acf941a2623d086cbfb_32291_512x512_fill_lanczos_center_3.png</url>
+      <title>Qiming Zhang</title>
+      <link>https://cgirerd.github.io/author/qiming-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
+      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
