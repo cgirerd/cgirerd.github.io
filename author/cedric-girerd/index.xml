@@ -5,12 +5,20 @@
     <link>https://cgirerd.github.io/author/cedric-girerd/</link>
       <atom:link href="https://cgirerd.github.io/author/cedric-girerd/index.xml" rel="self" type="application/rss+xml" />
     <description>Cédric Girerd</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgirerd.github.io/author/cedric-girerd/avatar_hu46782cb541324b9aa8b11c6edf40ab84_64154_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Cédric Girerd</title>
       <link>https://cgirerd.github.io/author/cedric-girerd/</link>
     </image>
+    
+    <item>
+      <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
@@ -129,6 +137,14 @@
       <link>https://cgirerd.github.io/publication/girerd20ral/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
       <description></description>
     </item>
     

@@ -28,6 +28,14 @@
     </item>
     
     <item>
+      <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
       <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -189,6 +197,14 @@
     </item>
     
     <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
       <link>https://cgirerd.github.io/publication/girerd18abme/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -284,6 +300,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/research/hand_held_and_portable_cr/</guid>
       <description>&lt;p&gt;The standard-of-care involves a range of affordable, manual, hand-held rigid tools, with limited dexterity. In contrast, roboticized tools with increased accessibility and dexterity are usually larger, heavier, grounded devices that are teleoperated, posing a new set of challenges. To bridge the gap between those classes of devices, we propose a hand-held concentric tube robot that has the dexterity and precision of large roboticized devices, while maintaining the footprint of a traditional hand-held tool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vine Growing Robots</title>
+      <link>https://cgirerd.github.io/research/vine_growing_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/research/vine_growing_robots/</guid>
+      <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or ``vine&amp;rsquo;&amp;rsquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
 </description>
     </item>
     
