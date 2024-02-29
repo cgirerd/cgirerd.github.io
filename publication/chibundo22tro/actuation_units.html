@@ -21,8 +21,8 @@
             <div class="col">
                 <h1>Concentric Tube Robot Actuation Units</h1>
 
-                <p>This table reports all actuation units proposed in the literature, and is kept up-to-date on a regular basis. If you are making use of the information provided in this table, please cite our associated paper [<a href="">link here</a>].<br>
-                    For any request, please send an email to <a href = "mailto: cgirerd@eng.ucsd.edu">cgirerd@eng.ucsd.edu</a>.</p>
+                <p>This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of the information provided in these tables, please cite our associated paper (<a href="https://doi.org/10.1109/TRO.2023.3255512">https://doi.org/10.1109/TRO.2023.3255512</a>).<br>
+                For any request, please send an email to <a href = "mailto: cedric.girerd@lirmm.fr">cedric.girerd@lirmm.fr</a>.</p>
 
                 <div id="table-container"></div>
             </div>
@@ -59,7 +59,9 @@
                 delimiter: '"'
             },
             datatables_options: {
-                paging: false
+                paging: false,
+				ordering: true,
+				order: [[1, 'desc']]
             },
             custom_formatting: [
                 [3, format_link]
