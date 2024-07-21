@@ -1,0 +1,118 @@
+Year,Application,Type,Motion,Steering,Material,Tooltip,Length (mm),Diameter (mm),Reference
+2023,Medical,T,2D,Tendon-driven,TP-LDPE,Lumen,140,3,https://doi.org/10.1109/LRA.2023.3234823
+2023,Inspection,S,2D,PAMs,TP-LDPE,-,-,-,http://arxiv.org/abs/2301.07362
+2023,General,S,2D,PAMs,Fabric,Tip-mount,-,-,http://arxiv.org/abs/2301.12862
+2023,Inspection,T,3D,PAMs,Fabric-nylon,Tip-mount,-,-,https://doi.org/10.3390/app13042601
+2023,Medical,G,2D,-,-,String-mount,620,-,https://doi.org/10.1109/INDICON56171.2022.10039866
+2023,General,T,2D,Heat-welded bending,"TP-LDPE, Fabric-Nylon",Tip-mount,-,152,https://doi.org/10.1109/LRA.2023.3260705
+2023,General,S,2D,SPMs,TP-LDPE,-,850,79.8,https://doi.org/10.1007/s42235-023-00369-3
+2023,General,S,3D,"SPMs, PAMs",Fabric-Nylon,-,4200,80,https://doi.org/10.1089/soro.2023.0169
+2023,General,T,3D,-,TP-LDPE,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10122073
+2023,General,S,2D,Tendon-driven,Fabric-Nylon,Tip-mount,2300,108,https://doi.org/10.1109/RoboSoft55895.2023.10122027
+2023,General,S,3D,Shape-locking,TP-LDPE,Tip-mount,1000,64.6,https://doi.org/10.1109/RoboSoft55895.2023.10122104
+2023,General,T,3D,-,Fabric-Nylon,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10122006
+2023,Deployable,G,3D,SPMs,Fabric,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10121998
+2023,General,S,3D,SPMs,TP-LDPE,-,-,203,https://doi.org/10.1109/RoboSoft55895.2023.10122112
+2023,General,T,3D,-,-,-,580,"30,16",https://doi.org/10.1109/RoboSoft55895.2023.10121994
+2023,General,A,3D,Pre-defined,"TP-LDPE, Fabric-Nylon",Tip-mount,-,33,http://arxiv.org/abs/2306.01166
+2023,General,S,2D,Elastic bands,"DL-Cotton, cotton, elastane",Tip-mount,-,-,http://arxiv.org/abs/2305.17720
+2023,Medical,S,3D,Pre-defined,,-,313,13,https://doi.org/10.1002/admt.202202184
+2023,Medical,T,3D,SPMs,TP-LDPE,-,1700,15.2,https://doi.org/10.31256/HSMR2023.60
+2023,General,T,2D,SPMs,-,-,1500,-,https://doi.org/10.1109/ICCAR57134.2023.10151740
+2023,Subterranean,G,2D,Pressure control,Fabric-Polyester,-,390,200,https://doi.org/10.1007/s11440-023-02073-2
+2023,Subterranean,S,2D,-,"TPs-PLA, PCL",Tip-mount,150,40,https://doi.org/10.1007/978-3-031-38857-6_15
+2023,General,T,2D,Links,-,-,-,-,https://doi.org/10.1016/j.engappai.2023.107693
+2023,Medical,T,3D,Tendon-driven,TP-LDPE,Lumen,100,5,https://doi.org/10.1109/LRA.2023.3322091
+2023,Inspection,S,2D,PPSA,TP-LDPE,-,-,32,https://doi.org/10.1109/LRA.2023.3329760
+2023,General,A,2D,PAMs,Fabric-Nylon,Lumen,150,"63.6,38",https://doi.org/10.1109/LRA.2023.3341697
+2023,Inspection,S,2D,Anisotropic lengthening,"DL-TPU, dyneema fabric",lumen,-,32,http://arxiv.org/abs/2310.00851
+2023,Inspection,S,2D,Twisted string actuator,Fabric-nylon,Tip-mount,2000,32,https://doi.org/10.1109/iros55552.2023.10341407
+2023,General,S,2D,Pre-defined,-,-,-,-,https://doi.org/10.1109/iros55552.2023.10341705
+2023,Medical,A,3D,Pre-defined,TP-LDPE,-,1000,23,https://doi.org/10.1109/iros55552.2023.10342214
+2023,Subterranean,G,3D,Tendon-driven,TP-LDPE,Tip-mount,900,48.5,https://doi.org/10.1109/MERCon60487.2023.10355439
+2023,Subterranean,T,3D,SPMs,TP,-,-,-,https://doi.org/10.1109/ICCMA59762.2023.10374973
+2023,General,S,2D,Pre-defined,TP-LDPE,Tip-mount,2400,70,https://doi.org/10.1109/iros55552.2023.10342238
+2023,General,A,2D,SPMs,"TP-LDPE, HDPE",-,2000,80-100,https://doi.org/10.1088/1757-899x/1291/1/012031
+2023,Inspection,T,3D,PAMs,Fabric-nylon,Tip-mount,-,60,https://doi.org/10.23919/SICE59929.2023.10354133
+2023,General,S,2D,Pre-defined,TP-LDPE,-,254,29,https://doi.org/10.1109/RoboSoft55895.2023.10122088
+2023,General,T,2D,Pre-defined,"TP-LDPE,Fabric-Nylon",-,-,25.4,https://doi.org/10.1109/RoboSoft55895.2023.10122115
+2023,General,T,2D,PAMs,TP-LDPE,Tip-mount,10000,50,http://arxiv.org/abs/2401.11203
+2023,General,S,3D,Material-response,TP-PLA,Tip-mount,-,40,https://doi.org/10.1126/scirobotics.adi5908
+2022,General,T,3D,PAMs,TP-LDPE,-,305,2,https://doi.org/10.1109/TRO.2021.3115230
+2022,General,T,-,Pre-defined,-,-,500,25,https://doi.org/10.1109/LCSYS.2022.3175385
+2022,General,G,3D,SPMs,TP-LDPE,Tip-mount,1090,3.2,https://doi.org/10.1109/ICRA46639.2022.9811611
+2022,Inspection,G,3D,Heat-welded bending,"DL-LDPE, Nylon",Tip-mount,500,76.4,https://doi.org/10.1109/LRA.2022.3153724
+2022,Inspection,S,2D,Pre-defined,TP-TPU,Distributed,-,-,https://doi.org/10.3389/frobt.2022.838913
+2022,General,S,3D,PAMs,TP-LDPE,-,750,102,https://doi.org/10.1109/MERCon55799.2022.9906266
+2022,Subterranean,A,3D,Polymerisation,TPs-Thiol-ene resin,-,1500,-,https://doi.org/10.1073/pnas.2201776119
+2022,Inspection,S,3D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/mn55117.2022.9887783
+2022,Inspection,S,3D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/INSCIT55544.2022.9913747
+2022,Medical,S,3D,Polymerisation,TP-TPU,-,2000,50,https://doi.org/10.20965/jrm.2022.p0234
+2022*,Inspection,S,2D,Articulated links,"DL-LDPE, Nylon",-,500,80,https://doi.org/10.1109/LRA.2022.3221340
+2022,General,S,2D,PAMs,Fabric-Nylon,-,350,45,https://doi.org/10.1007/978-3-031-15928-2_106
+2022,General,T,3D,Pre-defined,TP-LDPE,-,-,68,https://doi.org/10.1109/IROS47612.2022.9981430
+2022,General,A,2D,Shape-locking,Thermoset-Latex,Tip-mount,150,75,https://doi.org/10.1002/aisy.202200264
+2022,General,A,3D,Pre-defined,TP-LDPE,-,30.5,12.4,http://arxiv.org/abs/2203.14455
+2022,General,S,2D,PAMs,Fabric-Nylon,Distributed,530,35,https://doi.org/10.1109/IROS47612.2022.9981273
+2022,General,A,2D,PAMs,Fabric-Nylon,Tip-mount,2000,80,Kubler2022ASteering
+2022,Medical,G,2D,Pre-defined,Thermoset-Latex,Lumen,460,38,https://doi.org/10.31256/HSMR2022.58
+2021,General,A,3D,PAMs,Fabric-Polyester,-,400,45,https://doi.org/10.1109/ICRA48506.2021.9561873
+2021,Medical,G,3D,Tendon-driven,TP-LDPE,Lumen,550,2.8,https://doi.org/10.1109/LRA.2021.3068676
+2021,Subterranean,S,2D,Pre-defined,-,Distributed,1150,66,https://doi.org/10.1109/RoboSoft51838.2021.9479345
+2021,Inspection,S,3D,Pre-defined,TP-TPU,Lumen,2000,50,https://doi.org/10.1109/LRA.2021.3073653
+2021,General,S,2D,Internal steering,Fabric-Nylon,Tail-mount,2400,68,https://doi.org/10.1109/LRA.2021.3072858
+2021,General,S,3D,SPMs,-,Tip-mount,-,-,https://doi.org/10.1109/LRA.2021.3068936
+2021,Inspection,G,3D,SPMs,Fabric-Nylon,Tip-mount,17000,101,https://doi.org/10.1109/RoboSoft51838.2021.9479192
+2021,Inspection,S,3D,PAMs,"Double-layered-TPU, fabric",Inside pressurised area,508,19,https://doi.org/10.1109/IROS51168.2021.9636697
+2021,Subterranean,G,3D,Tendon-driven,Fabric-Nylon,-,2000,60,https://doi.org/10.1126/scirobotics.eabe2922
+2021,Medical,T,3D,PAMs,Fabric-Nylon,Tip-mount,445,20,https://doi.org/10.1109/LRA.2021.3095625
+2021,Inspection,S,3D,Pre-defined,TP-PLA,Tip-mount,-,78,https://doi.org/10.1109/RoboSoft51838.2021.9479220
+2021,Medical,G,3D,Pre-defined,Fabric-Nylon,Lumen,300,3.5,https://doi.org/10.1109/TMRB.2021.3069984
+2021,General,T,2D,Pre-defined,-,-,-,-,https://doi.org/10.1109/ICRA48506.2021.9561420
+2021,General,T,3D,Pre-defined,Fabric,Tip-mount,-,-,http://arxiv.org/abs/2108.00677
+2021,General,S,2D,PAMs,-,Tip-mount,10000,100,https://doi.org/10.1109/MetroInd4.0IoT51437.2021.9488477
+2021,Medical,G,2D,Pre-defined,TP-LDPE,Lumen,-,50.8,https://doi.org/10.1109/ISMR48346.2021.9661552
+2020,General,A,2D,Tendon-driven,Fabric-Nylon,Tip-mount,40,23,https://doi.org/10.1109/ICRA40945.2020.9197311
+2020,General,S,3D,PAMs,-,Tip-mount,2000,64,https://doi.org/10.1109/ICRA40945.2020.9196587
+2020,Inspection,A,3D,Heat-welded bending,"DL- LDPE, Nylon",Tip-mount,800,76,https://doi.org/10.1109/TMECH.2020.2999467
+2020,Medical,S,2D,Magnet-based,-,Tip-mount,645,12,https://doi.org/10.1109/LRA.2020.2972890
+2020,Inspection,S,3D,Pre-defined,TP- LDPE,Tip-mount,1900,85,https://doi.org/10.1109/LRA.2020.2970629
+2020,General,A,3D,PAMs,Fabric-Nylon,-,300,25,https://doi.org/10.1109/LRA.2020.2976309
+2020,General,T,3D,SPMs,Fabric- Nylon,Tip-mount,-,-,https://doi.org/10.1109/IROS45743.2020.9341785
+2020,General,S,2D,Pre-defined,TP-polyethylene,-,1000,20,https://doi.org/10.1177/0278364920903774
+2020,Medical,G,3D,SPMs,TP-LDPE,Inside pressurised area,762,50.8,https://doi.org/10.1115/1.4046433
+2020,General,A,3D,Tendon-driven,TP- LDPE,String-mount,1200,86,https://doi.org/10.1109/ICRA40945.2020.9197237
+2020,Inspection,S,3D,SPMs,TP- LDPE,Tip-mount,2000,85,https://doi.org/10.1109/IROS45743.2020.9340950
+2020,General,T,2D,SPMs,Fabric-Nylon,-,1500,100,https://doi.org/10.1109/LRA.2020.2976326
+2020,General,T,2D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/ACCESS.2020.3041616
+2020,General,S,2D,Pre-defined,-,-,1100,50,https://doi.org/10.1109/LRA.2020.3019736
+2020,Inspection,G,3D,Pre-defined,"DL-LDPE, Nylon",-,350,55,https://doi.org/10.1089/soro.2019.0083
+2020,General,A,2D,-,Fabric,-,100,37.5,https://doi.org/10.1007/978-3-030-63486-5_4
+2019,Subterranean,G,3D,Pre-defined,Fabric-Nylon,Tip-mount,800,48,https://doi.org/10.1109/ROBOSOFT.2019.8722730
+2019,General,S,2D,Pre-defined,TP-LDPE,-,760,24,https://doi.org/10.1109/IROS40897.2019.8968137
+2019,Medical,A,-,PAMs,Fabric-Polyester,-,250,25,https://doi.org/10.1109/ROBOSOFT.2019.8722787
+2019,Medical,T,3D,Pre-defined,-,Moves along with tail,-,-,http://arxiv.org/abs/1910.13000
+2019,Medical,T,2D,Pre-defined,Thermoset-Latex,-,-,-,https://doi.org/10.1177/0278364919893438
+2019,Inspection,G,3D,Pre-defined,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/MRA.2019.2947538
+2019,Inspection,T,3D,Pre-defined,Fabric- Nylon,Tip-mount,-,-,https://www.researchgate.net/profile/Haitham-El-Hussieny/publication/332277541_Dynamic_Modeling_of_A_Class_of_Soft_Growing_Robots_Using_Euler-Lagrange_Formalism/links/5ed04f8c92851c9c5e65e20e/Dynamic-Modeling-of-A-Class-of-Soft-Growing-Robots-Using-Euler-Lagrange-Formalism.pdf
+2019,Subterranean,G,2D,Pre-defined,-,Tip-mount,270,48,https://doi.org/10.1089/soro.2019.0025
+2019,General,T,3D,Pre-defined,TP-LDPE,-,700,44,https://doi.org/10.3389/frobt.2019.00045
+2019,Medical,G,2D,Pre-defined,Fabric,Lumen,1000,18,https://doi.org/10.31256/HSMR2019.4
+2019,General,T,3D,Tendon-driven,TP-LDPE,Strint-mount,1000,50,https://doi.org/10.1007/978-3-030-25332-5_33
+2019,General,A,2D,Gears,-,-,-,-,https://doi.org/10.1109/IROS40897.2019.8968200
+2018,Deployable,A,3D,Tendon-driven,TP-LDPE,Inside pressurised area,1800,33.1,https://doi.org/10.1109/ROBOSOFT.2018.8404927
+2018,Medical,G,3D,Tendon-driven,Fabric-Polyester,Moves along with tail,250,17,https://doi.org/10.1109/BIOROB.2018.8487848
+2018,General,S,2D,Pre-defined,TP-LDPE,-,250,16,https://doi.org/10.1109/ICRA.2018.8460777
+2018,Subterranean,G,3D,Pre-defined,-,Lumen,120,24,https://doi.org/10.1109/IROS.2018.8593530
+2018,Inspection,S,3D,Pre-defined,"DL-LDPE, Nylon",Tip-mount,-,-,https://doi.org/10.1109/IROS.2018.8593896
+2018,Inspection,G,3D,PAMs,TP-LDPE,Moves along with tail,1200,32,https://doi.org/10.1109/LRA.2018.2793303
+2018,General,T,2D,PAMs,TP-LDPE,Tip-mount,-,-,https://doi.org/10.1089/soro.2018.0034
+2018,Inspection,T,3D,Pre-defined,TP-PLA,Tip-mount,-,-,https://doi.org/10.1109/ROBOSOFT.2018.8404891
+2018,General,G,3D,Pre-defined,Fiber-reinforced composite,-,4500,100,https://doi.org/10.1126/scirobotics.aau5630
+2017,Medical,G,3D,Pre-defined,TP-LDPE,-,20,4,https://doi.org/10.1109/IROS.2017.8202154
+2017,Medical,G,2D,Pre-defined,Thermoset-Latex,-,1500,38,https://doi.org/10.1080/03091902.2016.1275853
+2017,Inspection,G,3D,Pre-defined,-,Tip-mount,-,50,https://doi.org/10.1089/soro.2016.0080
+2017,Subterranean,G,3D,Pre-defined,TP-PLA,Tip-mount,63,50,https://doi.org/10.1088/1748-3190/12/1/015001
+2017,General,T,3D,Pre-defined,TP-LDPE,Moves along with tail,1000,13,https://doi.org/10.1007/978-3-319-63537-8
+2017,Inspection,S,2D,Pre-defined,TP-Polyethylene,Tip-mount,72000,25,https://doi.org/10.1126/scirobotics.aan3028
+2006,Inspection,G,2D,Pre-defined,Fabric-Kevlar,String-mount,3000,80,https://doi.org/10.1177/0278364906061159

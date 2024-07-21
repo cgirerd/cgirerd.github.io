@@ -5,12 +5,20 @@
     <link>https://cgirerd.github.io/author/cedric-girerd/</link>
       <atom:link href="https://cgirerd.github.io/author/cedric-girerd/index.xml" rel="self" type="application/rss+xml" />
     <description>Cédric Girerd</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgirerd.github.io/author/cedric-girerd/avatar_hu2ea201c28ccef963f26f2ca6d15f50cf_118278_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Cédric Girerd</title>
       <link>https://cgirerd.github.io/author/cedric-girerd/</link>
     </image>
+    
+    <item>
+      <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>

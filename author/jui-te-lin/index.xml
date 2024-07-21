@@ -5,12 +5,20 @@
     <link>https://cgirerd.github.io/author/jui-te-lin/</link>
       <atom:link href="https://cgirerd.github.io/author/jui-te-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jui-Te lin</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cgirerd.github.io/media/icon_hu9d97e5c8bfbc0acf941a2623d086cbfb_32291_512x512_fill_lanczos_center_3.png</url>
       <title>Jui-Te lin</title>
       <link>https://cgirerd.github.io/author/jui-te-lin/</link>
     </image>
+    
+    <item>
+      <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
