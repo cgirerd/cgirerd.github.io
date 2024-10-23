@@ -7,7 +7,7 @@
     <description>C. Girerd</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu9d97e5c8bfbc0acf941a2623d086cbfb_32291_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
       <title>C. Girerd</title>
       <link>https://cgirerd.github.io/</link>
     </image>
@@ -28,6 +28,23 @@
     </item>
     
     <item>
+      <title>📊 Presentation of our paper at ICRA@40</title>
+      <link>https://cgirerd.github.io/post/24-09-23-icra40/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/post/24-09-23-icra40/</guid>
+      <description>&lt;p&gt;It was a pleasure to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session. Check it out!&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
+      <link>https://cgirerd.github.io/publication/benoist24cras/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/benoist24cras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
       <link>https://cgirerd.github.io/publication/lin24tbme/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
@@ -36,11 +53,20 @@
     </item>
     
     <item>
-      <title>Hong Kong AI and Robotics Forum for Healthcare</title>
+      <title>📊 Presentation at the Hong Kong AI and Robotics Forum for Healthcare</title>
       <link>https://cgirerd.github.io/post/24-03-29-hong-kong/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/post/24-03-29-hong-kong/</guid>
-      <description>&lt;p&gt;Very pleased to have participated to the Hong Kong AI and Robotics Forum for Healthcare and met the local robotics community!&lt;/p&gt;
+      <description>&lt;p&gt;Very pleased to have participated to the Hong Kong AI and Robotics Forum for Healthcare and met with the local robotics community.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>📊 Presentation of our paper at the MARSS conference</title>
+      <link>https://cgirerd.github.io/post/24-07-01-marss/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/post/24-07-01-marss/</guid>
+      <description>&lt;p&gt;Very pleased to have presented part of our work from our paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
@@ -61,16 +87,23 @@
     </item>
     
     <item>
-      <title>Susan Calvin Colloquium</title>
+      <title>📊 Presentation at the Susan Calvin Colloquium</title>
       <link>https://cgirerd.github.io/post/23-10-19-susan-calvin/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/post/23-10-19-susan-calvin/</guid>
-      <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations!&lt;/p&gt;
+      <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations. My presentation can be viewed here (in French): 
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0tJdEbvVKAg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
-      <title>Open Lab Days at LIRMM</title>
+      <title>🧪 Open Lab Days at LIRMM</title>
       <link>https://cgirerd.github.io/post/23-10-15-open-days/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/post/23-10-15-open-days/</guid>
@@ -327,6 +360,96 @@
     
     <item>
       <title></title>
+      <link>https://cgirerd.github.io/ctr_prototyping_resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/ctr_prototyping_resources/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/ctr_prototyping&#39;&#34; /&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/features_and_limitations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/features_and_limitations/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta content=&#34;width=device-width, initial-scale=1, shrink-to-fit=no&#34; name=&#34;viewport&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Tip-growing robots - Proposed features and limitations&lt;/title&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;Derek Eder&#34;&gt;
+    &lt;meta content=&#34;Display any CSV file as a searchable, filterable, pretty HTML table&#34;&gt;
+
+    &lt;!-- Bootstrap core CSS --&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&#34; integrity=&#34;sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS&#34;
+        crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css&#34;&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;main class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;h1&gt;Tip-growing robots - Proposed features and limitations&lt;/h1&gt;
+
+                &lt;p&gt;This web page is a resource on the tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis.&lt;br&gt;
+                For any request, please send an email to &lt;a href = &#34;mailto: cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;br&gt;&lt;br&gt;
+				&lt;b&gt;Publication types:&lt;/b&gt; T: Theory, G: General and applications, S: Steering, sensing and tooltip, A: Actuation design&lt;/p&gt;
+
+                &lt;div id=&#34;table-container&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+        &lt;footer class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;hr&gt;
+                &lt;p class=&#34;text-right&#34;&gt;&lt;a href=&#34;https://github.com/derekeder/csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/a&gt; by
+                    &lt;a href=&#34;http://derekeder.com&#34;&gt;Derek
+                        Eder&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.3.1.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/jquery.csv.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/csv_to_html_table.js&#34;&gt;&lt;/script&gt;
+
+    &lt;script&gt;
+        function format_link(link) {
+            if (link)
+                return &#34;&lt;a href=&#39;&#34; + link + &#34;&#39; target=&#39;_blank&#39;&gt;&#34; + link + &#34;&lt;/a&gt;&#34;;
+            else return &#34;&#34;;
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: &#34;data/table_2.csv&#34;,
+            element: &#34;table-container&#34;,
+            allow_download: true,
+            csv_options: {
+                separator: &#34;,&#34;,
+                delimiter: &#39;&#34;&#39;
+            },
+            datatables_options: {
+                paging: false,
+				ordering: true,
+				order: [[0, &#39;desc&#39;]]
+            },
+            custom_formatting: [
+                [0, format_link]
+            ]
+        });
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://cgirerd.github.io/publication/al_harthy24tro/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cgirerd.github.io/publication/al_harthy24tro/readme/</guid>
@@ -459,6 +582,95 @@ Report it here: &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/i
 &lt;h2 id=&#34;copyright&#34;&gt;Copyright&lt;/h2&gt;
 &lt;p&gt;Copyright (c) 2018 Derek Eder. Released under the &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/specifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/specifications/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta content=&#34;width=device-width, initial-scale=1, shrink-to-fit=no&#34; name=&#34;viewport&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Tip-growing robots - Specifications&lt;/title&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;Derek Eder&#34;&gt;
+    &lt;meta content=&#34;Display any CSV file as a searchable, filterable, pretty HTML table&#34;&gt;
+
+    &lt;!-- Bootstrap core CSS --&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&#34; integrity=&#34;sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS&#34;
+        crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css&#34;&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;main class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;h1&gt;Tip-growing robots - Specifications&lt;/h1&gt;
+
+                &lt;p&gt;This web page is a resource on the tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis.&lt;br&gt;
+                For any request, please send an email to &lt;a href = &#34;mailto: cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+
+                &lt;div id=&#34;table-container&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+        &lt;footer class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;hr&gt;
+                &lt;p class=&#34;text-right&#34;&gt;&lt;a href=&#34;https://github.com/derekeder/csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/a&gt; by
+                    &lt;a href=&#34;http://derekeder.com&#34;&gt;Derek
+                        Eder&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.3.1.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/jquery.csv.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/csv_to_html_table.js&#34;&gt;&lt;/script&gt;
+
+    &lt;script&gt;
+        function format_link(link) {
+            if (link)
+                return &#34;&lt;a href=&#39;&#34; + link + &#34;&#39; target=&#39;_blank&#39;&gt;&#34; + link + &#34;&lt;/a&gt;&#34;;
+            else return &#34;&#34;;
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: &#34;data/table_1.csv&#34;,
+            element: &#34;table-container&#34;,
+            allow_download: true,
+            csv_options: {
+                separator: &#34;,&#34;,
+                delimiter: &#39;&#34;&#39;
+            },
+            datatables_options: {
+                paging: false,
+				ordering: true,
+				order: [[0, &#39;desc&#39;]]
+            },
+            custom_formatting: [
+                [9, format_link]
+            ]
+        });
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cgirerd.github.io/tip_growing_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/tip_growing_robots/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/tip_growing_robots&#39;&#34; /&gt;</description>
     </item>
     
     <item>

@@ -8,6 +8,14 @@ collections:
   - label: Display name (such as your full name)
     name: title
     widget: string
+  - label: First name
+    name: first_name
+    required: false
+    widget: string
+  - label: Last name
+    name: last_name
+    required: false
+    widget: string
   - label: Position or tagline (such as Professor of AI)
     name: role
     required: false
@@ -51,7 +59,7 @@ collections:
       - label: Academic
         value: ai
       widget: select
-    - label: Icon (see https://hugoblox.com/docs/page-builder/#icons)
+    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
       name: icon
       widget: string
     - label: Label (tooltip)
@@ -205,9 +213,9 @@ collections:
     widget: object
   filter:
     field: cms_exclude
-  folder: content/post
-  label: Posts
-  label_singular: Post
+  folder: content/blog
+  label: Blog Posts
+  label_singular: Blog Post
   name: posts
   path: '{{slug}}/index'
 - create: true
@@ -280,7 +288,7 @@ collections:
         value: ai
       required: false
       widget: select
-    - label: Icon (see https://hugoblox.com/docs/page-builder/#icons)
+    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
       name: icon
       required: false
       widget: string
@@ -373,7 +381,7 @@ collections:
         value: ai
       required: false
       widget: select
-    - label: Icon (see https://hugoblox.com/docs/page-builder/#icons)
+    - label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons)
       name: icon
       required: false
       widget: string
