@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wireless Sensors | C. Girerd</title>
-    <link>http://localhost:1313/tag/wireless-sensors/</link>
-      <atom:link href="http://localhost:1313/tag/wireless-sensors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/tag/wireless-sensors/</link>
+      <atom:link href="https://cgirerd.github.io/tag/wireless-sensors/index.xml" rel="self" type="application/rss+xml" />
     <description>Wireless Sensors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
       <title>Wireless Sensors</title>
-      <link>http://localhost:1313/tag/wireless-sensors/</link>
+      <link>https://cgirerd.github.io/tag/wireless-sensors/</link>
     </image>
     
     <item>
       <title>Wireless Sensors</title>
-      <link>http://localhost:1313/research/wireless_sensors/</link>
+      <link>https://cgirerd.github.io/research/wireless_sensors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/wireless_sensors/</guid>
+      <guid>https://cgirerd.github.io/research/wireless_sensors/</guid>
       <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
 </description>
     </item>
