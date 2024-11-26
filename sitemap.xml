@@ -2,497 +2,501 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cgirerd.github.io/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/24-09-23-icra40/</loc>
+    <loc>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/</loc>
+    <loc>http://localhost:1313/post/24-09-23-icra40/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/authors/</loc>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/camille-benoist/</loc>
+    <loc>http://localhost:1313/author/camille-benoist/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/cedric-girerd/</loc>
+    <loc>http://localhost:1313/author/cedric-girerd/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/nabil-zemiti/</loc>
+    <loc>http://localhost:1313/author/nabil-zemiti/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/publication-type/paper-conference/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/philippe-poignet/</loc>
+    <loc>http://localhost:1313/author/philippe-poignet/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/pierre-berthey-rayne/</loc>
+    <loc>http://localhost:1313/author/pierre-berthey-rayne/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/benoist24cras/</loc>
+    <loc>http://localhost:1313/publication/benoist24cras/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/benjamin-t.-ostrander/</loc>
+    <loc>http://localhost:1313/author/benjamin-t.-ostrander/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/lin24tbme/</loc>
+    <loc>http://localhost:1313/publication/lin24tbme/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/hunter-b.-gilbert/</loc>
+    <loc>http://localhost:1313/author/hunter-b.-gilbert/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/john-t.-hwang/</loc>
+    <loc>http://localhost:1313/author/john-t.-hwang/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/jui-te-lin/</loc>
+    <loc>http://localhost:1313/author/jui-te-lin/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/parsa-molaei/</loc>
+    <loc>http://localhost:1313/author/parsa-molaei/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/philip-a.-weissbrod/</loc>
+    <loc>http://localhost:1313/author/philip-a.-weissbrod/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/tania-k.-morimoto/</loc>
+    <loc>http://localhost:1313/author/tania-k.-morimoto/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/24-03-29-hong-kong/</loc>
+    <loc>http://localhost:1313/post/24-03-29-hong-kong/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/24-07-01-marss/</loc>
+    <loc>http://localhost:1313/post/24-07-01-marss/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/anna-alvarez/</loc>
+    <loc>http://localhost:1313/author/anna-alvarez/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/elliot-w.-hawkes/</loc>
+    <loc>http://localhost:1313/author/elliot-w.-hawkes/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd24tro/</loc>
+    <loc>http://localhost:1313/publication/girerd24tro/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/anugrah-jo-joshy/</loc>
+    <loc>http://localhost:1313/author/anugrah-jo-joshy/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/ryan-c.-dunn/</loc>
+    <loc>http://localhost:1313/author/ryan-c.-dunn/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/dunn23optimization/</loc>
+    <loc>http://localhost:1313/publication/dunn23optimization/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/23-10-19-susan-calvin/</loc>
+    <loc>http://localhost:1313/post/23-10-19-susan-calvin/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/post/23-10-15-open-days/</loc>
+    <loc>http://localhost:1313/post/23-10-15-open-days/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/fei-liu/</loc>
+    <loc>http://localhost:1313/author/fei-liu/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/lu23icra/</loc>
+    <loc>http://localhost:1313/publication/lu23icra/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/jingpei-lu/</loc>
+    <loc>http://localhost:1313/author/jingpei-lu/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/michael-c.-yip/</loc>
+    <loc>http://localhost:1313/author/michael-c.-yip/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/agrim-gupta/</loc>
+    <loc>http://localhost:1313/author/agrim-gupta/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/daegue-park/</loc>
+    <loc>http://localhost:1313/author/daegue-park/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/dinesh-bharadia/</loc>
+    <loc>http://localhost:1313/author/dinesh-bharadia/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/gupta23acm/</loc>
+    <loc>http://localhost:1313/publication/gupta23acm/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/nagarjun-bhat/</loc>
+    <loc>http://localhost:1313/author/nagarjun-bhat/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/shayaun-bashar/</loc>
+    <loc>http://localhost:1313/author/shayaun-bashar/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/siddhi-mundhra/</loc>
+    <loc>http://localhost:1313/author/siddhi-mundhra/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/chibundo-nwafor/</loc>
+    <loc>http://localhost:1313/author/chibundo-nwafor/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/chibundo22tro/</loc>
+    <loc>http://localhost:1313/publication/chibundo22tro/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/guillaume-j.-laurent/</loc>
+    <loc>http://localhost:1313/author/guillaume-j.-laurent/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/kanty-rabenorosoa/</loc>
+    <loc>http://localhost:1313/author/kanty-rabenorosoa/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/resources/ctr_prototyping/</loc>
+    <loc>http://localhost:1313/resources/ctr_prototyping/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/opportunities/</loc>
+    <loc>http://localhost:1313/opportunities/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/resources/</loc>
+    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/resources/tip_growing_robots/</loc>
+    <loc>http://localhost:1313/resources/tip_growing_robots/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tour/</loc>
+    <loc>http://localhost:1313/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/xie22biorob/</loc>
+    <loc>http://localhost:1313/publication/xie22biorob/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/ayush-giri/</loc>
+    <loc>http://localhost:1313/author/ayush-giri/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/giri22biorob/</loc>
+    <loc>http://localhost:1313/publication/giri22biorob/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/mufeng-xie/</loc>
+    <loc>http://localhost:1313/author/mufeng-xie/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/ryan-broderick/</loc>
+    <loc>http://localhost:1313/author/ryan-broderick/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/xiaolei-luo/</loc>
+    <loc>http://localhost:1313/author/xiaolei-luo/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/lin22tro/</loc>
+    <loc>http://localhost:1313/publication/lin22tro/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/jiayao-yan/</loc>
+    <loc>http://localhost:1313/author/jiayao-yan/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/park22ral/</loc>
+    <loc>http://localhost:1313/publication/park22ral/</loc>
     <lastmod>2022-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/nguyen21ral/</loc>
+    <loc>http://localhost:1313/publication/nguyen21ral/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/dang-viet-anh-nguyen/</loc>
+    <loc>http://localhost:1313/author/dang-viet-anh-nguyen/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/jerome-szewczyk/</loc>
+    <loc>http://localhost:1313/author/jerome-szewczyk/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/laurent-tavernier/</loc>
+    <loc>http://localhost:1313/author/laurent-tavernier/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/olivier-lehmann/</loc>
+    <loc>http://localhost:1313/author/olivier-lehmann/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/patrick-rougeot/</loc>
+    <loc>http://localhost:1313/author/patrick-rougeot/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/quentin-boyer/</loc>
+    <loc>http://localhost:1313/author/quentin-boyer/</loc>
     <lastmod>2021-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication-type/article/</loc>
+    <loc>http://localhost:1313/publication-type/article/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/gupta22getmobile/</loc>
+    <loc>http://localhost:1313/publication/gupta22getmobile/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/manideep-dunna/</loc>
+    <loc>http://localhost:1313/author/manideep-dunna/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/qiming-zhang/</loc>
+    <loc>http://localhost:1313/author/qiming-zhang/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/raghav-subbaraman/</loc>
+    <loc>http://localhost:1313/author/raghav-subbaraman/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/equal-contribution/</loc>
+    <loc>http://localhost:1313/author/equal-contribution/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd21sensors/</loc>
+    <loc>http://localhost:1313/publication/girerd21sensors/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/gupta21nsdi/</loc>
+    <loc>http://localhost:1313/publication/gupta21nsdi/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd20tro/</loc>
+    <loc>http://localhost:1313/publication/girerd20tro/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/andrey-v.-kudryavtsev/</loc>
+    <loc>http://localhost:1313/author/andrey-v.-kudryavtsev/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd20tmrb/</loc>
+    <loc>http://localhost:1313/publication/girerd20tmrb/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/brahim-tamadazte/</loc>
+    <loc>http://localhost:1313/author/brahim-tamadazte/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/pierre-renaud/</loc>
+    <loc>http://localhost:1313/author/pierre-renaud/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd19jmr/</loc>
+    <loc>http://localhost:1313/publication/girerd19jmr/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/nicolas-andreff/</loc>
+    <loc>http://localhost:1313/author/nicolas-andreff/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/thomas-schlinquer/</loc>
+    <loc>http://localhost:1313/author/thomas-schlinquer/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd20ral/</loc>
+    <loc>http://localhost:1313/publication/girerd20ral/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/tavernier19orlcorsica/</loc>
+    <loc>http://localhost:1313/publication/tavernier19orlcorsica/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/emmanuel-haffen/</loc>
+    <loc>http://localhost:1313/author/emmanuel-haffen/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd18abme/</loc>
+    <loc>http://localhost:1313/publication/girerd18abme/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/lionel-pazart/</loc>
+    <loc>http://localhost:1313/author/lionel-pazart/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/mourad-benassarou/</loc>
+    <loc>http://localhost:1313/author/mourad-benassarou/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/thomas-lihoreau/</loc>
+    <loc>http://localhost:1313/author/thomas-lihoreau/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd18phdthesis/</loc>
+    <loc>http://localhost:1313/publication/girerd18phdthesis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication-type/thesis/</loc>
+    <loc>http://localhost:1313/publication-type/thesis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd17surgetica/</loc>
+    <loc>http://localhost:1313/publication/girerd17surgetica/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd17iros/</loc>
+    <loc>http://localhost:1313/publication/girerd17iros/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd16ark/</loc>
+    <loc>http://localhost:1313/publication/girerd16ark/</loc>
     <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd16jjcr/</loc>
+    <loc>http://localhost:1313/publication/girerd16jjcr/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/girerd16cras/</loc>
+    <loc>http://localhost:1313/publication/girerd16cras/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/stent15isarc/</loc>
+    <loc>http://localhost:1313/publication/stent15isarc/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/peter-j.g.-long/</loc>
+    <loc>http://localhost:1313/author/peter-j.g.-long/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/roberto-cipolla/</loc>
+    <loc>http://localhost:1313/author/roberto-cipolla/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/simon-stent/</loc>
+    <loc>http://localhost:1313/author/simon-stent/</loc>
     <lastmod>2015-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/ctr_prototyping_resources/</loc>
+    <loc>http://localhost:1313/ctr_prototyping_resources/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/al_harthy24tro/features_and_limitations/</loc>
+    <loc>http://localhost:1313/publication/al_harthy24tro/features_and_limitations/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/al_harthy24tro/readme/</loc>
+    <loc>http://localhost:1313/publication/al_harthy24tro/readme/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/publication/al_harthy24tro/specifications/</loc>
+    <loc>http://localhost:1313/publication/al_harthy24tro/specifications/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tip_growing_robots/</loc>
+    <loc>http://localhost:1313/tip_growing_robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/author/camille-benoist/</loc>
+    <loc>http://localhost:1313/author/camille-benoist/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/ctr_design_optimization/</loc>
+    <loc>http://localhost:1313/research/ctr_design_optimization/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/concentric-tube-robots/</loc>
+    <loc>http://localhost:1313/tag/concentric-tube-robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/continuum-robots/</loc>
+    <loc>http://localhost:1313/tag/continuum-robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/follow-the-leader-deployment/</loc>
+    <loc>http://localhost:1313/tag/follow-the-leader-deployment/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/ftl_deployment_of_ctr/</loc>
+    <loc>http://localhost:1313/research/ftl_deployment_of_ctr/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/hand_held_and_portable_cr/</loc>
+    <loc>http://localhost:1313/research/hand_held_and_portable_cr/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/slam-based-deployment/</loc>
+    <loc>http://localhost:1313/tag/slam-based-deployment/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/soft-robots/</loc>
+    <loc>http://localhost:1313/tag/soft-robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/vine-growing-robots/</loc>
+    <loc>http://localhost:1313/tag/vine-growing-robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/vine_growing_robots/</loc>
+    <loc>http://localhost:1313/research/vine_growing_robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/slam_based_deployment/</loc>
+    <loc>http://localhost:1313/research/slam_based_deployment/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/tag/wireless-sensors/</loc>
+    <loc>http://localhost:1313/tag/wireless-sensors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cgirerd.github.io/research/wireless_sensors/</loc>
+    <loc>http://localhost:1313/research/wireless_sensors/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

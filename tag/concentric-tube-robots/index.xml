@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concentric Tube Robots | C. Girerd</title>
-    <link>https://cgirerd.github.io/tag/concentric-tube-robots/</link>
-      <atom:link href="https://cgirerd.github.io/tag/concentric-tube-robots/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/concentric-tube-robots/</link>
+      <atom:link href="http://localhost:1313/tag/concentric-tube-robots/index.xml" rel="self" type="application/rss+xml" />
     <description>Concentric Tube Robots</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
       <title>Concentric Tube Robots</title>
-      <link>https://cgirerd.github.io/tag/concentric-tube-robots/</link>
+      <link>http://localhost:1313/tag/concentric-tube-robots/</link>
     </image>
     
     <item>
       <title>Concentric Tube Robot Design Optimization</title>
-      <link>https://cgirerd.github.io/research/ctr_design_optimization/</link>
+      <link>http://localhost:1313/research/ctr_design_optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/ctr_design_optimization/</guid>
+      <guid>http://localhost:1313/research/ctr_design_optimization/</guid>
       <description>&lt;p&gt;Concentric tube robots have a large number of design variables, which is often reduced in order for design optimization problems to be tractable by gradient-free approaches. However, this reduces the design space of the robots, which can lead to sub-optimal results. To overcome those limitations, we propose a design optimization problem formulation compatible with grandient-based methods, allowing us to explore a larger design space.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>https://cgirerd.github.io/research/ftl_deployment_of_ctr/</link>
+      <link>http://localhost:1313/research/ftl_deployment_of_ctr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/ftl_deployment_of_ctr/</guid>
+      <guid>http://localhost:1313/research/ftl_deployment_of_ctr/</guid>
       <description>&lt;p&gt;The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hand-Held and Portable Continuum Robots</title>
-      <link>https://cgirerd.github.io/research/hand_held_and_portable_cr/</link>
+      <link>http://localhost:1313/research/hand_held_and_portable_cr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/hand_held_and_portable_cr/</guid>
+      <guid>http://localhost:1313/research/hand_held_and_portable_cr/</guid>
       <description>&lt;p&gt;The standard-of-care involves a range of affordable, manual, hand-held rigid tools, with limited dexterity. In contrast, roboticized tools with increased accessibility and dexterity are usually larger, heavier, grounded devices that are teleoperated, posing a new set of challenges. To bridge the gap between those classes of devices, we propose a hand-held concentric tube robot that has the dexterity and precision of large roboticized devices, while maintaining the footprint of a traditional hand-held tool.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Visual SLAM-Based Deployment</title>
-      <link>https://cgirerd.github.io/research/slam_based_deployment/</link>
+      <link>http://localhost:1313/research/slam_based_deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/slam_based_deployment/</guid>
+      <guid>http://localhost:1313/research/slam_based_deployment/</guid>
       <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
 </description>
     </item>
