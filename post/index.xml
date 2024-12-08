@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | C. Girerd</title>
-    <link>https://cgirerd.github.io/post/</link>
-      <atom:link href="https://cgirerd.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
       <title>Latest News</title>
-      <link>https://cgirerd.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
-      <title>💼 Open PhD Position</title>
-      <link>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</link>
+      <title>💼 Open PhD Position in Soft and Inflatable Robotics</title>
+      <link>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</guid>
+      <guid>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</guid>
       <description>&lt;p&gt;We have a new open position for a PhD student in soft and inflatable robotics! Apply here: &lt;a href=&#34;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&lt;/a&gt;&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>📊 Presentation of our paper at ICRA@40</title>
-      <link>https://cgirerd.github.io/post/24-09-23-icra40/</link>
+      <link>http://localhost:1313/post/24-09-23-icra40/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/24-09-23-icra40/</guid>
-      <description>&lt;p&gt;It was a pleasure to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session. Check it out!&lt;/p&gt;
+      <guid>http://localhost:1313/post/24-09-23-icra40/</guid>
+      <description>&lt;p&gt;It was a pleasure to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session. Check it out!&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>📊 Presentation at the Hong Kong AI and Robotics Forum for Healthcare</title>
-      <link>https://cgirerd.github.io/post/24-03-29-hong-kong/</link>
+      <link>http://localhost:1313/post/24-03-29-hong-kong/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/24-03-29-hong-kong/</guid>
+      <guid>http://localhost:1313/post/24-03-29-hong-kong/</guid>
       <description>&lt;p&gt;Very pleased to have participated to the Hong Kong AI and Robotics Forum for Healthcare and met with the local robotics community.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>📊 Presentation of our paper at the MARSS conference</title>
-      <link>https://cgirerd.github.io/post/24-07-01-marss/</link>
+      <link>http://localhost:1313/post/24-07-01-marss/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/24-07-01-marss/</guid>
-      <description>&lt;p&gt;Very pleased to have presented part of our work from our paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
+      <guid>http://localhost:1313/post/24-07-01-marss/</guid>
+      <description>&lt;p&gt;Very pleased to have presented part of our work from our paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>📊 Presentation at the Susan Calvin Colloquium</title>
-      <link>https://cgirerd.github.io/post/23-10-19-susan-calvin/</link>
+      <link>http://localhost:1313/post/23-10-19-susan-calvin/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/23-10-19-susan-calvin/</guid>
+      <guid>http://localhost:1313/post/23-10-19-susan-calvin/</guid>
       <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations. My presentation can be viewed here (in French): 
 
     
@@ -66,9 +66,9 @@
     
     <item>
       <title>🧪 Open Lab Days at LIRMM</title>
-      <link>https://cgirerd.github.io/post/23-10-15-open-days/</link>
+      <link>http://localhost:1313/post/23-10-15-open-days/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/23-10-15-open-days/</guid>
+      <guid>http://localhost:1313/post/23-10-15-open-days/</guid>
       <description>&lt;p&gt;It was Open Lab Days this Saturday on campus! It was a pleasure to have so many visitors, of any age, who wanted to learn more about our activities. Looking forward to the 2024 session!&lt;/p&gt;</description>
     </item>
     
