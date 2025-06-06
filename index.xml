@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Girerd</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Girerd</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <title>C. Girerd</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tip-Growing Robots</title>
+      <link>http://localhost:1313/databases/tip_growing_robots/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/databases/tip_growing_robots/</guid>
+      <description>&lt;p class=&#34;text-center&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/tip-growing-robots-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 450px;&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;This web page is a resource on tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&lt;/a&gt;.
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/al_harthy24tro/specifications.html&#34;&gt;&lt;strong&gt;Tip-Growing Robots - Specifications&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/al_harthy24tro/features_and_limitations.html&#34;&gt;&lt;strong&gt;Tip-Growing Robots - Proposed features and limitations&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the lab, Marouane!</title>
+      <link>http://localhost:1313/post/25-03-03-marouane-haouas/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/25-03-03-marouane-haouas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/author/marouane-haouas/&#34;&gt;Marouane Haouas&lt;/a&gt; is joining us for his Master 2 internship.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the lab, Juliana!</title>
+      <link>http://localhost:1313/post/25-02-17-juliana-dreyer/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/25-02-17-juliana-dreyer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/author/juliana-dreyer/&#34;&gt;Juliana Dreyer&lt;/a&gt; is joining us for her PhD.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
+      <link>http://localhost:1313/publication/giri25tmech/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giri25tmech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Master 2 / Engineer internship position</title>
+      <link>http://localhost:1313/post/24-12-16-internship/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-12-16-internship/</guid>
+      <description>&lt;p&gt;We have a new open position for a Master 2 / Engineer internship position. Details are available by following this link: &lt;a href=&#34;https://newsletter.gdr-robotique.org/?n=45ec97a4b45509cf167f742a9c1805cf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://newsletter.gdr-robotique.org/?n=45ec97a4b45509cf167f742a9c1805cf&lt;/a&gt;. Interested candidates can apply by sending a cover letter and a CV/résumé to the following email addresses: &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt; et &lt;a href=&#34;mailto:philippe.poignet@lirmm.fr&#34;&gt;philippe.poignet@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open PhD Position in Soft and Inflatable Robotics</title>
+      <link>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</guid>
+      <description>&lt;p&gt;We have a new open position for a PhD student in soft and inflatable robotics. Apply here: &lt;a href=&#34;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&lt;/a&gt;&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Presentation of our paper at ICRA@40</title>
+      <link>http://localhost:1313/post/24-09-23-icra40/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-09-23-icra40/</guid>
+      <description>&lt;p&gt;It was great to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
+      <link>http://localhost:1313/publication/benoist24cras/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/benoist24cras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
+      <link>http://localhost:1313/publication/lin24tbme/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin24tbme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at the Hong Kong AI and Robotics Forum for Healthcare</title>
+      <link>http://localhost:1313/post/24-03-29-hong-kong/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-03-29-hong-kong/</guid>
+      <description>&lt;p&gt;Very pleased to have participated to the Hong Kong AI and Robotics Forum for Healthcare and met with the local robotics community.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Presentation of our paper at the MARSS conference</title>
+      <link>http://localhost:1313/post/24-07-01-marss/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/24-07-01-marss/</guid>
+      <description>&lt;p&gt;Happy to have presented our paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
+      <link>http://localhost:1313/publication/girerd24tro/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd24tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
+      <link>http://localhost:1313/publication/dunn23optimization/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at the Susan Calvin Colloquium</title>
+      <link>http://localhost:1313/post/23-10-19-susan-calvin/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/23-10-19-susan-calvin/</guid>
+      <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations. My presentation can be viewed here (in French): 
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0tJdEbvVKAg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+&lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Lab Days at LIRMM</title>
+      <link>http://localhost:1313/post/23-10-15-open-days/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/23-10-15-open-days/</guid>
+      <description>&lt;p&gt;It was Open Lab Days this Saturday on campus! It was a pleasure to have so many visitors, of any age, who wanted to learn more about our activities. Looking forward to the 2024 session!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image-based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots via Differentiable Rendering</title>
+      <link>http://localhost:1313/publication/lu23icra/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lu23icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTR Prototyping</title>
+      <link>http://localhost:1313/databases/ctr_prototyping/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/databases/ctr_prototyping/</guid>
+      <description>&lt;p class=&#34;text-center&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/ctr-prototyping-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 500px;&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://doi.org/10.1109/TRO.2023.3255512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TRO.2023.3255512&lt;/a&gt;.
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/actuation_units.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Actuation Units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/tubes_single_arm.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Tube Sets - Single Arm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/tubes_multi_arm.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Tube Sets - Multi Arm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ForceSticker: Wireless, Batteryless, Thin &amp; Flexible Force Sensors</title>
+      <link>http://localhost:1313/publication/gupta23acm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gupta23acm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
+      <link>http://localhost:1313/publication/nwafor22tro/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nwafor22tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/anr-jcjc-extract/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/anr-jcjc-extract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>http://localhost:1313/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3-D Haptic Trackball Interface for Teleoperating Continuum Robots</title>
+      <link>http://localhost:1313/publication/xie22biorob/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xie22biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
+      <link>http://localhost:1313/publication/giri22biorob/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giri22biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
+      <link>http://localhost:1313/publication/lin22tro/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin22tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering</title>
+      <link>http://localhost:1313/publication/park22ral/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/park22ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
+      <link>http://localhost:1313/publication/nguyen21ral/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nguyen21ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
+      <link>http://localhost:1313/publication/gupta22getmobile/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
+      <link>http://localhost:1313/publication/girerd21sensors/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd21sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
+      <link>http://localhost:1313/publication/gupta21nsdi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gupta21nsdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery</title>
+      <link>http://localhost:1313/publication/girerd20tro/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd20tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
+      <link>http://localhost:1313/publication/girerd20tmrb/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd20tmrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
+      <link>http://localhost:1313/publication/girerd19jmr/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd19jmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>http://localhost:1313/publication/girerd20ral/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd20ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>http://localhost:1313/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
+      <link>http://localhost:1313/publication/girerd18abme/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd18abme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception de robots à tubes concentriques et application à l&#39;inspection des cellules olfactives</title>
+      <link>http://localhost:1313/publication/girerd18phdthesis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd18phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
+      <link>http://localhost:1313/publication/girerd17surgetica/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd17surgetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment</title>
+      <link>http://localhost:1313/publication/girerd17iros/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd17iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>http://localhost:1313/publication/girerd16ark/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd16ark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
+      <link>http://localhost:1313/publication/girerd16jjcr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd16jjcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration</title>
+      <link>http://localhost:1313/publication/girerd16cras/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd16cras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Low-Cost Robotic System for the Efficient Visual Inspection of Tunnels</title>
+      <link>http://localhost:1313/publication/stent15isarc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stent15isarc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ctr_prototyping_resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ctr_prototyping_resources/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/ctr_prototyping&#39;&#34; /&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/al_harthy24tro/features_and_limitations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/al_harthy24tro/features_and_limitations/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta content=&#34;width=device-width, initial-scale=1, shrink-to-fit=no&#34; name=&#34;viewport&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Tip-growing robots - Proposed features and limitations&lt;/title&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;Derek Eder&#34;&gt;
+    &lt;meta content=&#34;Display any CSV file as a searchable, filterable, pretty HTML table&#34;&gt;
+
+    &lt;!-- Bootstrap core CSS --&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&#34; integrity=&#34;sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS&#34;
+        crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css&#34;&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;main class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;h1&gt;Tip-growing robots - Proposed features and limitations&lt;/h1&gt;
+
+                &lt;p&gt;This web page is a resource on the tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis.&lt;br&gt;
+                For any request, please send an email to &lt;a href = &#34;mailto: cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;br&gt;&lt;br&gt;
+				&lt;b&gt;Publication types:&lt;/b&gt; T: Theory, G: General and applications, S: Steering, sensing and tooltip, A: Actuation design&lt;/p&gt;
+
+                &lt;div id=&#34;table-container&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+        &lt;footer class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;hr&gt;
+                &lt;p class=&#34;text-right&#34;&gt;&lt;a href=&#34;https://github.com/derekeder/csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/a&gt; by
+                    &lt;a href=&#34;http://derekeder.com&#34;&gt;Derek
+                        Eder&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.3.1.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/jquery.csv.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/csv_to_html_table.js&#34;&gt;&lt;/script&gt;
+
+    &lt;script&gt;
+        function format_link(link) {
+            if (link)
+                return &#34;&lt;a href=&#39;&#34; + link + &#34;&#39; target=&#39;_blank&#39;&gt;&#34; + link + &#34;&lt;/a&gt;&#34;;
+            else return &#34;&#34;;
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: &#34;data/features_and_limitations_updated_2025_04.csv&#34;,
+            element: &#34;table-container&#34;,
+            allow_download: true,
+            csv_options: {
+                separator: &#34;,&#34;,
+                delimiter: &#39;&#34;&#39;
+            },
+            datatables_options: {
+                paging: false,
+				ordering: true,
+				order: [[0, &#39;desc&#39;]]
+            },
+            custom_formatting: [
+                [5, format_link]
+            ]
+        });
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/al_harthy24tro/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/al_harthy24tro/readme/</guid>
+      <description>&lt;h1 id=&#34;csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/h1&gt;
+&lt;p&gt;Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.&lt;/p&gt;
+&lt;p&gt;Check out the working demo: &lt;a href=&#34;https://csv-to-html-table.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://csv-to-html-table.netlify.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://user-images.githubusercontent.com/919583/112696463-d7ddd000-8e53-11eb-8f0e-084794450943.png&#34; alt=&#34;Screen Shot 2021-03-26 at 4 53 39 PM&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+&lt;h4 id=&#34;1-clone-this-repository-in-the-command-line&#34;&gt;1. Clone this repository (in the command line)&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone git@github.com:derekeder/csv-to-html-table.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; csv-to-html-table
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;2-add-your-csv-file-to-the-data-folder&#34;&gt;2. Add your CSV file to the &lt;code&gt;data/&lt;/code&gt; folder&lt;/h4&gt;
+&lt;h4 id=&#34;3-in-indexhtml-set-your-options-in-the-csvtohtmltableinit-function&#34;&gt;3. In &lt;code&gt;index.html&lt;/code&gt; set your options in the &lt;code&gt;CsvToHtmlTable.init()&lt;/code&gt; function&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;CsvToHtmlTable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;init&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;csv_path&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;data/Health Clinics in Chicago.csv&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;element&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;table-container&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;allow_download&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;csv_options&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;separator&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;delimiter&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;&amp;#34;&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;datatables_options&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;paging&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;available-options&#34;&gt;Available options&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;csv_path&lt;/code&gt; Path to your CSV file.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;element&lt;/code&gt; The HTML element to render your table to. Defaults to &lt;code&gt;table-container&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;allow_download&lt;/code&gt; if true, shows a link to download the CSV file. Defaults to &lt;code&gt;false&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;csv_options&lt;/code&gt; jQuery CSV configuration. Use this if you want to use a custom &lt;code&gt;delimiter&lt;/code&gt; or &lt;code&gt;separator&lt;/code&gt; in your input file. See &lt;a href=&#34;https://code.google.com/p/jquery-csv/wiki/API#$.csv.toArrays%28%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;their documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;datatables_options&lt;/code&gt; DataTables configuration. See &lt;a href=&#34;http://datatables.net/reference/option/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;their documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;custom_formatting&lt;/code&gt; &lt;strong&gt;New!&lt;/strong&gt; A list of column indexes and custom functions to format your data (see below)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;custom-formatting&#34;&gt;Custom formatting&lt;/h5&gt;
+&lt;p&gt;If you want to do custom formatting for one or more column, you can pass in an array of arrays containing the index of the column and a custom function for formatting it. You can pass in multiple formatters and they will be executed in order.&lt;/p&gt;
+&lt;p&gt;The custom functions must take in one parameter (the value in the cell) and return a HTML string:&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;c1&#34;&gt;//my custom function that creates a hyperlink
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;kd&#34;&gt;function&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;format_link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;){&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;lt;a href=&amp;#39;&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;link&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#39; target=&amp;#39;_blank&amp;#39;&amp;gt;&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;link&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;lt;/a&amp;gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;else&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;c1&#34;&gt;//initializing the table
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;nx&#34;&gt;CsvToHtmlTable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;init&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;csv_path&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;data/Health Clinics in Chicago.csv&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;element&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;table-container&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;allow_download&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;csv_options&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;separator&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;delimiter&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;&amp;#34;&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;datatables_options&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;paging&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nx&#34;&gt;custom_formatting&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;format_link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]]&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;//execute the function on the 4th column of every row
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;p&#34;&gt;});&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that you should take care about HTML escaping to avoid &lt;a href=&#34;https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XSS&lt;/a&gt; or broken layout.
+jQuery has a nice function &lt;a href=&#34;https://api.jquery.com/text/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;text()&lt;/a&gt; which safely escapes HTML from value.&lt;/p&gt;
+&lt;h4 id=&#34;4-run-it&#34;&gt;4. Run it&lt;/h4&gt;
+&lt;p&gt;You can run this locally using this handy python command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python -m SimpleHTTPServer
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&amp;hellip;or with Python 3:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;python -m http.server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;navigate to http://localhost:8000/&lt;/p&gt;
+&lt;h4 id=&#34;5-deploy-it&#34;&gt;5. Deploy it&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;GitHub pages&lt;/strong&gt; You can host your table on GitHub pages for free! Once you&amp;rsquo;ve made all your changes and committed them, push everything in the &lt;code&gt;master&lt;/code&gt; branch to &lt;code&gt;gh-pages&lt;/code&gt; which automatically enables GitHub pages.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin master:gh-pages
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then navigate to &lt;a href=&#34;http://your-github-username.github.io/csv-to-html-table/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://your-github-username.github.io/csv-to-html-table/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read more on working with &lt;a href=&#34;https://help.github.com/articles/user-organization-and-project-pages/#project-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub pages projects&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Web server&lt;/strong&gt; This project should work on any web server. Upload this entire project (including all the &lt;code&gt;css&lt;/code&gt;, &lt;code&gt;data&lt;/code&gt;, &lt;code&gt;fonts&lt;/code&gt; and &lt;code&gt;js&lt;/code&gt; folders) to a public folder on your server using FTP.&lt;/p&gt;
+&lt;h4 id=&#34;6-iframe-it-optional&#34;&gt;6. iframe it (optional)&lt;/h4&gt;
+&lt;p&gt;Want to embed your nifty table on your website? You can use an &lt;a href=&#34;http://www.w3schools.com/tags/tag_iframe.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iframe&lt;/a&gt;. Once you&amp;rsquo;ve deployed your table (above in step 5) you can link to it in an iframe right in your HTML.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;iframe&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;border-style: none;&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;http://derekeder.github.io/csv-to-html-table/&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;height&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;950&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;width&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;600&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;iframe&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;dependencies&#34;&gt;Dependencies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap 4&lt;/a&gt; - Responsive HTML, CSS and Javascript framework&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jquery.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery&lt;/a&gt; - a fast, small, and feature-rich JavaScript library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/evanplaice/jquery-csv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery CSV&lt;/a&gt; - Parse CSV (Comma Separated Values) to Javascript arrays or dictionaries.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://datatables.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DataTables&lt;/a&gt; - add advanced interaction controls to any HTML table.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;common-issuestroubleshooting&#34;&gt;Common issues/troubleshooting&lt;/h2&gt;
+&lt;p&gt;If your table isn&amp;rsquo;t displaying any data, try the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use the &lt;a href=&#34;https://developers.google.com/chrome-developer-tools/docs/console&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chrome developer console&lt;/a&gt; or install &lt;a href=&#34;http://getfirebug.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firebug&lt;/a&gt; for FireFox. This will allow you to debug your javascript.&lt;/li&gt;
+&lt;li&gt;Open your table in the browser and open the javascript console
+&lt;ul&gt;
+&lt;li&gt;Chrome developer console on a Mac: Option+Command+J&lt;/li&gt;
+&lt;li&gt;Chrome developer console on a PC: Control+Shift+J&lt;/li&gt;
+&lt;li&gt;Firebug in Firefox: Tools =&amp;gt; Web Developer =&amp;gt; Firebug =&amp;gt; Open Firebug)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If you do see javascript errors, the error will tell you what line it is failing on. Best to start by going there!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;errors--bugs&#34;&gt;Errors / Bugs&lt;/h2&gt;
+&lt;p&gt;If something is not behaving intuitively, it is a bug, and should be reported.
+Report it here: &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/derekeder/csv-to-html-table/issues&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;contributors&#34;&gt;Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://derekeder.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derek Eder&lt;/a&gt; - primary contributor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ychaouche&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ychaouche&lt;/a&gt; - &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/pull/30&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;javascript tag fixes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/b-meson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freddy Martinez&lt;/a&gt; - &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/pull/17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;localized javascript libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stokito&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sergey Ponomarev&lt;/a&gt; - &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/pull/60&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSV escaped in HTML output&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/djibe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;djibe&lt;/a&gt; - &lt;a href=&#34;https://github.com/djibe/csv-to-html-table&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap 4 and latest DataTables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;note-on-patchespull-requests&#34;&gt;Note on Patches/Pull Requests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fork the project.&lt;/li&gt;
+&lt;li&gt;Make your feature addition or bug fix.&lt;/li&gt;
+&lt;li&gt;Send a pull request. Bonus points for topic branches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;copyright&#34;&gt;Copyright&lt;/h2&gt;
+&lt;p&gt;Copyright (c) 2018 Derek Eder. Released under the &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/al_harthy24tro/specifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/al_harthy24tro/specifications/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&#34;utf-8&#34;&gt;
+    &lt;meta content=&#34;width=device-width, initial-scale=1, shrink-to-fit=no&#34; name=&#34;viewport&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;title&gt;Tip-growing robots - Specifications&lt;/title&gt;
+    &lt;meta name=&#34;author&#34; content=&#34;Derek Eder&#34;&gt;
+    &lt;meta content=&#34;Display any CSV file as a searchable, filterable, pretty HTML table&#34;&gt;
+
+    &lt;!-- Bootstrap core CSS --&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&#34; integrity=&#34;sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS&#34;
+        crossorigin=&#34;anonymous&#34;&gt;
+    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css&#34;&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;div class=&#34;container-fluid&#34;&gt;
+        &lt;main class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;h1&gt;Tip-growing robots - Specifications&lt;/h1&gt;
+
+                &lt;p&gt;This web page is a resource on the tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis.&lt;br&gt;
+                For any request, please send an email to &lt;a href = &#34;mailto: cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;br&gt;&lt;br&gt;
+		    &lt;b&gt;Publication types:&lt;/b&gt; T: Theory, G: General and applications, S: Steering, sensing and tooltip, A: Actuation design&lt;/p&gt;
+
+                &lt;div id=&#34;table-container&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/main&gt;
+        &lt;footer class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col&#34;&gt;
+                &lt;hr&gt;
+                &lt;p class=&#34;text-right&#34;&gt;&lt;a href=&#34;https://github.com/derekeder/csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/a&gt; by
+                    &lt;a href=&#34;http://derekeder.com&#34;&gt;Derek
+                        Eder&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/footer&gt;
+    &lt;/div&gt;
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.3.1.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/jquery.csv.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js&#34;&gt;&lt;/script&gt;
+    &lt;script src=&#34;js/csv_to_html_table.js&#34;&gt;&lt;/script&gt;
+
+    &lt;script&gt;
+        function format_link(link) {
+            if (link)
+                return &#34;&lt;a href=&#39;&#34; + link + &#34;&#39; target=&#39;_blank&#39;&gt;&#34; + link + &#34;&lt;/a&gt;&#34;;
+            else return &#34;&#34;;
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: &#34;data/specifications_updated_2025_04.csv&#34;,
+            element: &#34;table-container&#34;,
+            allow_download: true,
+            csv_options: {
+                separator: &#34;,&#34;,
+                delimiter: &#39;&#34;&#39;
+            },
+            datatables_options: {
+                paging: false,
+				ordering: true,
+				order: [[0, &#39;desc&#39;]]
+            },
+            custom_formatting: [
+                [10, format_link]
+            ]
+        });
+    &lt;/script&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/tip_growing_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tip_growing_robots/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/tip_growing_robots&#39;&#34; /&gt;</description>
+    </item>
+    
+    <item>
+      <title>Concentric Tube Robot Design Optimization</title>
+      <link>http://localhost:1313/research/ctr_design_optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ctr_design_optimization/</guid>
+      <description>&lt;p&gt;Concentric tube robots have a large number of design variables, which is often reduced in order for design optimization problems to be tractable by gradient-free approaches. However, this reduces the design space of the robots, which can lead to sub-optimal results. To overcome those limitations, we propose a design optimization problem formulation compatible with grandient-based methods, allowing us to explore a larger design space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>http://localhost:1313/research/ftl_deployment_of_ctr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ftl_deployment_of_ctr/</guid>
+      <description>&lt;p&gt;The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hand-Held and Portable Continuum Robots</title>
+      <link>http://localhost:1313/research/hand_held_and_portable_cr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/hand_held_and_portable_cr/</guid>
+      <description>&lt;p&gt;The standard-of-care involves a range of affordable, manual, hand-held rigid tools, with limited dexterity. In contrast, roboticized tools with increased accessibility and dexterity are usually larger, heavier, grounded devices that are teleoperated, posing a new set of challenges. To bridge the gap between those classes of devices, we propose a hand-held concentric tube robot that has the dexterity and precision of large roboticized devices, while maintaining the footprint of a traditional hand-held tool.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vine Growing Robots</title>
+      <link>http://localhost:1313/research/vine_growing_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/vine_growing_robots/</guid>
+      <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or &amp;ldquo;vine&amp;rdquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visual SLAM-Based Deployment</title>
+      <link>http://localhost:1313/research/slam_based_deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/slam_based_deployment/</guid>
+      <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Sensors</title>
+      <link>http://localhost:1313/research/wireless_sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/wireless_sensors/</guid>
+      <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

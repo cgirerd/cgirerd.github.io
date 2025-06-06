@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLAM-Based Deployment | C. Girerd</title>
+    <link>http://localhost:1313/tag/slam-based-deployment/</link>
+      <atom:link href="http://localhost:1313/tag/slam-based-deployment/index.xml" rel="self" type="application/rss+xml" />
+    <description>SLAM-Based Deployment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <title>SLAM-Based Deployment</title>
+      <link>http://localhost:1313/tag/slam-based-deployment/</link>
+    </image>
+    
+    <item>
+      <title>Visual SLAM-Based Deployment</title>
+      <link>http://localhost:1313/research/slam_based_deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/slam_based_deployment/</guid>
+      <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

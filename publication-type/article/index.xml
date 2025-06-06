@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | C. Girerd</title>
+    <link>http://localhost:1313/publication-type/article/</link>
+      <atom:link href="http://localhost:1313/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <title>Article</title>
+      <link>http://localhost:1313/publication-type/article/</link>
+    </image>
+    
+    <item>
+      <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
+      <link>http://localhost:1313/publication/gupta22getmobile/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>http://localhost:1313/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
+      <link>http://localhost:1313/publication/girerd17surgetica/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd17surgetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
+      <link>http://localhost:1313/publication/girerd16jjcr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/girerd16jjcr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

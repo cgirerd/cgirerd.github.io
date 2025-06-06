@@ -1,0 +1,71 @@
+Reference,Paper type,Features,Limitations
+https://doi.org/10.1109/TRO.2021.3115230,T,"Allows actuation between two shapes, Used to shape helical tendon paths",Non-linear buckling and wrinkling buckled point has lower stiffness than rest of tube
+https://doi.org/10.1109/LCSYS.2022.3175385,T,"Nonlinear controller achieves consistent regulation with no overshoot, Observer compensates effect of external forces",Larger diameters require higher control effort
+https://doi.org/10.1109/ICRA46639.2022.9811611,T,"Four discrete joints optimised to achieve four different targets, Joint angle is controlled by varying the stiffness (via layer jamming)",Limited rotation and bending
+https://doi.org/10.1109/LRA.2022.3153724,G,"Develops pitch-up motion based on heat welding, Maintains bending shape, Variable stiffness (via heat welding)",Weight at robot tip limits mobility
+https://doi.org/10.3389/frobt.2022.838913,S,"Branching improved reachability and enabled anchoring, Pouch anchoring reduces friction effects",Limited by internal friction and head-on collisions
+https://doi.org/10.1109/MERCon55799.2022.9906266,S,"sPAM divided into groups, instead of single series, This sPAM arrangement decreased bending angle",Asymmetry in sPAM configuration lead to variance in RS and LS steering
+https://doi.org/10.1073/pnas.2201776119,A,"Growth achieved via local photopolymerisation to solidify monomer solution before it exits illuminated region, Tuning chemistry allows for varying mechanical and physical properties","Growth timescale limited to light source positioning, Growth length limited by available monomer volume"
+https://doi.org/10.1109/mn55117.2022.9887783,S,Thermocouple wire everts with robot body,-
+https://doi.org/10.1109/INSCIT55544.2022.9913747,S, Thermocouple wire everts with robot body,-
+https://doi.org/10.20965/jrm.2022.p0234,S,Branching at arbitrary points using self-healing material,Self-healing reduces time response of system
+https://doi.org/10.1109/LRA.2022.3221340,S,Inserts multi-joint links into structure to increase rigidity and payload capacity,"Can only move along Z- axis, Rigid links limit aperture size robot can pass through"
+https://doi.org/10.1007/978-3-031-15928-2_106,S,Larger fPAM diameter and denser material types maximise robot curvature,Effect of friction and tension on results not considered
+https://doi.org/10.1109/IROS47612.2022.9981430,T,Representation split into spatial curve to describe geometry and kinematic curve to approximate spatial curve,Workspace volume decreases as number of segments is increased
+https://doi.org/10.1002/aisy.202200264,A,"Fabricated with hyperelastic material (latex), Bulging and shape-locking capabilities","Viscoelastic properties of latex limit repeatability, Risk of bursting"
+https://doi.org/10.1109/LRA.2023.3234823,T,"10-20 \% error between simulation and experimental results for curvature values, First physics-based model for tendon-driven growing robots","Eversion unstable at large time steps, High eversion velocity leads to buckling"
+https://doi.org/10.1109/IROS47612.2022.9981273,S,"Tactile curvature sensors integrated onto pouches and distributed along body, Uniform stiffness along length of robot (as opposed to attaching sensors directly causing stiffness mismatch)","Noise corrupts sensor measurements, so many measurements are needed for sufficient curvature sensing performance"
+Kubler2022ASteering,A,"Novel cPAM steering- Each pouch selectively actuated at tip, High DoF using with few control inputs",Functionality depends on manufacturing methods - limited by human skills and 3d printing resolution
+http://arxiv.org/abs/2301.07362,S,"Sensing-control-actuation loops embedded within sPAMs to steer robot towards heat source, Localised actuator response",Slow response
+https://doi.org/10.1109/ICRA48506.2021.9561873,A,"High manoeuvring and bending capability, Sharp bending, Stiffness control (by controlling pouch and main chamber pressure)",Continuously changing shape limits control
+https://doi.org/10.1109/LRA.2021.3068676,G,Miniaturised growing element,"Poor pressure resistance, High internal friction"
+https://doi.org/10.1109/RoboSoft51838.2021.9479345,S,"Senses environment around (temperature, humidity) and within (stiffness) the robot, Allows for shape reconstruction of robot",Sensor protection equipment limits bending
+https://doi.org/10.1109/LRA.2021.3073653,S,"Selectable extension direction, Retractable function","Requires larger container / space, Risk of tube deformation at increased lengths"
+https://doi.org/10.1109/LRA.2021.3072858,S,"High reachability and large workspace, Permits retraction and Limited by pressure, reducing growth speed","Unable to fit through gaps smaller than diameter, Additional weight makes it difficult to pass through gaps"
+https://doi.org/10.1109/LRA.2021.3068936,S,"Origami inspired material feeding tooltip mechanism, Camera remains at tip during steering",Vision segmentation and pressure regulation lead to delays
+https://doi.org/10.1109/RoboSoft51838.2021.9479192,G,"Enables shape change and steerability, Portable, decentralised pressure supply","Cannot direct motion properly in open spaces, Rigid head reduces shrinking capability"
+https://doi.org/10.1109/IROS51168.2021.9636697,S,"Internal camera mount tooltip mechanism, Can pass through apertures smaller than its diameter","Actuator force limited by strain, Limited change in orientation"
+https://doi.org/10.1126/scirobotics.eabe2922,G,"Tip extension reduces drag, Force modulation and control","Can only be used for shallow soil depths, Lift force eventually saturates"
+https://doi.org/10.1109/LRA.2020.2972890,T,"Real-time autonomous position and orientation control, Does not require map of environment","Limited applications- magnetic sensors need to be placed in workspace, Limited accuracy"
+https://doi.org/10.1109/RoboSoft51838.2021.9479220,S,"Sensorised head, Light sensing capability",Only senses certain wavelengths of light
+https://doi.org/10.1109/TMRB.2021.3069984,G,"Millimetre scale, Improved bending and navigation compared to conventional catheter","Requires manual labour, User needs to orient the tip manually"
+https://doi.org/10.1109/ICRA48506.2021.9561420,T,"Simulator runs in real time and handles environmental interactions, Amendable to motion planning",Limited by computational constraints
+http://arxiv.org/abs/2108.00677,T,Shared autonomy between human and operator to increase situational awareness,Human lacks autonomy during retraction
+https://doi.org/10.1109/MetroInd4.0IoT51437.2021.9488477,S,Enables remote measurement tasks and sensor delivery,Complex motion analysis
+https://doi.org/10.1109/ICRA40945.2020.9197311,A,"More reachable than non-locking robot within the workspace, Multiple curvatures and configurations","Manipulation only in two dimensions, Adding more tendons increases friction"
+https://doi.org/10.1109/ICRA40945.2020.9196587,S,"Predicts interaction forces, Variation of air pressure in muscle actuators changes flexural rigidity","Deformation can occur from variation of air pressure, transforming wrinkling to bending or vice versa"
+https://doi.org/10.1109/TMECH.2020.2999467,A,"Shape can be varied by changing inner pressure, Stable due to heat welding","Needs a wall to bend around, One DOF less than other steerable robots"
+https://doi.org/10.1109/LRA.2020.2970629,S,"Does not disturb the environment during growth, Prevents buckling during retraction","Requires stronger steering actuators, Rigid retraction device limits gap sizes robot can pass through"
+https://doi.org/10.1109/LRA.2020.2976309,A,"Low hysteresis, Ability to fold when depressurised","Limited contraction, Limited to simple movements"
+https://doi.org/10.1109/IROS45743.2020.9341785,T,"Variable stiffness (by varying pressure of pouches), 3 DOF manipulator","Limited control, Trade-off between safety and accuracy"
+https://doi.org/10.1177/0278364920903774,S,Uses obstacle interaction for navigation,"Limited growth, Inaccurate tip predictions for multiple obstacle interactions"
+https://doi.org/10.1115/1.4046433,G,"Reduces insertion force and rubbing, therefore reducing intestinal damage",Requires high user skill level
+https://doi.org/10.1109/ICRA40945.2020.9197237,A,"Distributed stiffness control (via layer jamming), Controls/ prevents buckling",Jamming may affect tube inflation
+https://doi.org/10.1109/IROS45743.2020.9340950,S,"Tip mount remains at robot tip during retraction, Incorporates retraction without buckling","Additional weight at tip reduces maneuverability, Rigid outer cap so it can't pass through small apertures"
+https://doi.org/10.1109/LRA.2020.2976326,T,"Variable stiffness (by varying internal pressure), Can control tip's position and orientation",Inaccurate kinematic model- does not consider friction and there is a limited number of sensors used
+https://doi.org/10.1109/ACCESS.2020.3041616,T,Enables closed-loop control of robot,Limited by irreversible growing and actuation constraints
+https://doi.org/10.1109/LRA.2020.3019736,S,"Water is used as internal fluid to increase ground pressure, Retracting motion using hydrostatic skeleton",Increased weight of internal fluid restricts maneuverability
+https://doi.org/10.1089/soro.2019.0083,G,"Active steering by controlling extension speed, Variable stiffness (controlling tubing pressure)","Limited position control, Not entirely soft"
+https://doi.org/10.1109/ROBOSOFT.2019.8722730,G,"Permits retraction, Corrosion resistant",Ability to withstand hydrostatic stresses
+https://doi.org/10.1109/IROS40897.2019.8968137,S,Model incorporates transverse and axial buckling modes,Model fails to capture coupling between buckles in close proximity
+https://doi.org/10.1109/ROBOSOFT.2019.8722787,A,"Extends when pressure is increased, Low weight and natural compliance",Loss of power collapses whole structure
+http://arxiv.org/abs/1910.13000,T,"Comprises a one DOF gripper, Gesture-based control","Lacks autonomy, Limited tasks"
+https://doi.org/10.1177/0278364919893438,T,"Pressurised tube stiffness, Active steering through independent control of actuator and tendon pressures in 3 DOF","Buckling, Error increases with length"
+https://doi.org/10.1109/MRA.2019.2947538,G,Capability to navigate through small apertures,"Slow growth speed, Lack of shape morphing at tip (due to rigid camera), Unable to retract after growth"
+https://doi.org/10.1109/TRO.2015.2496826,T,Capability to navigate through small apertures,"Slow growth speed, Lack of shape morphing at tip (due to rigid camera), Unable to retract after growth"
+https://doi.org/10.1089/soro.2019.0025,G,"Obstacle avoidance using PLA, without sensory perception or bending control, Bending control",Limited curvature / bending angle
+https://doi.org/10.3389/frobt.2019.00045,T,Global movement split into two paths / trajectories,Noise and curvature affect ability in reaching
+https://doi.org/10.1109/ROBOSOFT.2018.8404927,A,"Helical body grasping possible, High dexterity and workspace",Limited curvature
+Putzu2018,G,"Variable stiffness (by controlling pressure), Elongates linearly","Unable to lengthen at forces greater than 4 N, Lacks control over direction of eversion"
+https://doi.org/10.1109/ICRA.2018.8460777,S,Utilises obstacle collision for open loop navigation,"Erreneous steering, Complex"
+https://doi.org/10.1109/IROS.2018.8593530,G,"Single DOF, Depth can be increased with higher pressure","Device does not pass beyond 4cm, Stops growing when resisting force of medium is greater than the force the robot applies to environment"
+https://doi.org/10.1109/IROS.2018.8593896,S,"Maps human bending commands into movements, Roll-over free capability","Trade-off between DOF controlled by human and accuracy in orientation measurements, Limited workspace in position mode"
+https://doi.org/10.1109/LRA.2018.2793303,G,"Uses single tip-breaking mechanism, Active shape change","Limited to shapes with low surface curvature, Requires manual labour"
+https://doi.org/10.1089/soro.2018.0034,T,"Controlled through decoupled steering, Corrections can be made during growth",Environmental contact as the entire length of the robot body moves during steering
+https://doi.org/10.1109/ROBOSOFT.2018.8404891,T,"Navigates through environment by responding to stimuli, Model can also be used for control and analysis of movement","Melted filament shortens after each deposition, leading to systematic errors"
+https://doi.org/10.1109/IROS.2017.8202154,G,"Variable stiffness (by controlling internal pressure), Reduction in shear and normal forces",Limited steerability
+https://doi.org/10.1080/03091902.2016.1275853,A,"Eliminates friction, Reduces risk of buckling","Performance affected by fluid pressure, Risk of thermal tissue damage"
+https://doi.org/10.1089/soro.2016.0080,G,"Bending capability, Sensing capability","Low resistivity of humidity sensors leads to overheating, Buckling effect limits spring's force"
+https://doi.org/10.1088/1748-3190/12/1/015001,G,"Fast growing speed, PLA changes to ductile phase to permit bending to to follow or avoid stimulus","Growing mechanism becomes unstable at heavier loads, Bending limited by lateral pressure of soil"
+https://doi.org/10.1007/978-3-319-63537-8,T,Quasi-static force balance,"Complex model due to inherent compliance, Apical extension limited to surface area"
+https://doi.org/10.1126/scirobotics.aan3028,S,"Navigates toward light using camera, Directional control",Limited resolution due to closely packed pouches

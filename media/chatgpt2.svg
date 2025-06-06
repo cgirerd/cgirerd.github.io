@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 960 540"
+   width="960"
+   height="540"
+   version="1.1"
+   sodipodi:docname="chatgpt2.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.52453704"
+     inkscape:cx="350.78552"
+     inkscape:cy="459.45278"
+     inkscape:window-width="1254"
+     inkscape:window-height="1224"
+     inkscape:window-x="2046"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="visual" />
+  <path
+     d="M0 104L87 158L175 125L262 131L349 163L436 163L524 168L611 174L698 136L785 104L873 125L960 147L960 0L873 0L785 0L698 0L611 0L524 0L436 0L349 0L262 0L175 0L87 0L0 0Z"
+     fill="#81DEF8"
+     id="path1"
+     style="fill:#a3b8c4;fill-opacity:1" />
+  <path
+     d="M0 185L87 195L175 212L262 217L349 206L436 239L524 233L611 222L698 185L785 147L873 190L960 190L960 145L873 123L785 102L698 134L611 172L524 166L436 161L349 161L262 129L175 123L87 156L0 102Z"
+     fill="#3B6C88"
+     id="path2"
+     style="fill:#8594a8;fill-opacity:1" />
+  <path
+     d="M0 228L87 249L175 287L262 309L349 303L436 336L524 298L611 282L698 260L785 255L873 287L960 255L960 188L873 188L785 145L698 183L611 220L524 231L436 237L349 204L262 215L175 210L87 193L0 183Z"
+     fill="#69BED7"
+     id="path3"
+     style="fill:#67808c;fill-opacity:1" />
+  <path
+     d="M0 357L87 395L175 347L262 368L349 428L436 449L524 363L611 390L698 352L785 379L873 368L960 401L960 253L873 285L785 253L698 258L611 280L524 296L436 334L349 301L262 307L175 285L87 247L0 226Z"
+     fill="#244B61"
+     id="path4"
+     style="fill:#495c67;fill-opacity:1" />
+  <path
+     d="M0 541L87 541L175 541L262 541L349 541L436 541L524 541L611 541L698 541L785 541L873 541L960 541L960 399L873 366L785 377L698 350L611 388L524 361L436 447L349 426L262 366L175 345L87 393L0 355Z"
+     fill="#529EB0"
+     id="path5"
+     style="fill:#2b3a42;fill-opacity:1" />
+</svg>

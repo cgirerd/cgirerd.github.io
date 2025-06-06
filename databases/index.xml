@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Databases | C. Girerd</title>
+    <link>http://localhost:1313/databases/</link>
+      <atom:link href="http://localhost:1313/databases/index.xml" rel="self" type="application/rss+xml" />
+    <description>Databases</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <title>Databases</title>
+      <link>http://localhost:1313/databases/</link>
+    </image>
+    
+    <item>
+      <title>Tip-Growing Robots</title>
+      <link>http://localhost:1313/databases/tip_growing_robots/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/databases/tip_growing_robots/</guid>
+      <description>&lt;p class=&#34;text-center&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/tip-growing-robots-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 450px;&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;This web page is a resource on tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&lt;/a&gt;.
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/al_harthy24tro/specifications.html&#34;&gt;&lt;strong&gt;Tip-Growing Robots - Specifications&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/al_harthy24tro/features_and_limitations.html&#34;&gt;&lt;strong&gt;Tip-Growing Robots - Proposed features and limitations&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTR Prototyping</title>
+      <link>http://localhost:1313/databases/ctr_prototyping/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/databases/ctr_prototyping/</guid>
+      <description>&lt;p class=&#34;text-center&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/ctr-prototyping-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 500px;&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://doi.org/10.1109/TRO.2023.3255512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TRO.2023.3255512&lt;/a&gt;.
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/actuation_units.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Actuation Units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/tubes_single_arm.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Tube Sets - Single Arm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/tubes_multi_arm.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Tube Sets - Multi Arm&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
