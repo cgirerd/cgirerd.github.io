@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Girerd</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/</link>
+      <atom:link href="https://cgirerd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Girerd</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
       <title>C. Girerd</title>
-      <link>http://localhost:1313/</link>
+      <link>https://cgirerd.github.io/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://cgirerd.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://cgirerd.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -29,11 +29,11 @@
     
     <item>
       <title>Tip-Growing Robots</title>
-      <link>http://localhost:1313/databases/tip_growing_robots/</link>
+      <link>https://cgirerd.github.io/databases/tip_growing_robots/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/databases/tip_growing_robots/</guid>
+      <guid>https://cgirerd.github.io/databases/tip_growing_robots/</guid>
       <description>&lt;p class=&#34;text-center&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/tip-growing-robots-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 450px;&#34;&gt;
+&lt;img src=&#34;https://cgirerd.github.io/tip-growing-robots-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 450px;&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;This web page is a resource on tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kclpure.kcl.ac.uk/ws/portalfiles/portal/293121608/v1.1_arXiv.pdf&lt;/a&gt;.
 &lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/al_harthy24tro/specifications.html&#34;&gt;&lt;strong&gt;Tip-Growing Robots - Specifications&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -44,112 +44,112 @@ For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@li
     
     <item>
       <title>Welcome to the lab, Marouane!</title>
-      <link>http://localhost:1313/post/25-03-03-marouane-haouas/</link>
+      <link>https://cgirerd.github.io/post/25-03-03-marouane-haouas/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/25-03-03-marouane-haouas/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/author/marouane-haouas/&#34;&gt;Marouane Haouas&lt;/a&gt; is joining us for his Master 2 internship.&lt;/p&gt;
+      <guid>https://cgirerd.github.io/post/25-03-03-marouane-haouas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://cgirerd.github.io/author/marouane-haouas/&#34;&gt;Marouane Haouas&lt;/a&gt; is joining us for his Master 2 internship.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Welcome to the lab, Juliana!</title>
-      <link>http://localhost:1313/post/25-02-17-juliana-dreyer/</link>
+      <link>https://cgirerd.github.io/post/25-02-17-juliana-dreyer/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/25-02-17-juliana-dreyer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/author/juliana-dreyer/&#34;&gt;Juliana Dreyer&lt;/a&gt; is joining us for her PhD.&lt;/p&gt;
+      <guid>https://cgirerd.github.io/post/25-02-17-juliana-dreyer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://cgirerd.github.io/author/juliana-dreyer/&#34;&gt;Juliana Dreyer&lt;/a&gt; is joining us for her PhD.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
-      <link>http://localhost:1313/publication/giri25tmech/</link>
+      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri25tmech/</guid>
+      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Master 2 / Engineer internship position</title>
-      <link>http://localhost:1313/post/24-12-16-internship/</link>
+      <link>https://cgirerd.github.io/post/24-12-16-internship/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-12-16-internship/</guid>
+      <guid>https://cgirerd.github.io/post/24-12-16-internship/</guid>
       <description>&lt;p&gt;We have a new open position for a Master 2 / Engineer internship position. Details are available by following this link: &lt;a href=&#34;https://newsletter.gdr-robotique.org/?n=45ec97a4b45509cf167f742a9c1805cf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://newsletter.gdr-robotique.org/?n=45ec97a4b45509cf167f742a9c1805cf&lt;/a&gt;. Interested candidates can apply by sending a cover letter and a CV/résumé to the following email addresses: &lt;a href=&#34;mailto:cedric.girerd@lirmm.fr&#34;&gt;cedric.girerd@lirmm.fr&lt;/a&gt; et &lt;a href=&#34;mailto:philippe.poignet@lirmm.fr&#34;&gt;philippe.poignet@lirmm.fr&lt;/a&gt;.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Open PhD Position in Soft and Inflatable Robotics</title>
-      <link>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</link>
+      <link>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</guid>
+      <guid>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</guid>
       <description>&lt;p&gt;We have a new open position for a PhD student in soft and inflatable robotics. Apply here: &lt;a href=&#34;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&lt;/a&gt;&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Presentation of our paper at ICRA@40</title>
-      <link>http://localhost:1313/post/24-09-23-icra40/</link>
+      <link>https://cgirerd.github.io/post/24-09-23-icra40/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-09-23-icra40/</guid>
-      <description>&lt;p&gt;It was great to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session.&lt;/p&gt;
+      <guid>https://cgirerd.github.io/post/24-09-23-icra40/</guid>
+      <description>&lt;p&gt;It was great to attend ICRA@40, a special event for the anniversary of the ICRA conference, with inspiring talks from world-class researchers. We presented our TRO paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; during an interactive session.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
-      <link>http://localhost:1313/publication/benoist24cras/</link>
+      <link>https://cgirerd.github.io/publication/benoist24cras/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benoist24cras/</guid>
+      <guid>https://cgirerd.github.io/publication/benoist24cras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
-      <link>http://localhost:1313/publication/lin24tbme/</link>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin24tbme/</guid>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation at the Hong Kong AI and Robotics Forum for Healthcare</title>
-      <link>http://localhost:1313/post/24-03-29-hong-kong/</link>
+      <link>https://cgirerd.github.io/post/24-03-29-hong-kong/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-03-29-hong-kong/</guid>
+      <guid>https://cgirerd.github.io/post/24-03-29-hong-kong/</guid>
       <description>&lt;p&gt;Very pleased to have participated to the Hong Kong AI and Robotics Forum for Healthcare and met with the local robotics community.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Presentation of our paper at the MARSS conference</title>
-      <link>http://localhost:1313/post/24-07-01-marss/</link>
+      <link>https://cgirerd.github.io/post/24-07-01-marss/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/24-07-01-marss/</guid>
-      <description>&lt;p&gt;Happy to have presented our paper &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
+      <guid>https://cgirerd.github.io/post/24-07-01-marss/</guid>
+      <description>&lt;p&gt;Happy to have presented our paper &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34;&gt;&amp;ldquo;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&amp;rdquo;&lt;/a&gt; at the MARSS conference and met with the microrobotics community.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
-      <link>http://localhost:1313/publication/girerd24tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd24tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>http://localhost:1313/publication/dunn23optimization/</link>
+      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
+      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation at the Susan Calvin Colloquium</title>
-      <link>http://localhost:1313/post/23-10-19-susan-calvin/</link>
+      <link>https://cgirerd.github.io/post/23-10-19-susan-calvin/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/23-10-19-susan-calvin/</guid>
+      <guid>https://cgirerd.github.io/post/23-10-19-susan-calvin/</guid>
       <description>&lt;p&gt;It was great participating to the Susan Calin colloquium in Toulouse, meet other roboticists and industrials who came to present their last inovations, with many demonstrations. My presentation can be viewed here (in French): 
 
     
@@ -163,27 +163,27 @@ For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@li
     
     <item>
       <title>Open Lab Days at LIRMM</title>
-      <link>http://localhost:1313/post/23-10-15-open-days/</link>
+      <link>https://cgirerd.github.io/post/23-10-15-open-days/</link>
       <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/23-10-15-open-days/</guid>
+      <guid>https://cgirerd.github.io/post/23-10-15-open-days/</guid>
       <description>&lt;p&gt;It was Open Lab Days this Saturday on campus! It was a pleasure to have so many visitors, of any age, who wanted to learn more about our activities. Looking forward to the 2024 session!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Image-based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots via Differentiable Rendering</title>
-      <link>http://localhost:1313/publication/lu23icra/</link>
+      <link>https://cgirerd.github.io/publication/lu23icra/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lu23icra/</guid>
+      <guid>https://cgirerd.github.io/publication/lu23icra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CTR Prototyping</title>
-      <link>http://localhost:1313/databases/ctr_prototyping/</link>
+      <link>https://cgirerd.github.io/databases/ctr_prototyping/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/databases/ctr_prototyping/</guid>
+      <guid>https://cgirerd.github.io/databases/ctr_prototyping/</guid>
       <description>&lt;p class=&#34;text-center&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/ctr-prototyping-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 500px;&#34;&gt;
+&lt;img src=&#34;https://cgirerd.github.io/ctr-prototyping-overview.jpg&#34; alt=&#34;Concept 1&#34; class=&#34;img-fluid&#34; style=&#34;max-width: 500px;&#34;&gt;
 &lt;/p&gt;
 &lt;p&gt;This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of this database, please cite our associated paper &lt;a href=&#34;https://doi.org/10.1109/TRO.2023.3255512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TRO.2023.3255512&lt;/a&gt;.
 &lt;ul&gt;&lt;li&gt;&lt;a href=&#34;../../publication/nwafor22tro/actuation_units.html&#34;&gt;&lt;strong&gt;Concentric Tube Robot Actuation Units&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -195,241 +195,241 @@ For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@li
     
     <item>
       <title>ForceSticker: Wireless, Batteryless, Thin &amp; Flexible Force Sensors</title>
-      <link>http://localhost:1313/publication/gupta23acm/</link>
+      <link>https://cgirerd.github.io/publication/gupta23acm/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta23acm/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta23acm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
-      <link>http://localhost:1313/publication/nwafor22tro/</link>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nwafor22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/anr-jcjc-extract/</link>
+      <link>https://cgirerd.github.io/projects/anr-jcjc-extract/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/anr-jcjc-extract/</guid>
+      <guid>https://cgirerd.github.io/projects/anr-jcjc-extract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://cgirerd.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://cgirerd.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://cgirerd.github.io/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://cgirerd.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:1313/tour/</link>
+      <link>https://cgirerd.github.io/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/</guid>
+      <guid>https://cgirerd.github.io/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A 3-D Haptic Trackball Interface for Teleoperating Continuum Robots</title>
-      <link>http://localhost:1313/publication/xie22biorob/</link>
+      <link>https://cgirerd.github.io/publication/xie22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/xie22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/giri22biorob/</link>
+      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
-      <link>http://localhost:1313/publication/lin22tro/</link>
+      <link>https://cgirerd.github.io/publication/lin22tro/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/lin22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering</title>
-      <link>http://localhost:1313/publication/park22ral/</link>
+      <link>https://cgirerd.github.io/publication/park22ral/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/park22ral/</guid>
+      <guid>https://cgirerd.github.io/publication/park22ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
-      <link>http://localhost:1313/publication/nguyen21ral/</link>
+      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nguyen21ral/</guid>
+      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
-      <link>http://localhost:1313/publication/gupta22getmobile/</link>
+      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
-      <link>http://localhost:1313/publication/girerd21sensors/</link>
+      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd21sensors/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
-      <link>http://localhost:1313/publication/gupta21nsdi/</link>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta21nsdi/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/girerd20tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd20tro/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
-      <link>http://localhost:1313/publication/girerd20tmrb/</link>
+      <link>https://cgirerd.github.io/publication/girerd20tmrb/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20tmrb/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20tmrb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/publication/girerd19jmr/</link>
+      <link>https://cgirerd.github.io/publication/girerd19jmr/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd19jmr/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd19jmr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>http://localhost:1313/publication/girerd20ral/</link>
+      <link>https://cgirerd.github.io/publication/girerd20ral/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20ral/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
-      <link>http://localhost:1313/publication/tavernier19orlcorsica/</link>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tavernier19orlcorsica/</guid>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
-      <link>http://localhost:1313/publication/girerd18abme/</link>
+      <link>https://cgirerd.github.io/publication/girerd18abme/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd18abme/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd18abme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conception de robots à tubes concentriques et application à l&#39;inspection des cellules olfactives</title>
-      <link>http://localhost:1313/publication/girerd18phdthesis/</link>
+      <link>https://cgirerd.github.io/publication/girerd18phdthesis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd18phdthesis/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd18phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
-      <link>http://localhost:1313/publication/girerd17surgetica/</link>
+      <link>https://cgirerd.github.io/publication/girerd17surgetica/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd17surgetica/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd17surgetica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/publication/girerd17iros/</link>
+      <link>https://cgirerd.github.io/publication/girerd17iros/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd17iros/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd17iros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>http://localhost:1313/publication/girerd16ark/</link>
+      <link>https://cgirerd.github.io/publication/girerd16ark/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16ark/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16ark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
-      <link>http://localhost:1313/publication/girerd16jjcr/</link>
+      <link>https://cgirerd.github.io/publication/girerd16jjcr/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16jjcr/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16jjcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration</title>
-      <link>http://localhost:1313/publication/girerd16cras/</link>
+      <link>https://cgirerd.github.io/publication/girerd16cras/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16cras/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16cras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Low-Cost Robotic System for the Efficient Visual Inspection of Tunnels</title>
-      <link>http://localhost:1313/publication/stent15isarc/</link>
+      <link>https://cgirerd.github.io/publication/stent15isarc/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stent15isarc/</guid>
+      <guid>https://cgirerd.github.io/publication/stent15isarc/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://cgirerd.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://cgirerd.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/ctr_prototyping_resources/</link>
+      <link>https://cgirerd.github.io/ctr_prototyping_resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ctr_prototyping_resources/</guid>
+      <guid>https://cgirerd.github.io/ctr_prototyping_resources/</guid>
       <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/ctr_prototyping&#39;&#34; /&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/al_harthy24tro/features_and_limitations/</link>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/features_and_limitations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/al_harthy24tro/features_and_limitations/</guid>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/features_and_limitations/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 
@@ -509,9 +509,9 @@ For any request, please send an email to &lt;a href=&#34;mailto:cedric.girerd@li
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/al_harthy24tro/readme/</link>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/al_harthy24tro/readme/</guid>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/readme/</guid>
       <description>&lt;h1 id=&#34;csv-to-html-table&#34;&gt;CSV to HTML Table&lt;/h1&gt;
 &lt;p&gt;Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.&lt;/p&gt;
 &lt;p&gt;Check out the working demo: &lt;a href=&#34;https://csv-to-html-table.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://csv-to-html-table.netlify.app/&lt;/a&gt;&lt;/p&gt;
@@ -645,9 +645,9 @@ Report it here: &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/i
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/al_harthy24tro/specifications/</link>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/specifications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/al_harthy24tro/specifications/</guid>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/specifications/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 
@@ -727,62 +727,62 @@ Report it here: &lt;a href=&#34;https://github.com/derekeder/csv-to-html-table/i
     
     <item>
       <title></title>
-      <link>http://localhost:1313/tip_growing_robots/</link>
+      <link>https://cgirerd.github.io/tip_growing_robots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tip_growing_robots/</guid>
+      <guid>https://cgirerd.github.io/tip_growing_robots/</guid>
       <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; URL= &#39;https://cgirerd.github.io/resources/tip_growing_robots&#39;&#34; /&gt;</description>
     </item>
     
     <item>
       <title>Concentric Tube Robot Design Optimization</title>
-      <link>http://localhost:1313/research/ctr_design_optimization/</link>
+      <link>https://cgirerd.github.io/research/ctr_design_optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ctr_design_optimization/</guid>
+      <guid>https://cgirerd.github.io/research/ctr_design_optimization/</guid>
       <description>&lt;p&gt;Concentric tube robots have a large number of design variables, which is often reduced in order for design optimization problems to be tractable by gradient-free approaches. However, this reduces the design space of the robots, which can lead to sub-optimal results. To overcome those limitations, we propose a design optimization problem formulation compatible with grandient-based methods, allowing us to explore a larger design space.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>http://localhost:1313/research/ftl_deployment_of_ctr/</link>
+      <link>https://cgirerd.github.io/research/ftl_deployment_of_ctr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ftl_deployment_of_ctr/</guid>
+      <guid>https://cgirerd.github.io/research/ftl_deployment_of_ctr/</guid>
       <description>&lt;p&gt;The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hand-Held and Portable Continuum Robots</title>
-      <link>http://localhost:1313/research/hand_held_and_portable_cr/</link>
+      <link>https://cgirerd.github.io/research/hand_held_and_portable_cr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/hand_held_and_portable_cr/</guid>
+      <guid>https://cgirerd.github.io/research/hand_held_and_portable_cr/</guid>
       <description>&lt;p&gt;The standard-of-care involves a range of affordable, manual, hand-held rigid tools, with limited dexterity. In contrast, roboticized tools with increased accessibility and dexterity are usually larger, heavier, grounded devices that are teleoperated, posing a new set of challenges. To bridge the gap between those classes of devices, we propose a hand-held concentric tube robot that has the dexterity and precision of large roboticized devices, while maintaining the footprint of a traditional hand-held tool.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vine Growing Robots</title>
-      <link>http://localhost:1313/research/vine_growing_robots/</link>
+      <link>https://cgirerd.github.io/research/vine_growing_robots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/vine_growing_robots/</guid>
+      <guid>https://cgirerd.github.io/research/vine_growing_robots/</guid>
       <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or &amp;ldquo;vine&amp;rdquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Visual SLAM-Based Deployment</title>
-      <link>http://localhost:1313/research/slam_based_deployment/</link>
+      <link>https://cgirerd.github.io/research/slam_based_deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/slam_based_deployment/</guid>
+      <guid>https://cgirerd.github.io/research/slam_based_deployment/</guid>
       <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wireless Sensors</title>
-      <link>http://localhost:1313/research/wireless_sensors/</link>
+      <link>https://cgirerd.github.io/research/wireless_sensors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/wireless_sensors/</guid>
+      <guid>https://cgirerd.github.io/research/wireless_sensors/</guid>
       <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
 </description>
     </item>
