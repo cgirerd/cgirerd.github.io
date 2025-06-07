@@ -3,7 +3,7 @@
 <!-- Last Published: June 7, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -62,7 +62,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.703453fb6ae43cd9bf33808f04e0dcce.css" />
 
   
   
@@ -275,8 +275,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/author/philip-a.-weissbrod/" />
-<link rel="canonical" href="http://localhost:1313/author/philip-a.-weissbrod/" />
+<link rel="alternate" hreflang="en-us" href="https://cgirerd.github.io/author/philip-a.-weissbrod/" />
+<link rel="canonical" href="https://cgirerd.github.io/author/philip-a.-weissbrod/" />
 
 
 
@@ -310,7 +310,7 @@
 
   <meta property="twitter:site" content="@GetResearchDev" />
   <meta property="twitter:creator" content="@GetResearchDev" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu14195437154237076119.png" />
+<meta property="twitter:image" content="https://cgirerd.github.io/media/icon_hu14195437154237076119.png" />
 
 
 
@@ -318,9 +318,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="C. Girerd" />
-<meta property="og:url" content="http://localhost:1313/author/philip-a.-weissbrod/" />
+<meta property="og:url" content="https://cgirerd.github.io/author/philip-a.-weissbrod/" />
 <meta property="og:title" content="Philip A. Weissbrod | C. Girerd" />
-<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="http://localhost:1313/media/icon_hu14195437154237076119.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="https://cgirerd.github.io/media/icon_hu14195437154237076119.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta property="og:updated_time" content="2024-07-01T00:00:00&#43;00:00" />
@@ -380,7 +380,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.3da6e4da3411ba4cee4455d9eaba9bf8.js"></script>
 
   
 
@@ -671,11 +671,22 @@
         
         
         
-		<li class="nav-item">
-		<a class="nav-link" href="#" id="theme-toggle" aria-label="Toggle theme">
-			<i id="theme-icon" class="fas fa-moon" aria-hidden="true"></i>
-		</a>
-		</li>
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
         
 
         
@@ -815,41 +826,6 @@
     
   </p>
 </footer>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const icon = document.getElementById("theme-icon");
-    const toggle = document.getElementById("theme-toggle");
-
-    function setTheme(theme) {
-      document.documentElement.setAttribute("data-bs-theme", theme);
-      localStorage.setItem("wcTheme", theme);
-      icon.className = theme === "dark" ? "fas fa-sun" : "fas fa-moon";
-    }
-
-    function getStoredTheme() {
-      return localStorage.getItem("wcTheme") || "auto";
-    }
-
-    function resolveTheme(theme) {
-      if (theme === "dark" || theme === "light") return theme;
-      return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-    }
-
-    function toggleTheme() {
-	  e.preventDefault(); 
-      const currentTheme = resolveTheme(getStoredTheme());
-      const newTheme = currentTheme === "dark" ? "light" : "dark";
-      setTheme(newTheme);
-    }
-
-    
-    const initial = resolveTheme(getStoredTheme());
-    setTheme(initial);
-
-    toggle.addEventListener("click", toggleTheme);
-  });
-</script>
     </div>
     
   </div>
@@ -857,7 +833,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -938,7 +914,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -952,11 +928,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -989,7 +965,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
