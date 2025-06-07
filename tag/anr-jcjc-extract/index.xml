@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anr-Jcjc-Extract | C. Girerd</title>
-    <link>https://cgirerd.github.io/tag/anr-jcjc-extract/</link>
-      <atom:link href="https://cgirerd.github.io/tag/anr-jcjc-extract/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/anr-jcjc-extract/</link>
+      <atom:link href="http://localhost:1313/tag/anr-jcjc-extract/index.xml" rel="self" type="application/rss+xml" />
     <description>Anr-Jcjc-Extract</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu14195437154237076119.png</url>
+      <url>http://localhost:1313/media/icon_hu14195437154237076119.png</url>
       <title>Anr-Jcjc-Extract</title>
-      <link>https://cgirerd.github.io/tag/anr-jcjc-extract/</link>
+      <link>http://localhost:1313/tag/anr-jcjc-extract/</link>
     </image>
     
     <item>
       <title>Welcome to the lab, Juliana!</title>
-      <link>https://cgirerd.github.io/post/25-02-17-juliana-dreyer/</link>
+      <link>http://localhost:1313/post/25-02-17-juliana-dreyer/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/25-02-17-juliana-dreyer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://cgirerd.github.io/author/juliana-dreyer/&#34;&gt;Juliana Dreyer&lt;/a&gt; is joining us for her PhD.&lt;/p&gt;
+      <guid>http://localhost:1313/post/25-02-17-juliana-dreyer/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/author/juliana-dreyer/&#34;&gt;Juliana Dreyer&lt;/a&gt; is joining us for her PhD.&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
     
     <item>
       <title>Open PhD Position in Soft and Inflatable Robotics</title>
-      <link>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</link>
+      <link>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/post/24-11-07-anr-extract-phd-position/</guid>
+      <guid>http://localhost:1313/post/24-11-07-anr-extract-phd-position/</guid>
       <description>&lt;p&gt;We have a new open position for a PhD student in soft and inflatable robotics. Apply here: &lt;a href=&#34;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://emploi.cnrs.fr/Offres/Doctorant/UMR5506-CEDGIR-001/Default.aspx?lang=EN&lt;/a&gt;&lt;/p&gt;
 &lt;!--The video of my presentation can be accessed here (in French).--&gt;</description>
     </item>
