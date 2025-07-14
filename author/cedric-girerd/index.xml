@@ -5,12 +5,20 @@
     <link>https://cgirerd.github.io/author/cedric-girerd/</link>
       <atom:link href="https://cgirerd.github.io/author/cedric-girerd/index.xml" rel="self" type="application/rss+xml" />
     <description>Cédric Girerd</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/author/cedric-girerd/avatar_hu10646517154397630221.jpeg</url>
+      <url>https://cgirerd.github.io/author/cedric-girerd/avatar_hu6888885944533142240.jpeg</url>
       <title>Cédric Girerd</title>
       <link>https://cgirerd.github.io/author/cedric-girerd/</link>
     </image>
+    
+    <item>
+      <title>Tip-Growing Robots: Design, Theory, Application</title>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
