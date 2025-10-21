@@ -1,0 +1,162 @@
+Year,Authors,Application,Type,Motion,Steering,Material,Tooltip,Length (mm),Diameter (mm),Reference
+2024,H. El-Hussieny and I. A. Hameed,General,T,2D,Pneumatic artificial muscles,TP-LDPE,Tip-mount,10000,50,https://doi.org/10.1109/ACCESS.2024.3375340
+2024,"E. Del Dottore, A. Mondini, N. Rowe and B. Mazzolai",Deployable,S,3D,FDM-based,TP-PLA,Tip-mount,-,40,https://doi.org/10.1126/scirobotics.adi5908
+2024,"C. Girerd, A. Alvarez, E. W. Hawkes and T. K. Morimoto",Medical,S,2D,-,TP-Dyneema fiber,Lumen (scrunching),1500,12.9,https://doi.org/10.1109/TRO.2024.3370088
+2024,"J. Allen, R. Dorosh, C. Ninatanta, A. Allen, L. Shui, K. Yoshida, J. Luo and M. Luo",General,T,2D,Tendon-driven,Fabric-nylon,Tip-mount,1200,-,https://doi.org/10.1109/LRA.2024.3369473
+2024,"A. A. Valdivia, M. A. Rezqalla, S. E. Swann and L. H. Blumenschein",Deployable,G,2D,-,Fabric-nylon,Tip-mount,320,38.1,https://doi.org/10.1109/RoboSoft60065.2024.10522001
+2024,"M. Al-Dubooni, C. Wong and K. Althoefer",Inspection,S,3D,Continuum robot,Fabric-nylon,Tip-mount,-,-,https://doi.org/10.1109/IROS58592.2024.10801985
+2024,"H. Yong, F. Xu, C. Li, H. Ding and Z. Wu",General,A,2D,Tendon-driven,TP-LDPE,Lumen,1300,105,https://doi.org/10.1109/ICRA57147.2024.10610986
+2024,"S. Al Harthy, S. M. H. Sadati, Z. Wu, C. A. Seneci and C. Bergeles",Medical,S,3D,Tendon-driven,TP-LDPE,Lumen,60,6.4,https://doi.org/10.1109/ISMR63436.2024.10585688
+2024,"J. Davy, N. J. Greenidge, S. Kim, L. J. Tinsley, P. Lloyd, J. H. Chandler, R. A. Harris, T. K. Morimoto and P. Valdastri",Medical,S,2D,Magnetic,TP-LDPE,-,300,8,https://doi.org/10.1109/LRA.2024.3412637
+2024,"L. Behnke, B. H. Do, S. Eristoff and R. Kramer-Bottiglio",General,S,2D,Passive / contact-based,Fabric-nylon,-,1500,-,https://doi.org/10.1109/RoboSoft60065.2024.10522034
+2024,"B. Saldarriaga, C. A. Seneci, S. M. H. Sadati, Z. Wu, K. Rhode and C. Bergeles",General,A,2D,-,TP-LDPE,-,70,5,https://doi.org/10.1109/CASE59546.2024.10711736
+2024,"D. Weinmann, P. P. Pott and M. B. Schäfer",Medical,G,3D,Tendon-driven,TP-LDPE,Lumen,1500,40,https://doi.org/10.31256/HSMR2024.55
+2025,"Z. Wu, H. Sadati, P. Vartholomeos, M. E. M. Abdelaziz, B. Temelkuran, G. Petrou, T. Booth, J. Shapey",Medical,G,3D,Tendon-driven,PTFE,Lumen,150,2,https://kclpure.kcl.ac.uk/ws/portalfiles/portal/326850910/IROS2025_Spine_Intervention.pdf
+2025,"A. Giri, C. Girerd, J. Cervera-Torralba, M. T. Tolley and T. K. Morimoto",Medical,S,3D,Internal device,"TP-LDPE, Mylar",Within pressurized area,1500,26,https://doi.org/10.1109/TMECH.2025.3535876
+2014,"A. Sadeghi, A. Tonazzini, L. Popova and B. Mazzolai",Subterranean,G,3D,Add. Manuf.,Polypropylene filament,Tip-mount,-,50,https://doi.org/10.1371/journal.pone.0090139
+2018,"E. Del Dottore, A. Sadeghi, A. Mondini, V. Mattoli and B. Mazzolai",Subterranean,S,3D,Add. Manuf.,TP-PLA,Tip-mount,-,46,https://doi.org/10.3389/frobt.2018.00016
+2020,"I. L. Liakos, A. Mondini, E. Del Dottore, C. Filippeschi, F. Pignatelli and B. Mazzolai",General,G,3D,Add. Manuf.,"TPs-PCL, SA",Tip-mount,-,50,https://doi.org/10.1039/D0QM00159G 
+2023,"E. Del Dottore, A. Mondini, D. Bray and B. Mazzolai",Subterranean,S,3D,Add. Manuf.,"TPs-PLA, PCL",Tip-mount,-,40,https://doi.org/10.1007/978-3-031-38857-6_15
+2025,"L. Chen, Y. Gao, S. Wang, F. Fuentes, L. H. Blumenschein and Z. Kingston",General,T,2D,Passive / contact-based,TP-LDPE,-,-,67,https://doi.org/10.48550/arXiv.2501.17963
+2024,"B. H. Do, S. Wu, R. R. Zhao and A. M. Okamura",General,G,3D,Tendon-driven,Fabric-nylon,-,1250,55,https://doi.org/10.1089/soro.2023.0120
+2024,"D. Ragab, E. Rendon-Morales, K. Althoefer and H. Godaba",Deployable,G,2D,Pneumatic artificial muscles,TP-LDPE,-,540,48,https://doi.org/10.1109/IROS58592.2024.10802690
+2024,R. Wu and S. Mintchev,General,A,3D,Assymmetric lenghening,TP-LDPE,Lumen,2000,100,https://doi.org/10.1109/IROS58592.2024.10801415
+2024,"G. Dimas, P. G. Kalozoumis, P. Vartholomeos and D. K. Iakovidis",Medical,T,3D,Tendon-driven,TP-LDPE,Lumen,550,2.8,https://doi.org/10.1109/BioRob60516.2024.10719744
+2024,"M. Faqih, A. Ataka, A. I. Cahyadi and Y. K. Badriawan",General,T,2D,Series pouch motors,Fabric-nylon,-,1500,100,https://doi.org/10.1109/ICITEE62483.2024.10808984
+2024,"A. Astar, O. Nurcan, E. Demirel, E. Ozen, O. Kutlar and F. Stroppa",General,T,3D,-,-,-,-,-,https://doi.org/10.48550/arXiv.2501.00368
+2024,"N. G. Kim, N. J. Greenidge, J. Davy, S. Park, J. H. Chandler, J. -H. Ryu and P. Valdastri",Medical,S,3D,Magnetic,Fabric-nylon,Lumen,300,25,https://doi.org/10.48550/arXiv.2409.01319
+2024,"W. E. Heap, S. Man, V. Bassari, S. Nguyen, E. B. Yao, N. A. Tripathi, N. D. Naclerio, E. W. Hawkes",Inspection - pipe,G,2D,-,Fabric-nylon,Tip-mount,33000,1000,https://doi.org/10.1109/MRA.2024.3487326
+2024,"J. Dinkel, D. Weinmann, P. P. Pott and M. B. Schäfer",Medical,G,3D,Tendon-driven,TP-LDPE,Lumen,1500,40,https://doi.org/10.1515/cdbme-2024-2045
+2024,"O. G. Osele, K. Barhydt, N. Cerone, A. M. Okamura and H. Harry Asada",General,S,2D,Passive / contact-based,Fabric-nylon,-,-,48.5,https://doi.org/10.1109/ICRA57147.2024.10610362
+2024,"C. McFarland, A. Dhawan, R. Kumari, C. Council, M. Coad and N. Hanson",Inspection - SaR,G,3D,Pneumatic artificial muscles,Fabric-nylon,Tip-mount,7600,127,https://doi.org/10.48550/arXiv.2411.06615
+2024,"S. N. Boateng, S. Singh, M. Ugur, S. Wang, M. Kramer, I. Osei, O. Sobek, M. O. Martinez, F. Z. Temel, L. H. Blumenschein",Inspection - SaR,G,3D,Internal device,TP-LDPE,Lumen,1500,129,https://doi.org/10.1109/SSRR62954.2024.10770037
+2024,"D. Seo, N. G. Kim and J. -H. Ryu",General,S,3D,Assymmetric lenghening,Fabric-nylon,Lumen,1000,90,https://doi.org/10.1109/LRA.2024.3426322
+2024,"D. Kaleel, B. Clement and K. Althoefer",Subterranean - underwater,A,2D,Volumetric pouches,TP-LDPE,-,-,-,https://doi.org/10.1016/j.ifacol.2024.10.033
+2024,"Y. Satake, H. Ishii and S. Hirai",General,A,2D,Heat-welding,TP-LDPE,-,400,95,https://doi.org/10.1109/LRA.2024.3469817
+2024,"P. Vartholomeos, Z. Wu, S. M. H. Sadati and C. Bergeles",Medical,T,3D,Tendon-driven,TP-LDPE,Lumen,95,3,https://doi.org/10.1109/ICRA57147.2024.10611157
+2024,"K. Borvorntanajanya, S. Treratanakulchai, F. R. y. Rodriguez and E. Franco",Medical,T,2D,-,TP-LDPE,Tip-mount,-,24,https://doi.org/10.1109/TMRB.2024.3474059
+2023,"Z. Wu, M. D. I. Reyzabal, S. M. H. Sadati, H. Liu, S. Ourselin, D. Leff, R. K. Katzschmann, K. Rhode and C. Bergeles",Medical,T,2D,Tendon-driven,TP-LDPE,Lumen,140,3,https://doi.org/10.1109/LRA.2023.3234823
+2023,"S. Deglurkar, C. Xiao, L. F. Gockowski, M. T. Valentine and E. W. Hawkes",Inspection,S,2D,PAMs,TP-LDPE,-,-,-,http://arxiv.org/abs/2301.07362
+2023,"C. Suulker, S. Skach, D. Kaleel, T. Abrar, Z. Murtaza, D. Suulker and K. Althoefer",General,S,2D,PAMs,Fabric,Tip-mount,-,-,http://arxiv.org/abs/2301.12862
+2023,"H. El-Hussieny, I. A. Hameed and A. B. Zaky",Inspection,T,3D,PAMs,Fabric-nylon,Tip-mount,-,-,https://doi.org/10.3390/app13042601
+2023,"R. Manoj, A. H, A. Asokan, A. A. R, K. T. Abraham and D. G",Medical,G,2D,-,-,String-mount,620,-,https://doi.org/10.1109/INDICON56171.2022.10039866
+2023,Y. Satake and H. Ishii,General,T,2D,Heat-welded bending,"TP-LDPE, Fabric-Nylon",Tip-mount,-,152,https://doi.org/10.1109/LRA.2023.3260705
+2023,"G. Bianchi, A. Agoni and S. Cinquemani",General,S,2D,SPMs,TP-LDPE,-,850,79.8,https://doi.org/10.1007/s42235-023-00369-3
+2023,"A. M. Kübler, C. du Pasquier, A. Low, B. Djambazi, N. Aymon, J. Förster, N. Agharese, R. Siegwart and A. Okamura",General,S,3D,"SPMs, PAMs",Fabric-Nylon,-,4200,80,https://doi.org/10.1089/soro.2023.0169
+2023,"F. Przybylski, Y. Adagolodjo, A. Mîra, G. Cerruti, J. Dequidt, C. Duriez and P. Berthet-Rayne",General,T,3D,-,TP-LDPE,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10122073
+2023,"R. Jitosho, S. Simón-Trench, A. M. Okamura and B. H. Do",General,S,2D,Tendon-driven,Fabric-Nylon,Tip-mount,2300,108,https://doi.org/10.1109/RoboSoft55895.2023.10122027
+2023,F. Fuentes and L. H. Blumenschein,General,S,3D,Shape-locking,TP-LDPE,Tip-mount,1000,64.6,https://doi.org/10.1109/RoboSoft55895.2023.10122104
+2023,C. McFarland and M. M. Coad,General,T,3D,-,Fabric-Nylon,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10122006
+2023,"F. Aljaber, A. Hassan, T. Abrar, I. Vitanov and K. Althoefer",Deployable,G,3D,SPMs,Fabric,-,-,-,https://doi.org/10.1109/RoboSoft55895.2023.10121998
+2023,"M. R. Mitchell, C. McFarland and M. M. Coad",General,S,3D,SPMs,TP-LDPE,-,-,203,https://doi.org/10.1109/RoboSoft55895.2023.10122112
+2023,"A. AlAttar, I. Ben Hmida, F. Renda and P. Kormushev",General,T,3D,-,-,-,580,"30,16",https://doi.org/10.1109/RoboSoft55895.2023.10121994
+2023,N. Agharese and A. Okamura,General,A,3D,Pre-defined,"TP-LDPE, Fabric-Nylon",Tip-mount,-,33,http://arxiv.org/abs/2306.01166
+2023,"C. Suulker, S. Skach and K. Althoefer",General,S,2D,Elastic bands,"DL-Cotton, cotton, elastane",Tip-mount,-,-,http://arxiv.org/abs/2305.17720
+2023,"E. Ben Abu, Y. Veksler, S. Elbaz, A. Zigelman and A. D. Gat",Medical,S,3D,Pre-defined,,-,313,13,https://doi.org/10.1002/admt.202202184
+2023,"K. Borvorntanajanya, S. Treratanakulchai, E. Franco and F. R. y Rodriguez",Medical,T,3D,SPMs,TP-LDPE,-,1700,15.2,https://doi.org/10.31256/HSMR2023.60
+2023,A. Ataka and A. P. Sandiwan,General,T,2D,SPMs,-,-,1500,-,https://doi.org/10.1109/ICCAR57134.2023.10151740
+2023,"G. Han, D. Seo, J. -H. Ryu and T. -H. Kwon",Subterranean,G,2D,Pressure control,Fabric-Polyester,-,390,200,https://doi.org/10.1007/s11440-023-02073-2
+2023,"E. Del Dottore, A. Mondini, D. Bray and B. Mazzolai",Subterranean,S,2D,-,"TPs-PLA, PCL",Tip-mount,150,40,https://doi.org/10.1007/978-3-031-38857-6_15
+2023,F. Stroppa,General,T,2D,Links,-,-,-,-,https://doi.org/10.1016/j.engappai.2023.107693
+2023,"Z. Wu, S. M. H. Sadati, K. Rhode and C. Bergeles",Medical,T,3D,Tendon-driven,TP-LDPE,Lumen,100,5,https://doi.org/10.1109/LRA.2023.3322091
+2023,"S. Deglurkar, C. Xiao, L. Gockowski, M. T. Valentine and E. W. Hawkes",Inspection,S,2D,PPSA,TP-LDPE,-,-,32,https://doi.org/10.1109/LRA.2023.3329760
+2023,"N. G. Kim, D. Seo, S. Park and J. -H. Ryu",General,A,2D,PAMs,Fabric-Nylon,Lumen,150,"63.6,38",https://doi.org/10.1109/LRA.2023.3341697
+2023,"M. J. Mendoza, N. D. Naclerio, E. W. Hawkes",Inspection,S,2D,Anisotropic lengthening,"DL-TPU, dyneema fabric",lumen,-,32,http://arxiv.org/abs/2310.00851
+2023,"D. -G. Lee, N. G. Kim, J. -H. Ryu",Inspection,S,2D,Twisted string actuator,Fabric-nylon,Tip-mount,2000,32,https://doi.org/10.1109/iros55552.2023.10341407
+2023,F. Fuentes and L. H. Blumenschein,General,S,2D,Pre-defined,-,-,-,-,https://doi.org/10.1109/iros55552.2023.10341705
+2023,"X. Pi, I. A. Szczech and L. Cao",Medical,A,3D,Pre-defined,TP-LDPE,-,1000,23,https://doi.org/10.1109/iros55552.2023.10342214
+2023,"K. E. Tennakoon, G. S. Subasingha, J. A. Sewwandhi, A. L. Kulasekera and P. C. Dassanayake",Subterranean,G,3D,Tendon-driven,TP-LDPE,Tip-mount,900,48.5,https://doi.org/10.1109/MERCon60487.2023.10355439
+2023,"D. Kaleel, B. Clement and K. Althoefer",Subterranean,T,3D,SPMs,TP,-,-,-,https://doi.org/10.1109/ICCMA59762.2023.10374973
+2023,"E. Frias-Miranda, A. Srivastava, S. Wang and L. H. Blumenschein",General,S,2D,Pre-defined,TP-LDPE,Tip-mount,2400,70,https://doi.org/10.1109/iros55552.2023.10342238
+2023,"A. Borkar, S. Bene, M. Gonal and B. S. Manohar Shankar",General,A,2D,SPMs,"TP-LDPE, HDPE",-,2000,80-100,https://doi.org/10.1088/1757-899x/1291/1/012031
+2023,H. El-Hussieny,Inspection,T,3D,PAMs,Fabric-nylon,Tip-mount,-,60,https://doi.org/10.23919/SICE59929.2023.10354133
+2023,"A. Raines, A. Lewis, J. Hwee and B. Hannaford",General,S,2D,Pre-defined,TP-LDPE,-,254,29,https://doi.org/10.1109/RoboSoft55895.2023.10122088
+2023,"J. Hwee, A. Lewis, A. Raines and B. Hannaford",General,T,2D,Pre-defined,"TP-LDPE,Fabric-Nylon",-,-,25.4,https://doi.org/10.1109/RoboSoft55895.2023.10122115
+2023,H. El-Hussieny and I. Hameed,General,T,2D,PAMs,TP-LDPE,Tip-mount,10000,50,http://arxiv.org/abs/2401.11203
+2023,"E. Del Dottore, A. Mondini, N. Rowe and B. Mazzolai",General,S,3D,Material-response,TP-PLA,Tip-mount,-,40,https://doi.org/10.1126/scirobotics.adi5908
+2022,"L. H. Blumenschein, M. Koehler, N. S. Usevitch, E. W. Hawkes, D. C. Rucker and A. M. Okamura",General,T,3D,PAMs,TP-LDPE,-,305,26.2,https://doi.org/10.1109/TRO.2021.3115230
+2022,E. Franco,General,T,-,Pre-defined,-,-,500,25,https://doi.org/10.1109/LCSYS.2022.3175385
+2022,"I. Exarchos, K. Wang, B. H. Do, F. Stroppa, M. M. Coad and A. M. Okamura",General,G,3D,SPMs,TP-LDPE,Tip-mount,1090,3.2,https://doi.org/10.1109/ICRA46639.2022.9811611
+2022,Y. Satake and H. Ishii,Inspection,G,3D,Heat-welded bending,"DL-LDPE, Nylon",Tip-mount,500,76.4,https://doi.org/10.1109/LRA.2022.3153724
+2022,"P. E. Glick, I. Adibnazari, D. Drotman, D. Ruffatto and M. T. Tolley",Inspection,S,2D,Pre-defined,TP-TPU,Distributed,-,-,https://doi.org/10.3389/frobt.2022.838913
+2022,"M. M. Premarathna, R. K. Weerasinghe, N. N. Peiris, A. L. Kulasekera and P. C. Dassanayake",General,S,3D,PAMs,TP-LDPE,-,750,102,https://doi.org/10.1109/MERCon55799.2022.9906266
+2022,"M. M. Hausladen, B. Zhao, M. S. Kubala, L. F. Francis, T. M. Kowalewski and C. J. Ellison",Subterranean,A,3D,Polymerisation,TPs-Thiol-ene resin,-,1500,-,https://doi.org/10.1073/pnas.2201776119
+2022,"S. Grazioso, A. Tedesco, R. Sabella, S. Fusco, M. Selvaggio, L. Duraccio, E. De Benedetto, A. Lanzotti and L. Angrisani",Inspection,S,3D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/mn55117.2022.9887783
+2022,"S. Grazioso, A. Tedesco, R. Sabella, S. Fusco, M. Selvaggio, L. Duraccio, E. De Benedetto, A. Lanzotti, D. Dallet and L. Angrisani",Inspection,S,3D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/INSCIT55544.2022.9913747
+2022,"K. Tadakuma, M. Kawakami and H. Furukawa",Medical,S,3D,Polymerisation,TP-TPU,-,2000,50,https://doi.org/10.20965/jrm.2022.p0234
+2022,"T. Takahashi, M. Watanabe, K. Abe, K. Tadakuma, N. Saiki, M. Konyo and S. Tadokoro",Inspection,S,2D,Articulated links,"DL-LDPE, Nylon",-,500,80,https://doi.org/10.1109/LRA.2022.3221340
+2022,"M. Selvaggio, S. Grazioso, S. Fusco, R. Sabella, G. A. Fontanelli, G. Di Gironimo, B. Siciliano and A. Lanzotti",General,S,2D,PAMs,Fabric-Nylon,-,350,45,https://doi.org/10.1007/978-3-031-15928-2_106
+2022,S. Wang and L. H. Blumenschein,General,T,3D,Pre-defined,TP-LDPE,-,-,68,https://doi.org/10.1109/IROS47612.2022.9981430
+2022,N. G. Kim and J. -H. Ryu,General,A,2D,Shape-locking,Thermoset-Latex,Tip-mount,150,75,https://doi.org/10.1002/aisy.202200264
+2022,"M. Bryant, C. Watson and T. K. Morimoto",General,S,2D,PAMs,Fabric-Nylon,Distributed,530,35,https://doi.org/10.1109/IROS47612.2022.9981273
+2022,"A. M. Kübler, S. Urdaneta Rivera, F. B. Raphael, J. Förster, R. Siegwart and A. M. Okamura",General,A,2D,PAMs,Fabric-Nylon,Tip-mount,2000,80,https://doi.org/10.1109/RoboSoft55895.2023.10122091
+2022,"A. Pore, N. Piccinelli, G. De Rossi, M. Piano, D. Meli, D. Dall'Alba, R. Muradore and P. Fiorini",Medical,G,2D,Pre-defined,Thermoset-Latex,Lumen,460,38,https://www.hamlynsymposium.org/wp-content/uploads/2022/08/HSMR22-Proceedings-FINAL.pdf
+2021,"T. Abrar, F. Putzu, A. Ataka, H. Godaba and K. Althoefer",General,A,3D,PAMs,Fabric-Polyester,-,400,45,https://doi.org/10.1109/ICRA48506.2021.9561873
+2021,"P. Berthet-Rayne, S. M. H. Sadati, G. Petrou, N. Patel, S. Giannarou, D. R. Leff, C. Bergeles",Medical,G,3D,Tendon-driven,TP-LDPE,Lumen,550,2.8,https://doi.org/10.1109/LRA.2021.3068676
+2021,"A. M. Gruebele, A. C. Zerbe, M. M. Coad, A. M. Okamura and M. R. Cutkosky",Subterranean,S,2D,Pre-defined,-,Distributed,1150,66,https://doi.org/10.1109/RoboSoft51838.2021.9479345
+2021,"T. Takahashi, K. Tadakuma, M. Watanabe, E. Takane, N. Hookabe, H. Kajiahara, T. Yamasaki, M. Konyo and S. Tadokoro",Inspection,S,3D,Pre-defined,TP-TPU,Lumen,2000,50,https://doi.org/10.1109/LRA.2021.3073653
+2021,"D. A. Haggerty, N. D. Naclerio and E. W. Hawkes",General,S,2D,Internal steering,Fabric-Nylon,Tail-mount,2400,68,https://doi.org/10.1109/LRA.2021.3072858
+2021,"J. -H. Kim, J. Jang, S. -M. Lee, S. -G. Jeong, Y. -J. Kim and J. -H. Ryu",General,S,3D,SPMs,-,Tip-mount,-,-,https://doi.org/10.1109/LRA.2021.3068936
+2021,"P. Auf der Maur, B. Djambazi, Y. Haberthür, P. Hörmann, A. Kübler, M. Lustenberger, S. Sigrist, O. Vigen, J. Förster, F. Achermann, E. Hampp, R. K. Katzschmann, R. Siegwart",Inspection,G,3D,SPMs,Fabric-Nylon,Tip-mount,17000,101,https://doi.org/10.1109/RoboSoft51838.2021.9479192
+2021,"W. E. Heap, N. D. Naclerio, M. M. Coad, S. -G. Jeong, E. W. Hawkes",Inspection,S,3D,PAMs,"Double-layered-TPU, fabric",Inside pressurised area,508,19,https://doi.org/10.1109/IROS51168.2021.9636697
+2021,"N. D. Naclerio, A. Karsai, M. Murray-Cooper, Y. Ozkan-Aydin, E. Aydin, D. I. Goldman and E. W. Hawkes",Subterranean,G,3D,Tendon-driven,Fabric-Nylon,-,2000,60,https://doi.org/10.1126/scirobotics.abe2922
+2021,"C. Watson, R. Obregon and T. K. Morimoto",Medical,T,3D,PAMs,Fabric-Nylon,Tip-mount,445,20,https://doi.org/10.1109/LRA.2021.3095625
+2021,"E. Del Dottore, A. Mondini and B. Mazzolai",Inspection,S,3D,Pre-defined,TP-PLA,Tip-mount,-,78,https://doi.org/10.1109/RoboSoft51838.2021.9479220
+2021,"M. Li, R. Obregon, J. J. Heit, A. Norbash, E. W. Hawkes and T. K. Morimoto",Medical,G,3D,Pre-defined,Fabric-Nylon,Lumen,300,3.5,https://doi.org/10.1109/TMRB.2021.3069984
+2021,"R. Jitosho, N. Agharese, A. Okamura and Z. Manchester",General,T,2D,Pre-defined,-,-,-,-,https://doi.org/10.1109/ICRA48506.2021.9561420
+2021,"F. Stroppa, M. Selvaggio, N. Agharese, M. Luo, L. H. Blumenschein, E. W. Hawkes, A. M. Okamura",General,T,3D,Pre-defined,Fabric,Tip-mount,-,-,http://arxiv.org/abs/2108.00677
+2021,"S. Grazioso, A. Tedesco, M. Selvaggio, S. Debei, S. Chiodini, E. De Benedetto, G. Di Gironimo and A. Lanzotti",General,S,2D,PAMs,-,Tip-mount,10000,100,https://doi.org/10.1109/MetroInd4.0IoT51437.2021.9488477
+2021,"J. Hwee, A. Lewis, R. A. Bly, K. S. Moe and B. Hannaford",Medical,G,2D,Pre-defined,TP-LDPE,Lumen,-,50.8,https://doi.org/10.1109/ISMR48346.2021.9661552
+2020,"S. Wang, R. Zhang, D. A. Haggerty, N. D. Naclerio and E. W. Hawkes",General,A,2D,Tendon-driven,Fabric-Nylon,Tip-mount,40,23,https://doi.org/10.1109/ICRA40945.2020.9197311
+2020,"M. Selvaggio, L. A. Ramirez, N. D. Naclerio, B. Siciliano and E. W. Hawkes",General,S,3D,PAMs,-,Tip-mount,2000,64,https://doi.org/10.1109/ICRA40945.2020.9196587
+2020,"Y. Satake, A. Takanishi and H. Ishii",Inspection,A,3D,Heat-welded bending,"DL- LDPE, Nylon",Tip-mount,800,76,https://doi.org/10.1109/TMECH.2020.2999467
+2020,C. Watson and T. K. Morimoto,Medical,S,2D,Magnet-based,-,Tip-mount,645,12,https://doi.org/10.1109/LRA.2020.2972890
+2020,"M. M. Coad, R. P. Thomasson, L. H. Blumenschein, N. S. Usevitch, E. W. Hawkes and A. M. Okamura",Inspection,S,3D,Pre-defined,TP- LDPE,Tip-mount,1900,85,https://doi.org/10.1109/LRA.2020.2970629
+2020,N. D. Naclerio and E. W. Hawkes,General,A,3D,PAMs,Fabric-Nylon,-,300,25,https://doi.org/10.1109/LRA.2020.2976309
+2020,"A. Ataka, T. Abrar, F. Putzu, H. Godaba and K. Althoefer",General,T,3D,SPMs,Fabric- Nylon,Tip-mount,-,-,https://doi.org/10.1109/IROS45743.2020.9341785
+2020,"J. D. Greer, L. H. Blumenschein, R. Alterovitz, E. W. Hawkes and A. M. Okamura",General,S,2D,Pre-defined,TP-polyethylene,-,1000,20,https://doi.org/10.1177/0278364920903774
+2020,"A. Saxena, E. M. Pauli, R. S. Haluck, B. Fell and J. Moore",Medical,G,3D,SPMs,TP-LDPE,Inside pressurised area,762,50.8,https://doi.org/10.1115/1.4046433
+2020,"B. H. Do, V. Banashek and A. M. Okamura",General,A,3D,Tendon-driven,TP- LDPE,String-mount,1200,86,https://doi.org/10.1109/ICRA40945.2020.9197237
+2020,"S. -G. Jeong, M. M. Coad, L. H. Blumenschein, M. Luo, U. Mehmood, J. H. Kim, A. M. Okamura and J. -H. Ryu",Inspection,S,3D,SPMs,TP- LDPE,Tip-mount,2000,85,https://doi.org/10.1109/IROS45743.2020.9340950
+2020,"A. Ataka, T. Abrar, F. Putzu, H. Godaba and K. Althoefer",General,T,2D,SPMs,Fabric-Nylon,-,1500,100,https://doi.org/10.1109/LRA.2020.2976326
+2020,"H. El-Hussieny, I. A. Hameed and J. -H. Ryu",General,T,2D,PAMs,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/ACCESS.2020.3041616
+2020,"T. Takahashi, M. Watanabe, K. Tadakuma, M. Konyo and S. Tadokoro",General,S,2D,Pre-defined,-,-,1100,50,https://doi.org/10.1109/LRA.2020.3019736
+2020,"S. K. Talas, B. A. Baydere, T. Altinsoy, C. Tutcu and E. Samur",Inspection,G,3D,Pre-defined,"DL-LDPE, Nylon",-,350,55,https://doi.org/10.1089/soro.2019.0083
+2020,"T. Abrar, A. Hassan, F. Putzu, H. Godaba, A. Ataka and K. Althoefer",General,A,2D,-,Fabric,-,100,37.5,https://doi.org/10.1007/978-3-030-63486-5_4
+2019,"J. Luong, P. Glick, A. Ong, M. S. deVries, S. Sandin, E. W. Hawkes",Subterranean,G,3D,Pre-defined,Fabric-Nylon,Tip-mount,800,48,https://doi.org/10.1109/ROBOSOFT.2019.8722730
+2019,"D. A. Haggerty, N. D. Naclerio and E. W. Hawkes",General,S,2D,Pre-defined,TP-LDPE,-,760,24,https://doi.org/10.1109/IROS40897.2019.8968137
+2019,"T. Abrar, F. Putzu, J. Konstantinova and K. Althoefer",Medical,A,-,PAMs,Fabric-Polyester,-,250,25,https://doi.org/10.1109/ROBOSOFT.2019.8722787
+2019,"F. Stroppa, M. Luo, G. Gerboni, M. M. Coad, J. M. Walker and A. M. Okamura",Medical,T,3D,Pre-defined,-,Moves along with tail,-,-,http://arxiv.org/abs/1910.13000
+2019,"C. Tutcu, B. A. Baydere, S. K. Talas and E. Samur",Medical,T,2D,Pre-defined,Thermoset-Latex,-,-,-,https://doi.org/10.1177/0278364919893438
+2019,"M. M. Coad, L. H. Blumenschein, S. Cutler, J. A. Reyna Zepeda, N. D. Naclerio, H. El-Hussieny, U. Mehmood, J. -H. Ryu, E. W. Hawkes and A. M. Okamura",Inspection,G,3D,Pre-defined,Fabric-Nylon,Tip-mount,-,-,https://doi.org/10.1109/MRA.2019.2947538
+2019,"H. El-Hussieny, S. -G. Jeong and J. -H. Ryu",Inspection,T,3D,Pre-defined,Fabric- Nylon,Tip-mount,-,-,https://www.researchgate.net/profile/Haitham-El-Hussieny/publication/332277541_Dynamic_Modeling_of_A_Class_of_Soft_Growing_Robots_Using_Euler-Lagrange_Formalism/links/5ed04f8c92851c9c5e65e20e/Dynamic-Modeling-of-A-Class-of-Soft-Growing-Robots-Using-Euler-Lagrange-Formalism.pdf
+2019,"A. Sadeghi, E. Del Dottore, A. Mondini and B. Mazzolai",Subterranean,G,2D,Pre-defined,-,Tip-mount,270,48,https://doi.org/10.1089/soro.2019.0025
+2019,"E. Del Dottore, A. Mondini, A. Sadeghi and B. Mazzolai",General,T,3D,Pre-defined,TP-LDPE,-,700,44,https://doi.org/10.3389/frobt.2019.00045
+2019,"F. Putzu, T. Abrar, J. Konstantinova and K. Althoefer",Medical,G,2D,Pre-defined,Fabric,Lumen,1000,18,https://www.hamlynsymposium.org/wp-content/uploads/2021/08/Proceedings_HSMR19-compressed.pdf
+2019,"H. Godaba, F. Putzu, T. Abrar, J. Konstantinova and K. Althoefer",General,T,3D,Tendon-driven,TP-LDPE,Strint-mount,1000,50,https://doi.org/10.1007/978-3-030-25332-5_33
+2019,"T. Yan, S. Teshigawara and H. H. Asada",General,A,2D,Gears,-,-,-,-,https://doi.org/10.1109/IROS40897.2019.8968200
+2018,"L. H. Blumenschein, N. S. Usevitch, B. H. Do, E. W. Hawkes and A. M. Okamura",Deployable,A,3D,Tendon-driven,TP-LDPE,Inside pressurised area,1800,33.1,https://doi.org/10.1109/ROBOSOFT.2018.8404927
+2018,"F. Putzu, T. Abrar and K. Althoefer",Medical,G,3D,Tendon-driven,Fabric-Polyester,Moves along with tail,250,17,https://doi.org/10.1109/BIOROB.2018.8487848
+2018,"J. D. Greer, L. H. Blumenschein, A. M. Okamura and E. W. Hawkes",General,S,2D,Pre-defined,TP-LDPE,-,250,16,https://doi.org/10.1109/ICRA.2018.8460777
+2018,"N. D. Naclerio, C. M. Hubicki, Y. O. Aydin, D. I. Goldman and E. W. Hawkes",Subterranean,G,3D,Pre-defined,-,Lumen,120,24,https://doi.org/10.1109/IROS.2018.8593530
+2018,"H. El-Hussieny, U. Mehmood, Z. Mehdi, S. -G. Jeong, M. Usman, E. W. Hawkes, A. M. Okamura and J. -H. Ryu",Inspection,S,3D,Pre-defined,"DL-LDPE, Nylon",Tip-mount,-,-,https://doi.org/10.1109/IROS.2018.8593896
+2018,"L. H. Blumenschein, L. T. Gan, J. A. Fan, A. M. Okamura and E. W. Hawkes",Inspection,G,3D,PAMs,TP-LDPE,Moves along with tail,1200,32,https://doi.org/10.1109/LRA.2018.2793303
+2018,"J. D. Greer, T. K. Morimoto, A. M. Okamura and E. W. Hawkes",General,T,2D,PAMs,TP-LDPE,Tip-mount,-,-,https://doi.org/10.1089/soro.2018.0034
+2018,"E. Del Dottore, A. Mondini, A. Sadeghi and B. Mazzolai",Inspection,T,3D,Pre-defined,TP-PLA,Tip-mount,-,-,https://doi.org/10.1109/ROBOSOFT.2018.8404891
+2018,"M. Kayser, L. Cai, S. Falcone, C. Bader, N. Inglessis, B. Darweesh and N. Owman",General,G,3D,Pre-defined,Fiber-reinforced composite,-,4500,100,https://doi.org/10.1126/scirobotics.aau5630
+2017,"P. Slade, A. Gruebele, Z. Hammond, M. Raitor, A. M. Okamura and E. W. Hawkes",Medical,G,3D,Pre-defined,TP-LDPE,-,20,4,https://doi.org/10.1109/IROS.2017.8202154
+2017,"H. Dehghani, C. R. Welch, A. Pourghodrat, C. A. Nelson, D. Oleynikov, P. Dasgupta and B. S. Terry",Medical,G,2D,Pre-defined,Thermoset-Latex,-,1500,38,https://doi.org/10.1080/03091902.2016.1275853
+2017,"A. Sadeghi, A. Mondini and B. Mazzolai",Inspection,G,3D,Pre-defined,-,Tip-mount,-,50,https://doi.org/10.1089/soro.2016.0080
+2017,"A. Sadeghi, A. Mondini, E. Del Dottore, V. Mattoli, L. Beccai, S. Taccola, C. Lucarotti, M. Totaro and B. Mazzolai",Subterranean,G,3D,Pre-defined,TP-PLA,Tip-mount,63,50,https://doi.org/10.1088/1748-3190/12/1/015001
+2017,"L. H. Blumenschein, A. M. Okamura and E. W. Hawkes",General,T,3D,Pre-defined,TP-LDPE,Moves along with tail,1000,13,https://doi.org/10.1007/978-3-319-63537-8_45
+2017,"E. W. Hawkes, L. H. Blumenschein, J. D. Greer and A. M. Okamura",Inspection,S,2D,Pre-defined,TP-Polyethylene,Tip-mount,72000,25,https://doi.org/10.1126/scirobotics.aan3028
+2006,"D. Mishima, T. Aoki and S. Hirose",Inspection,G,2D,Pre-defined,Fabric-Kevlar,String-mount,3000,80,https://doi.org/10.1177/0278364906061159
+2018,"N. Agharese, T. Cloyd, L. H. Blumenschein, M. Raitor, E. W. Hawkes and H. Culbertson",Deployable,G,2D,Pre-defined,TP-LDPE,-,-,18,https://doi.org/10.1109/ICRA.2018.8460891
+2018,"D. Lunni, E. Del Dottore, A. Sadeghi, M. Cianchetti, E. Sinibaldi and B. Mazzolai",General,G,2D,Pre-defined,TP-PLA,-,-,-,https://doi.org/10.1007/978-3-319-95972-6_30
+2023,"T. Mack, M. Al-Dubooni and K. Althoefer",Inspection,G,2D,Tendon-driven,"TP-LDPE, Fabric-Nylon",At base,2500,55,https://doi.org/10.48550/arXiv.2307.10084
+2020,"L. T. Gan, L. H. Blumenschein, Z. Huang, A. Okamura, E. W. Hawkes and J. A. Fan",Deployable,G,3D,Tendon-driven,TP-LDPE,-,1530,32,https://doi.org/10.1109/LRA.2020.2969922
+1992,"I. W. Scudamore, B. C. Dunphy and I. D. Cooke",Medical,G,2D,Tendon-driven,TP-LDPE,-,100,2.8,https://doi.org/10.1111/j.1471-0528.1992.tb14415.x
+2008,"M. Shike, Z. Fireman, R. Eliakim, O. Segol, A. Sloyer, L. B. Cohen, S. Goldfarb-Albak and A. Repici",Medical,G,3D,Tendon-driven,-,Lumen,-,-,https://doi.org/10.1016/j.gie.2007.12.062 
+1980,"S. R. Goldstein, R. E. Jones, J. J. Sipe, J. L. Doppman and J. W. Boretos",Medical,G,-,-,-,-,300,1,https://doi.org/10.1115/1.3149577 
+2022,"R. Manoj, A. H, A. Asokan, A. A. R, K. T. Abraham and D. G",Medical,G,2D,-,-,-,620,,https://doi.org/10.1109/INDICON56171.2022.10039866 
+2011,"H. Tsukagoshi, N. Arai, I. Kiryu and A. Kitagawa and Ato Kitagawa",Inspection,S,2D,Tendon-driven,Fabric-Polyester,Tip-mount,3000,50,https://doi.org/10.20965/ijat.2011.p0516

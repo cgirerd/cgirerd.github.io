@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurent Tavernier | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/laurent-tavernier/</link>
+      <atom:link href="https://cgirerd.github.io/author/laurent-tavernier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laurent Tavernier</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <title>Laurent Tavernier</title>
+      <link>https://cgirerd.github.io/author/laurent-tavernier/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
+      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
+      <link>https://cgirerd.github.io/publication/girerd18abme/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd18abme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

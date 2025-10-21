@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vine Growing Robots | C. Girerd</title>
+    <link>https://cgirerd.github.io/tags/vine-growing-robots/</link>
+      <atom:link href="https://cgirerd.github.io/tags/vine-growing-robots/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vine Growing Robots</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <title>Vine Growing Robots</title>
+      <link>https://cgirerd.github.io/tags/vine-growing-robots/</link>
+    </image>
+    
+    <item>
+      <title>Vine Growing Robots</title>
+      <link>https://cgirerd.github.io/research/vine-growing-robots/</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/research/vine-growing-robots/</guid>
+      <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or &amp;ldquo;vine&amp;rdquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2025).
+  &lt;a href=&#34;https://cgirerd.github.io/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
+  &lt;em&gt;TRO&lt;/em&gt;.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-05269475v1/file/TRO___Al_Harthy___Review_Article_Growing_Robots-9.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/tip-growing-robots/&#34;  &gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
+        Dataset
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/al_harthy24tro/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TRO.2025.3608701&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
+        DOI
+      &lt;/a&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/ayush-giri/&#34;&gt;Ayush Giri&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jacobo-cervera-torralba/&#34;&gt;Jacobo Cervera-Torralba&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/michael-t.-tolley/&#34;&gt;Michael T. Tolley&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2025).
+  &lt;a href=&#34;https://cgirerd.github.io/publication/giri25tmech/&#34; class=&#34;underline&#34;&gt;InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy&lt;/a&gt;.
+  &lt;em&gt;TMECH&lt;/em&gt;.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-04981260v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/giri25tmech/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TMECH.2025.3535876&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
+        DOI
+      &lt;/a&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+
+  &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/anna-alvarez/&#34;&gt;Anna Alvarez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/elliot-w.-hawkes/&#34;&gt;Elliot W. Hawkes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2024).
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34; class=&#34;underline&#34;&gt;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&lt;/a&gt;.
+  &lt;em&gt;TRO&lt;/em&gt;.
+  
+
+  
+  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
+    
+
+
+
+
+
+
+
+
+ 
+
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-04484004v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
+        PDF
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd24tro/girerd24tro.mp4&#34;  &gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
+        Video
+      &lt;/a&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+        
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd24tro/cite.bib&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
+        &lt;span&gt;Cite&lt;/span&gt;
+      &lt;/button&gt;
+    
+  
+
+  
+    
+    
+    
+    
+    
+    
+      
+      
+    
+
+    
+    
+    
+      
+        
+      
+    
+    
+
+    
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TRO.2024.3370088&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
+        DOI
+      &lt;/a&gt;
+    
+  
+
+
+  &lt;/div&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

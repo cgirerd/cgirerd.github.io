@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chibundo Nwafor | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/chibundo-nwafor/</link>
+      <atom:link href="https://cgirerd.github.io/author/chibundo-nwafor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chibundo Nwafor</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <title>Chibundo Nwafor</title>
+      <link>https://cgirerd.github.io/author/chibundo-nwafor/</link>
+    </image>
+    
+    <item>
+      <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

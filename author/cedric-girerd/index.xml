@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cédric Girerd | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/cedric-girerd/</link>
+      <atom:link href="https://cgirerd.github.io/author/cedric-girerd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cédric Girerd</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/author/cedric-girerd/avatar_hu_22267a3c802ddf4d.jpeg</url>
+      <title>Cédric Girerd</title>
+      <link>https://cgirerd.github.io/author/cedric-girerd/</link>
+    </image>
+    
+    <item>
+      <title>Tip-Growing Robots: Design, Theory, Application</title>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
+      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
+      <link>https://cgirerd.github.io/publication/benoist24cras/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/benoist24cras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
+      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots via Differentiable Rendering</title>
+      <link>https://cgirerd.github.io/publication/lu23icra/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/lu23icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ForceSticker: Wireless, Batteryless, Thin &amp; Flexible Force Sensors</title>
+      <link>https://cgirerd.github.io/publication/gupta23acm/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta23acm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3-D Haptic Trackball Interface for Teleoperating Continuum Robots</title>
+      <link>https://cgirerd.github.io/publication/xie22biorob/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/xie22biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
+      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
+      <link>https://cgirerd.github.io/publication/lin22tro/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/lin22tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering</title>
+      <link>https://cgirerd.github.io/publication/park22ral/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/park22ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
+      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
+      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
+      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery</title>
+      <link>https://cgirerd.github.io/publication/girerd20tro/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd20tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
+      <link>https://cgirerd.github.io/publication/girerd20tmrb/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd20tmrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
+      <link>https://cgirerd.github.io/publication/girerd19jmr/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd19jmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd20ral/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
+      <link>https://cgirerd.github.io/publication/girerd18abme/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd18abme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conception de robots à tubes concentriques et application à l&#39;inspection des cellules olfactives</title>
+      <link>https://cgirerd.github.io/publication/girerd18phdthesis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd18phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
+      <link>https://cgirerd.github.io/publication/girerd17surgetica/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd17surgetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment</title>
+      <link>https://cgirerd.github.io/publication/girerd17iros/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd17iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd16ark/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16ark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
+      <link>https://cgirerd.github.io/publication/girerd16jjcr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16jjcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration</title>
+      <link>https://cgirerd.github.io/publication/girerd16cras/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16cras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Low-Cost Robotic System for the Efficient Visual Inspection of Tunnels</title>
+      <link>https://cgirerd.github.io/publication/stent15isarc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/stent15isarc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

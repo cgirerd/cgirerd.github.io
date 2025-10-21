@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanty Rabenorosoa | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/kanty-rabenorosoa/</link>
+      <atom:link href="https://cgirerd.github.io/author/kanty-rabenorosoa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kanty Rabenorosoa</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <title>Kanty Rabenorosoa</title>
+      <link>https://cgirerd.github.io/author/kanty-rabenorosoa/</link>
+    </image>
+    
+    <item>
+      <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
+      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
+      <link>https://cgirerd.github.io/publication/girerd20tmrb/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd20tmrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
+      <link>https://cgirerd.github.io/publication/girerd19jmr/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd19jmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd20ral/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
+      <link>https://cgirerd.github.io/publication/girerd18abme/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd18abme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
+      <link>https://cgirerd.github.io/publication/girerd17surgetica/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd17surgetica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment</title>
+      <link>https://cgirerd.github.io/publication/girerd17iros/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd17iros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots</title>
+      <link>https://cgirerd.github.io/publication/girerd16ark/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16ark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
+      <link>https://cgirerd.github.io/publication/girerd16jjcr/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16jjcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration</title>
+      <link>https://cgirerd.github.io/publication/girerd16cras/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/girerd16cras/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raghav Subbaraman | C. Girerd</title>
+    <link>https://cgirerd.github.io/author/raghav-subbaraman/</link>
+      <atom:link href="https://cgirerd.github.io/author/raghav-subbaraman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raghav Subbaraman</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <title>Raghav Subbaraman</title>
+      <link>https://cgirerd.github.io/author/raghav-subbaraman/</link>
+    </image>
+    
+    <item>
+      <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
+      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

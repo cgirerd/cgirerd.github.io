@@ -1,0 +1,65 @@
+﻿Type,Date,Authors,Publication,Number of arms,Number of tubes,Number of DoF,Mode of actuation,Actuation type,Dimensions LxWxH (mm),Weight (kg)
+Parallel,2022,Florea et al.,https://doi.org/10.1117/12.2606834,2,2-2,8,R/T,EM actuator,-,-
+Parallel,2021,Girerd et al.,https://dx.doi.org/10.1109/TRO.2020.3043668,1,3,6,R/T,EM actuator,256x48x160,0.37
+Parallel,2020,Rox et al.,https://dx.doi.org/10.1109/TMECH.2020.2976897,2,2-2,8,R/T,EM actuator,280x105x84,2.7
+Parallel,2020,Girerd et al.,https://dx.doi.org/10.1109/LRA.2019.2963821,1,3,3+,R/T,EM actuator,-,-
+Parallel,2020,Gafford et al.,https://dx.doi.org/10.1007/s10439-019-02325-x,2,2-2,8,R/T,EM actuator,-,-
+Parallel,2020,Wang et al.,https://dx.doi.org/10.1007/s11517-019-02093-9 ,3,2-3-3,16,R/T,EM actuator,720x150x150,-
+Parallel,2019,Esakkiappan et al.,https://dx.doi.org/10.1109/AIM.2019.8868571,1,2,3,R/T,EM actuator,300x-x-,3.3
+Parallel,2019,Farooq et al.,https://dx.doi.org/10.1186/s12938-019-0666-x,1,2,4,R/T,EM actuator,148x25x65,-
+Parallel,2018,Comber et al.,https://dx.doi.org/10.1115/1.4026765,1,3,5,R/T,Pneumatic,308x711x203,-
+Parallel,2018,Kudryavtsev et al.,https://dx.doi.org/10.1109/LRA.2018.2807592,1,3,3,R/T,EM actuator,-,-
+Parallel,2017,Baran et al.,https://dx.doi.org/10.1109/IROS.2017.8206137,1,3,6,R/T,EM actuator,-,-
+Parallel,2017,Dwyer et al.,https://dx.doi.org/10.1109/LRA.2017.2679902,1,2,2,R/T,EM actuator,-,-
+Parallel,2017,Ha et al.,https://dx.doi.org/10.1109/TRO.2016.2622278,1,2,2,R,EM actuator,-,-
+Parallel,2017,Razjigaev et al.,https://dx.doi.org/10.1109/ROBIO.2017.8324577,1,3,5,R/T,EM actuator,-,-
+Parallel,2017,Ponten et al.,https://dx.doi.org/10.1117/12.2254892,1,3,5,R/T,EM actuator,-,-
+Parallel,2017,Girerd et al.,https://dx.doi.org/10.1109/IROS.2017.8206455,1,3,4+,R/T,EM actuator,-,-
+Parallel,2017,Morimoto et al.,https://dx.doi.org/10.1109/EMBC.2017.8036788,1,3,6,R/T,EM actuator,-,-
+Parallel,2017,Lu et al.,https://dx.doi.org/10.1109/ICInfA.2017.8078923,1,2,4,R/T,EM actuator,380x-x-,1.85
+Parallel,2017,Morimoto et al.,https://dx.doi.org/10.1109/LRA.2017.2676240,1,3,6,R/T,EM actuator,444x89x102,0.49
+Parallel,2017,Xu et al.,https://ir.lib.uwo.ca/etd/4311 https://dx.doi.org/10.1109/ICRA.2014.6907496 https://dx.doi.org/10.1109/EMBC.2012.6346078,1,2,4,R/T,EM actuator,400x400x-,7
+Parallel,2017,Xu et al.,https://ir.lib.uwo.ca/etd/4311,1,3,6,R/T,EM actuator,900x250x200,20
+Parallel,2017,Xu et al.,https://ir.lib.uwo.ca/etd/4311,1,3,6,R/T,EM actuator,80x150x-,15
+Parallel,2016,Swaney et al.,https://dx.doi.org/10.1115/DSCC2012-MOVIC2012-8536,4,3-3-3,24,R/T,EM actuator,-,-
+Parallel,2016,Morimoto et al.,https://dx.doi.org/10.1109/TRO.2016.2602368,1,2,2,R/T,EM actuator,-,-
+Parallel,2016,Yu et al.,https://dx.doi.org/10.1109/LRA.2016.2530794,3,1-2-2-2,13,R/T,EM actuator,-,-
+Parallel,2016,Fagogenis et al.,https://dx.doi.org/10.1109/IROS.2016.7759636,1,-,3,R/T,EM actuator,-,-
+Parallel,2016,Comber et al.,https://dx.doi.org/10.1109/TRO.2015.2504981,1,2,2,R/T,Pneumatic,330x89x89,7
+Parallel,2016,Francis et al.,https://www.researchgate.net/publication/318280592_Concentric_Tube_Instrument_for_the_Da_Vinci_Platform,1,3,3,R/T,-,-,-
+Parallel,2016,Zhu et al.,https://dx.doi.org/10.1115/1.4033246,1,2,3,R/T,EM actuator,160x54x40,-
+Parallel,2016,Gilbert et al.,https://etd.library.vanderbilt.edu/etd-07202016-210649 ,3,-,18+,R/T,EM actuator,-,-
+Parallel,2016,Gilbert et al.,https://dx.doi.org/10.1109/TRO.2015.2500422 https://etd.library.vanderbilt.edu/etd-07202016-210649 ,1,2,1+,R/-,Manual,-,-
+Parallel,2016,Gilbert et al.,https://dx.doi.org/10.1109/TRO.2015.2394331 https://etd.library.vanderbilt.edu/etd-07202016-210649 ,1,2,2+,R/T,EM actuator,-,-
+Parallel,2015,Lee et al.,https://dx.doi.org/10.1109/TRO.2015.2481283,1,2,1,R,EM actuator,-,-
+Parallel,2015,Lin et al.,https://dx.doi.org/10.1109/EMBC.2015.7319583 ,1,2,4,R/T,EM actuator,-,-
+Parallel,2015,Swaney et al.,https://robotics.cs.unc.edu/publications/Swaney2015_HSMR.pdf,1,3,5+,R/T,EM actuator,-,-
+Parallel,2015,Swaney et al.,https://dx.doi.org/10.1055/s-0034-1390401,1,3,6,R/T,EM actuator,-,-
+Parallel,2015,Kim et al.,https://dx.doi.org/10.1109/IROS.2015.7353823,1,3,5,R/T,EM actuator,-,-
+Parallel,2015,Wu et al.,https://dx.doi.org/10.1109/ROBIO.2015.7418795,1,2,3,R/T,EM actuator,210x40x40,0.496
+Parallel,2015,Amanov et al.,https://dx.doi.org/10.1117/12.2081999,1,3,-,R/T,Semi-manual,-,-
+Parallel,2014,Kim et al.,https://dx.doi.org/10.1109/ICRA.2014.6907723,1,2,1,R,EM actuator,-,-
+Parallel,2014,Azimian et al.,https://dx.doi.org/10.1109/IROS.2014.6942833,1,2,1,R,EM actuator,-,-
+Parallel,2014,Azimian et al.,https://dx.doi.org/10.1109/IROS.2014.6942833,1,2,4,R/T,EM actuator,-,-
+Parallel,2014,Burgner-Kahrs et al.,https://dx.doi.org/10.1109/IROS.2014.6942720,1,3,6,R/T,EM actuator,-,-
+Parallel,2014,Burgner-Kahrs et al.,https://dx.doi.org/10.1109/IROS.2011.6094722 https://dx.doi.org/10.1109/TMECH.2013.2265804 ,2,3-3,12,R/T,EM actuator,-,-
+Parallel,2014,Hendrick et al.,https://dx.doi.org/10.1177/0278364915585397 https://dx.doi.org/10.1109/ICRA.2014.6907268,2,2-3,9,R/T,EM actuator,-,-
+Parallel,2014,Comber et al.,https://dx.doi.org/10.1115/1.4024832,1,3,5,R/T,Pneumatic,-,-
+Parallel,2014,Boushaki et al.,https://dx.doi.org/10.1109/ICRA.2014.6907724,1,3,6,R/T,EM actuator,-,-
+Parallel,2013,Comber et al.,http://research.vuse.vanderbilt.edu/MEDLab/sites/default/files/ComberOpen-LoopHamlyn13.pdf,1,3,5,R/T,Pneumatic,-,-
+Parallel,2013,Burgner-Kahrs et al.,https://dx.doi.org/10.1109/TBME.2013.2260860,1,2,3,R/T,EM actuator,-,-
+Parallel,2012,Gosline et al.,https://dx.doi.org/10.1177/0278364912443718 https://dx.doi.org/10.2217/fca.12.20 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.703.3585&rep=rep1&type=pdf https://dx.doi.org/10.1177/0278364914543671,1,4,7,R/T,EM actuator,-,-
+Parallel,2012,Bai et al.,https://dx.doi.org/10.1109/ROBIO.2012.6490953,1,2,2,R/T,Manual,-,-
+Parallel,2012,Burgner-Kahrs et al.,https://dx.doi.org/10.1115/1.4007944 ,1,2,4,R/T,Manual,100x90x260,2
+Parallel,2012,Swaney et al.,https://dx.doi.org/10.1115/DSCC2012-MOVIC2012-8536,4,3-3-3-3,24,R/T,EM actuator,-,-
+Parallel,2011,Walsh et al.,https://dx.doi.org/10.1109/IEMBS.2011.6090390 https://dx.doi.org/10.1109/ICRA.2012.6225365,1,2,3,R/T,EM actuator,150x15x15,-
+Parallel,2010,Su et al.,https://www.researchgate.net/publication/229011320_Modular_needle_steering_driver_for_MRI-guided_transperineal_prostate_intervention,1,2,3,R/T,Piezoelectric,-,3.5
+Parallel,2007,Webster et al.,http://research.vuse.vanderbilt.edu/MEDlab/sites/default/files/WebsterDissertation07.pdf,1,3,6,R/T,EM actuator,-,-
+Parallel,2007,Webster et al.,http://research.vuse.vanderbilt.edu/MEDlab/sites/default/files/WebsterDissertation07.pdf https://dx.doi.org/10.1109/TRO.2008.2006868 https://dx.doi.org/10.1109/ROBOT.2008.4543808 https://dx.doi.org/10.1177/0278364910367543 https://etd.library.vanderbilt.edu/etd-10042011-115347 ,1,2,2+,R/T,Manual,-,-
+Parallel,2005,Okazawa et al.,https://dx.doi.org/10.1109/TMECH.2005.848300,1,2,2,R/T,EM actuator,-,-
+Hybrid,2018,Boushaki et al,https://tel.archives-ouvertes.fr/tel-01817565/document 10.1109/ICARCV.2016.7838563,1,3,6,R/T,EM actuator,-,-
+Hybrid,2016,Su et al.,https://dx.doi.org/10.1007/s10439-016-1585-7,1,3,6,R/T,Piezoelectric,-,-
+Hybrid,2012,Sophocleous et al.,https://dx.doi.org/10.1109/BIBE.2012.6399679,1,3,3,R/T,EM actuator,570x135x190,-
+Hybrid,2012,Su et al.,https://dx.doi.org/10.1109/ICRA.2012.6224550,1,3,4,R/T,Piezoelectric,-,-
+Hybrid,2012,Cardona et al.,http://research.vuse.vanderbilt.edu/MEDLab/sites/default/files/SuMRI-GuidedICRA12.pdf,1,3,3,R/T,Pneumatic,820x130x85,-
+Hybrid,2010,Rucker et al.,https://etd.library.vanderbilt.edu/etd-10042011-115347 10.1109/TRO.2010.2062570 10.1109/ROBOT.2010.5509695 10.1109/ROBOT.2010.5509701,1,2,4,R/T,Manual,-,-
