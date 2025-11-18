@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tania K. Morimoto | C. Girerd</title>
-    <link>http://localhost:1313/author/tania-k.-morimoto/</link>
-      <atom:link href="http://localhost:1313/author/tania-k.-morimoto/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/author/tania-k.-morimoto/</link>
+      <atom:link href="https://cgirerd.github.io/author/tania-k.-morimoto/index.xml" rel="self" type="application/rss+xml" />
     <description>Tania K. Morimoto</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Tania K. Morimoto</title>
-      <link>http://localhost:1313/author/tania-k.-morimoto/</link>
+      <link>https://cgirerd.github.io/author/tania-k.-morimoto/</link>
     </image>
     
     <item>
       <title>Tip-Growing Robots: Design, Theory, Application</title>
-      <link>http://localhost:1313/publication/al_harthy24tro/</link>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/al_harthy24tro/</guid>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
-      <link>http://localhost:1313/publication/giri25tmech/</link>
+      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri25tmech/</guid>
+      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
-      <link>http://localhost:1313/publication/lin24tbme/</link>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin24tbme/</guid>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
-      <link>http://localhost:1313/publication/girerd24tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd24tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>http://localhost:1313/publication/dunn23optimization/</link>
+      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
+      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ForceSticker: Wireless, Batteryless, Thin &amp; Flexible Force Sensors</title>
-      <link>http://localhost:1313/publication/gupta23acm/</link>
+      <link>https://cgirerd.github.io/publication/gupta23acm/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta23acm/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta23acm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
-      <link>http://localhost:1313/publication/nwafor22tro/</link>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nwafor22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A 3-D Haptic Trackball Interface for Teleoperating Continuum Robots</title>
-      <link>http://localhost:1313/publication/xie22biorob/</link>
+      <link>https://cgirerd.github.io/publication/xie22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/xie22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/giri22biorob/</link>
+      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
-      <link>http://localhost:1313/publication/lin22tro/</link>
+      <link>https://cgirerd.github.io/publication/lin22tro/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/lin22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering</title>
-      <link>http://localhost:1313/publication/park22ral/</link>
+      <link>https://cgirerd.github.io/publication/park22ral/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/park22ral/</guid>
+      <guid>https://cgirerd.github.io/publication/park22ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
-      <link>http://localhost:1313/publication/gupta22getmobile/</link>
+      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
-      <link>http://localhost:1313/publication/girerd21sensors/</link>
+      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd21sensors/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
-      <link>http://localhost:1313/publication/gupta21nsdi/</link>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta21nsdi/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/girerd20tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd20tro/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20tro/</guid>
       <description></description>
     </item>
     

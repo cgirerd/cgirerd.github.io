@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anugrah Jo Joshy | C. Girerd</title>
-    <link>http://localhost:1313/author/anugrah-jo-joshy/</link>
-      <atom:link href="http://localhost:1313/author/anugrah-jo-joshy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/author/anugrah-jo-joshy/</link>
+      <atom:link href="https://cgirerd.github.io/author/anugrah-jo-joshy/index.xml" rel="self" type="application/rss+xml" />
     <description>Anugrah Jo Joshy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Anugrah Jo Joshy</title>
-      <link>http://localhost:1313/author/anugrah-jo-joshy/</link>
+      <link>https://cgirerd.github.io/author/anugrah-jo-joshy/</link>
     </image>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>http://localhost:1313/publication/dunn23optimization/</link>
+      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
+      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     

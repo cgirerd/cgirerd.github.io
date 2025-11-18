@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Girerd</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/</link>
+      <atom:link href="https://cgirerd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Girerd</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>C. Girerd</title>
-      <link>http://localhost:1313/</link>
+      <link>https://cgirerd.github.io/</link>
     </image>
     
     <item>
       <title>Vine Growing Robots</title>
-      <link>http://localhost:1313/research/vine-growing-robots/</link>
+      <link>https://cgirerd.github.io/research/vine-growing-robots/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/vine-growing-robots/</guid>
+      <guid>https://cgirerd.github.io/research/vine-growing-robots/</guid>
       <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or &amp;ldquo;vine&amp;rdquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -42,20 +42,20 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;http://localhost:1313/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -123,7 +123,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/tip-growing-robots/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/tip-growing-robots/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -220,14 +220,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/ayush-giri/&#34;&gt;Ayush Giri&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/jacobo-cervera-torralba/&#34;&gt;Jacobo Cervera-Torralba&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/michael-t.-tolley/&#34;&gt;Michael T. Tolley&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/ayush-giri/&#34;&gt;Ayush Giri&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jacobo-cervera-torralba/&#34;&gt;Jacobo Cervera-Torralba&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/michael-t.-tolley/&#34;&gt;Michael T. Tolley&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;http://localhost:1313/publication/giri25tmech/&#34; class=&#34;underline&#34;&gt;InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/giri25tmech/&#34; class=&#34;underline&#34;&gt;InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy&lt;/a&gt;.
   &lt;em&gt;TMECH&lt;/em&gt;.
   
 
@@ -363,13 +363,13 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/anna-alvarez/&#34;&gt;Anna Alvarez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/elliot-w.-hawkes/&#34;&gt;Elliot W. Hawkes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/anna-alvarez/&#34;&gt;Anna Alvarez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/elliot-w.-hawkes/&#34;&gt;Elliot W. Hawkes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2024).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34; class=&#34;underline&#34;&gt;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34; class=&#34;underline&#34;&gt;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -437,7 +437,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd24tro/girerd24tro.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd24tro/girerd24tro.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -516,17 +516,17 @@
     
     <item>
       <title>Tip-Growing Robots: Design, Theory, Application</title>
-      <link>http://localhost:1313/publication/al_harthy24tro/</link>
+      <link>https://cgirerd.github.io/publication/al_harthy24tro/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/al_harthy24tro/</guid>
+      <guid>https://cgirerd.github.io/publication/al_harthy24tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tip-Growing Robots</title>
-      <link>http://localhost:1313/databases/tip-growing-robots/</link>
+      <link>https://cgirerd.github.io/databases/tip-growing-robots/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/databases/tip-growing-robots/</guid>
+      <guid>https://cgirerd.github.io/databases/tip-growing-robots/</guid>
       <description>&lt;p&gt;This web page is a resource on tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis. If you are making use of this database, please cite our associated publication below.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
@@ -552,20 +552,20 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;http://localhost:1313/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -633,7 +633,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/tip-growing-robots/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/tip-growing-robots/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -721,17 +721,17 @@
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
-      <link>http://localhost:1313/publication/giri25tmech/</link>
+      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri25tmech/</guid>
+      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CTR Design Optimization</title>
-      <link>http://localhost:1313/research/ctr-design-optimization/</link>
+      <link>https://cgirerd.github.io/research/ctr-design-optimization/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ctr-design-optimization/</guid>
+      <guid>https://cgirerd.github.io/research/ctr-design-optimization/</guid>
       <description>&lt;p&gt;Concentric tube robots have a large number of design variables, which is often reduced in order for design optimization problems to be tractable by gradient-free approaches. However, this reduces the design space of the robots, which can lead to sub-optimal results. To overcome those limitations, we propose a design optimization problem formulation compatible with grandient-based methods, allowing us to explore a larger design space.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -757,17 +757,17 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/benjamin-t.-ostrander/&#34;&gt;Benjamin T. Ostrander&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/parsa-molaei/&#34;&gt;Parsa Molaei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/hunter-b.-gilbert/&#34;&gt;Hunter B. Gilbert&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/philip-a.-weissbrod/&#34;&gt;Philip A. Weissbrod&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/benjamin-t.-ostrander/&#34;&gt;Benjamin T. Ostrander&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/parsa-molaei/&#34;&gt;Parsa Molaei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/hunter-b.-gilbert/&#34;&gt;Hunter B. Gilbert&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/philip-a.-weissbrod/&#34;&gt;Philip A. Weissbrod&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2024).
-  &lt;a href=&#34;http://localhost:1313/publication/lin24tbme/&#34; class=&#34;underline&#34;&gt;Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/lin24tbme/&#34; class=&#34;underline&#34;&gt;Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery&lt;/a&gt;.
   &lt;em&gt;TBME&lt;/em&gt;.
   
 
@@ -903,15 +903,15 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/ryan-c.-dunn/&#34;&gt;Ryan C. Dunn&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/anugrah-jo-joshy/&#34;&gt;Anugrah Jo Joshy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/ryan-c.-dunn/&#34;&gt;Ryan C. Dunn&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/anugrah-jo-joshy/&#34;&gt;Anugrah Jo Joshy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/dunn23optimization/&#34; class=&#34;underline&#34;&gt;Scalable enforcement of geometric non-interference constraints for gradient-based optimization&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/dunn23optimization/&#34; class=&#34;underline&#34;&gt;Scalable enforcement of geometric non-interference constraints for gradient-based optimization&lt;/a&gt;.
   &lt;em&gt;Optim Eng&lt;/em&gt;.
   
 
@@ -1047,14 +1047,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -1122,7 +1122,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -1219,14 +1219,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/jiayao-yan/&#34;&gt;Jiayao Yan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jui-te-lin/&#34;&gt;Jui-Te Lin&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/jiayao-yan/&#34;&gt;Jiayao Yan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/john-t.-hwang/&#34;&gt;John T. Hwang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2022).
-  &lt;a href=&#34;http://localhost:1313/publication/lin22tro/&#34; class=&#34;underline&#34;&gt;A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/lin22tro/&#34; class=&#34;underline&#34;&gt;A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -1344,65 +1344,65 @@
     
     <item>
       <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
-      <link>http://localhost:1313/publication/benoist24cras/</link>
+      <link>https://cgirerd.github.io/publication/benoist24cras/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benoist24cras/</guid>
+      <guid>https://cgirerd.github.io/publication/benoist24cras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
-      <link>http://localhost:1313/publication/lin24tbme/</link>
+      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin24tbme/</guid>
+      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://cgirerd.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://cgirerd.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots</title>
-      <link>http://localhost:1313/publication/girerd24tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd24tro/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd24tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd24tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>http://localhost:1313/publication/dunn23optimization/</link>
+      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
+      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://cgirerd.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://cgirerd.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image-based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots via Differentiable Rendering</title>
-      <link>http://localhost:1313/publication/lu23icra/</link>
+      <link>https://cgirerd.github.io/publication/lu23icra/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lu23icra/</guid>
+      <guid>https://cgirerd.github.io/publication/lu23icra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concentric Tube Robots</title>
-      <link>http://localhost:1313/databases/ctr-prototyping/</link>
+      <link>https://cgirerd.github.io/databases/ctr-prototyping/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/databases/ctr-prototyping/</guid>
+      <guid>https://cgirerd.github.io/databases/ctr-prototyping/</guid>
       <description>&lt;p&gt;This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of this database, please cite our associated publication below.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
@@ -1428,14 +1428,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -1503,7 +1503,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -1593,9 +1593,9 @@
     
     <item>
       <title>Wireless Sensors</title>
-      <link>http://localhost:1313/research/wireless-sensors/</link>
+      <link>https://cgirerd.github.io/research/wireless-sensors/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/wireless-sensors/</guid>
+      <guid>https://cgirerd.github.io/research/wireless-sensors/</guid>
       <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -1621,17 +1621,17 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/nagarjun-bhat/&#34;&gt;Nagarjun Bhat&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/siddhi-mundhra/&#34;&gt;Siddhi Mundhra&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/nagarjun-bhat/&#34;&gt;Nagarjun Bhat&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/siddhi-mundhra/&#34;&gt;Siddhi Mundhra&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/gupta23acm/&#34; class=&#34;underline&#34;&gt;ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta23acm/&#34; class=&#34;underline&#34;&gt;ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a&gt;.
   In &lt;em&gt;ACM IMWUT&lt;/em&gt;.
   
 
@@ -1767,15 +1767,15 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2022).
-  &lt;a href=&#34;http://localhost:1313/publication/park22ral/&#34; class=&#34;underline&#34;&gt;Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/park22ral/&#34; class=&#34;underline&#34;&gt;Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a&gt;.
   &lt;em&gt;RA-L&lt;/em&gt;.
   
 
@@ -1815,7 +1815,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/park22ral/park22ral.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/park22ral/park22ral.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -1912,16 +1912,16 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;http://localhost:1313/publication/gupta22getmobile/&#34; class=&#34;underline&#34;&gt;Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/&#34; class=&#34;underline&#34;&gt;Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a&gt;.
   In &lt;em&gt;GetMobile&lt;/em&gt;.
   
 
@@ -1961,7 +1961,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/gupta22getmobile/gupta22getmobile.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/gupta22getmobile.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -2058,16 +2058,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd21sensors/&#34; class=&#34;underline&#34;&gt;Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd21sensors/&#34; class=&#34;underline&#34;&gt;Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a&gt;.
   &lt;em&gt;IEEE Sensors Journal&lt;/em&gt;.
   
 
@@ -2107,7 +2107,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd21sensors/girerd21sensors.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd21sensors/girerd21sensors.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -2204,16 +2204,16 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;http://localhost:1313/publication/gupta21nsdi/&#34; class=&#34;underline&#34;&gt;WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/&#34; class=&#34;underline&#34;&gt;WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a&gt;.
   In &lt;em&gt;NSDI&lt;/em&gt;.
   
 
@@ -2309,7 +2309,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/gupta21nsdi/gupta21nsdi.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/gupta21nsdi.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -2360,97 +2360,97 @@
     
     <item>
       <title>ForceSticker: Wireless, Batteryless, Thin &amp; Flexible Force Sensors</title>
-      <link>http://localhost:1313/publication/gupta23acm/</link>
+      <link>https://cgirerd.github.io/publication/gupta23acm/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta23acm/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta23acm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Fabrication of Concentric Tube Robots: A Survey</title>
-      <link>http://localhost:1313/publication/nwafor22tro/</link>
+      <link>https://cgirerd.github.io/publication/nwafor22tro/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nwafor22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/nwafor22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://cgirerd.github.io/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://cgirerd.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A 3-D Haptic Trackball Interface for Teleoperating Continuum Robots</title>
-      <link>http://localhost:1313/publication/xie22biorob/</link>
+      <link>https://cgirerd.github.io/publication/xie22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xie22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/xie22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/giri22biorob/</link>
+      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giri22biorob/</guid>
+      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
-      <link>http://localhost:1313/publication/lin22tro/</link>
+      <link>https://cgirerd.github.io/publication/lin22tro/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lin22tro/</guid>
+      <guid>https://cgirerd.github.io/publication/lin22tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering</title>
-      <link>http://localhost:1313/publication/park22ral/</link>
+      <link>https://cgirerd.github.io/publication/park22ral/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/park22ral/</guid>
+      <guid>https://cgirerd.github.io/publication/park22ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
-      <link>http://localhost:1313/publication/nguyen21ral/</link>
+      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nguyen21ral/</guid>
+      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
-      <link>http://localhost:1313/publication/gupta22getmobile/</link>
+      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
-      <link>http://localhost:1313/publication/girerd21sensors/</link>
+      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd21sensors/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
-      <link>http://localhost:1313/publication/gupta21nsdi/</link>
+      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gupta21nsdi/</guid>
+      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact Continuum Robots</title>
-      <link>http://localhost:1313/research/compact-continuum-robots/</link>
+      <link>https://cgirerd.github.io/research/compact-continuum-robots/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/compact-continuum-robots/</guid>
+      <guid>https://cgirerd.github.io/research/compact-continuum-robots/</guid>
       <description>&lt;p&gt;The standard-of-care involves a range of affordable, manual, hand-held rigid tools, with limited dexterity. In contrast, roboticized tools with increased accessibility and dexterity are usually larger, heavier, grounded devices that are teleoperated, posing a new set of challenges. To bridge the gap between those classes of devices, we propose a hand-held concentric tube robot that has the dexterity and precision of large roboticized devices, while maintaining the footprint of a traditional hand-held tool.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -2476,14 +2476,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -2551,7 +2551,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -2648,11 +2648,11 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd20tro/&#34; class=&#34;underline&#34;&gt;Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20tro/&#34; class=&#34;underline&#34;&gt;Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -2720,7 +2720,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20tro/girerd20tro.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tro/girerd20tro.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -2799,17 +2799,17 @@
     
     <item>
       <title>Design and Control of a Hand-Held Concentric Tube Robot for Minimally Invasive Surgery</title>
-      <link>http://localhost:1313/publication/girerd20tro/</link>
+      <link>https://cgirerd.github.io/publication/girerd20tro/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20tro/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20tro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/research/ftl-deployment/</link>
+      <link>https://cgirerd.github.io/research/ftl-deployment/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ftl-deployment/</guid>
+      <guid>https://cgirerd.github.io/research/ftl-deployment/</guid>
       <description>&lt;p&gt;The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -2835,14 +2835,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -2910,7 +2910,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -3007,16 +3007,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
   &lt;em&gt;TMRB&lt;/em&gt;.
   
 
@@ -3056,7 +3056,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -3085,7 +3085,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -3182,14 +3182,14 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/thomas-schlinquer/&#34;&gt;Thomas Schlinquer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/thomas-schlinquer/&#34;&gt;Thomas Schlinquer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd19jmr/&#34; class=&#34;underline&#34;&gt;Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd19jmr/&#34; class=&#34;underline&#34;&gt;Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment&lt;/a&gt;.
   &lt;em&gt;JMR&lt;/em&gt;.
   
 
@@ -3229,7 +3229,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd19jmr/girerd19jmr.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -3258,7 +3258,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd19jmr/girerd19jmr.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -3355,16 +3355,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
   &lt;em&gt;RA-L&lt;/em&gt;.
   
 
@@ -3432,7 +3432,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -3529,19 +3529,19 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/thomas-lihoreau/&#34;&gt;Thomas Lihoreau&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/mourad-benassarou/&#34;&gt;Mourad Benassarou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/laurent-tavernier/&#34;&gt;Laurent Tavernier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/lionel-pazart/&#34;&gt;Lionel Pazart&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/emmanuel-haffen/&#34;&gt;Emmanuel Haffen&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/thomas-lihoreau/&#34;&gt;Thomas Lihoreau&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/mourad-benassarou/&#34;&gt;Mourad Benassarou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/laurent-tavernier/&#34;&gt;Laurent Tavernier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/lionel-pazart/&#34;&gt;Lionel Pazart&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/emmanuel-haffen/&#34;&gt;Emmanuel Haffen&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd18abme/&#34; class=&#34;underline&#34;&gt;In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd18abme/&#34; class=&#34;underline&#34;&gt;In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy&lt;/a&gt;.
   &lt;em&gt;ABME&lt;/em&gt;.
   
 
@@ -3609,7 +3609,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd18abme/anatomical_data.zip&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd18abme/anatomical_data.zip&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -3706,10 +3706,10 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2018).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd18phdthesis/&#34; class=&#34;underline&#34;&gt;Conception de robots à tubes concentriques et application à l&amp;#39;inspection des cellules olfactives&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd18phdthesis/&#34; class=&#34;underline&#34;&gt;Conception de robots à tubes concentriques et application à l&amp;#39;inspection des cellules olfactives&lt;/a&gt;.
   In &lt;em&gt;University of Strasbourg&lt;/em&gt;.
   
 
@@ -3749,7 +3749,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd18phdthesis/girerd18phdthesis.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd18phdthesis/girerd18phdthesis.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -3818,12 +3818,12 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd17surgetica/&#34; class=&#34;underline&#34;&gt;Toward a Robotized Inspection of the Olfactory Epithelium&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd17surgetica/&#34; class=&#34;underline&#34;&gt;Toward a Robotized Inspection of the Olfactory Epithelium&lt;/a&gt;.
   In &lt;em&gt;Surgetica&lt;/em&gt;.
   
 
@@ -3863,7 +3863,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd17surgetica/girerd17surgetica.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17surgetica/girerd17surgetica.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -3932,13 +3932,13 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd17iros/&#34; class=&#34;underline&#34;&gt;Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd17iros/&#34; class=&#34;underline&#34;&gt;Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment&lt;/a&gt;.
   In &lt;em&gt;IROS&lt;/em&gt;.
   
 
@@ -3978,7 +3978,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd17iros/girerd17iros.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17iros/girerd17iros.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -4007,7 +4007,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd17iros/girerd17iros.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17iros/girerd17iros.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -4104,12 +4104,12 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd16ark/&#34; class=&#34;underline&#34;&gt;Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd16ark/&#34; class=&#34;underline&#34;&gt;Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
   In &lt;em&gt;ARK&lt;/em&gt;.
   
 
@@ -4149,7 +4149,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd16ark/girerd16ark.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd16ark/girerd16ark.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -4246,12 +4246,12 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2016).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd16cras/&#34; class=&#34;underline&#34;&gt;Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd16cras/&#34; class=&#34;underline&#34;&gt;Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration&lt;/a&gt;.
   In &lt;em&gt;CRAS&lt;/em&gt;.
   
 
@@ -4291,7 +4291,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd16cras/girerd16cras.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd16cras/girerd16cras.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -4342,17 +4342,17 @@
     
     <item>
       <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
-      <link>http://localhost:1313/publication/girerd20tmrb/</link>
+      <link>https://cgirerd.github.io/publication/girerd20tmrb/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20tmrb/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20tmrb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM-Based Deployment</title>
-      <link>http://localhost:1313/research/slam-based-deployment/</link>
+      <link>https://cgirerd.github.io/research/slam-based-deployment/</link>
       <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/slam-based-deployment/</guid>
+      <guid>https://cgirerd.github.io/research/slam-based-deployment/</guid>
       <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -4378,14 +4378,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -4453,7 +4453,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -4550,16 +4550,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
   &lt;em&gt;TMRB&lt;/em&gt;.
   
 
@@ -4599,7 +4599,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -4628,7 +4628,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -4725,16 +4725,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
-  &lt;a href=&#34;http://localhost:1313/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
+  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
   &lt;em&gt;RA-L&lt;/em&gt;.
   
 
@@ -4802,7 +4802,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -4881,89 +4881,89 @@
     
     <item>
       <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/publication/girerd19jmr/</link>
+      <link>https://cgirerd.github.io/publication/girerd19jmr/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd19jmr/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd19jmr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>http://localhost:1313/publication/girerd20ral/</link>
+      <link>https://cgirerd.github.io/publication/girerd20ral/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd20ral/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Détection optique endonasale de la maladie d&#39;Alzheimer</title>
-      <link>http://localhost:1313/publication/tavernier19orlcorsica/</link>
+      <link>https://cgirerd.github.io/publication/tavernier19orlcorsica/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tavernier19orlcorsica/</guid>
+      <guid>https://cgirerd.github.io/publication/tavernier19orlcorsica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy</title>
-      <link>http://localhost:1313/publication/girerd18abme/</link>
+      <link>https://cgirerd.github.io/publication/girerd18abme/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd18abme/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd18abme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conception de robots à tubes concentriques et application à l&#39;inspection des cellules olfactives</title>
-      <link>http://localhost:1313/publication/girerd18phdthesis/</link>
+      <link>https://cgirerd.github.io/publication/girerd18phdthesis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd18phdthesis/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd18phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward a Robotized Inspection of the Olfactory Epithelium</title>
-      <link>http://localhost:1313/publication/girerd17surgetica/</link>
+      <link>https://cgirerd.github.io/publication/girerd17surgetica/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd17surgetica/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd17surgetica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/publication/girerd17iros/</link>
+      <link>https://cgirerd.github.io/publication/girerd17iros/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd17iros/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd17iros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>http://localhost:1313/publication/girerd16ark/</link>
+      <link>https://cgirerd.github.io/publication/girerd16ark/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16ark/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16ark/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concentric Tube Robots for Inspection of Olfactory Cells</title>
-      <link>http://localhost:1313/publication/girerd16jjcr/</link>
+      <link>https://cgirerd.github.io/publication/girerd16jjcr/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16jjcr/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16jjcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration</title>
-      <link>http://localhost:1313/publication/girerd16cras/</link>
+      <link>https://cgirerd.github.io/publication/girerd16cras/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd16cras/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd16cras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Low-Cost Robotic System for the Efficient Visual Inspection of Tunnels</title>
-      <link>http://localhost:1313/publication/stent15isarc/</link>
+      <link>https://cgirerd.github.io/publication/stent15isarc/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stent15isarc/</guid>
+      <guid>https://cgirerd.github.io/publication/stent15isarc/</guid>
       <description></description>
     </item>
     

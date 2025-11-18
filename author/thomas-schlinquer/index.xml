@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Schlinquer | C. Girerd</title>
-    <link>http://localhost:1313/author/thomas-schlinquer/</link>
-      <atom:link href="http://localhost:1313/author/thomas-schlinquer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/author/thomas-schlinquer/</link>
+      <atom:link href="https://cgirerd.github.io/author/thomas-schlinquer/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Schlinquer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Thomas Schlinquer</title>
-      <link>http://localhost:1313/author/thomas-schlinquer/</link>
+      <link>https://cgirerd.github.io/author/thomas-schlinquer/</link>
     </image>
     
     <item>
       <title>Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment</title>
-      <link>http://localhost:1313/publication/girerd19jmr/</link>
+      <link>https://cgirerd.github.io/publication/girerd19jmr/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/girerd19jmr/</guid>
+      <guid>https://cgirerd.github.io/publication/girerd19jmr/</guid>
       <description></description>
     </item>
     

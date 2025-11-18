@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Camille Benoist | C. Girerd</title>
-    <link>http://localhost:1313/author/camille-benoist/</link>
-      <atom:link href="http://localhost:1313/author/camille-benoist/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/author/camille-benoist/</link>
+      <atom:link href="https://cgirerd.github.io/author/camille-benoist/index.xml" rel="self" type="application/rss+xml" />
     <description>Camille Benoist</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/camille-benoist/avatar_hu_457a792205fdbda7.jpg</url>
+      <url>https://cgirerd.github.io/author/camille-benoist/avatar_hu_457a792205fdbda7.jpg</url>
       <title>Camille Benoist</title>
-      <link>http://localhost:1313/author/camille-benoist/</link>
+      <link>https://cgirerd.github.io/author/camille-benoist/</link>
     </image>
     
     <item>
       <title>Tendon-Driven vs Rod-Driven Continuum Robots: A Bench Test Evaluation</title>
-      <link>http://localhost:1313/publication/benoist24cras/</link>
+      <link>https://cgirerd.github.io/publication/benoist24cras/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/benoist24cras/</guid>
+      <guid>https://cgirerd.github.io/publication/benoist24cras/</guid>
       <description></description>
     </item>
     

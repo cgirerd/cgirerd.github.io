@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fei Liu | C. Girerd</title>
-    <link>http://localhost:1313/author/fei-liu/</link>
-      <atom:link href="http://localhost:1313/author/fei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cgirerd.github.io/author/fei-liu/</link>
+      <atom:link href="https://cgirerd.github.io/author/fei-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Fei Liu</title>
-      <link>http://localhost:1313/author/fei-liu/</link>
+      <link>https://cgirerd.github.io/author/fei-liu/</link>
     </image>
     
     <item>
       <title>Image-based Pose Estimation and Shape Reconstruction for Robot Manipulators and Soft, Continuum Robots via Differentiable Rendering</title>
-      <link>http://localhost:1313/publication/lu23icra/</link>
+      <link>https://cgirerd.github.io/publication/lu23icra/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lu23icra/</guid>
+      <guid>https://cgirerd.github.io/publication/lu23icra/</guid>
       <description></description>
     </item>
     
