@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barbara Mazzolai | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/barbara-mazzolai/</link>
-      <atom:link href="https://cgirerd.github.io/author/barbara-mazzolai/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/barbara-mazzolai/</link>
+      <atom:link href="http://localhost:1313/author/barbara-mazzolai/index.xml" rel="self" type="application/rss+xml" />
     <description>Barbara Mazzolai</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Barbara Mazzolai</title>
-      <link>https://cgirerd.github.io/author/barbara-mazzolai/</link>
+      <link>http://localhost:1313/author/barbara-mazzolai/</link>
     </image>
     
     <item>
       <title>Tip-Growing Robots: Design, Theory, Application</title>
-      <link>https://cgirerd.github.io/publication/al_harthy24tro/</link>
+      <link>http://localhost:1313/publication/al_harthy24tro/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/al_harthy24tro/</guid>
+      <guid>http://localhost:1313/publication/al_harthy24tro/</guid>
       <description></description>
     </item>
     

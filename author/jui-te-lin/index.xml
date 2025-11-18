@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jui-Te Lin | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/jui-te-lin/</link>
-      <atom:link href="https://cgirerd.github.io/author/jui-te-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jui-te-lin/</link>
+      <atom:link href="http://localhost:1313/author/jui-te-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jui-Te Lin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Jui-Te Lin</title>
-      <link>https://cgirerd.github.io/author/jui-te-lin/</link>
+      <link>http://localhost:1313/author/jui-te-lin/</link>
     </image>
     
     <item>
       <title>Closing the Loop on Concentric Tube Robot Design: A Case Study on Micro-Laryngeal Surgery</title>
-      <link>https://cgirerd.github.io/publication/lin24tbme/</link>
+      <link>http://localhost:1313/publication/lin24tbme/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/lin24tbme/</guid>
+      <guid>http://localhost:1313/publication/lin24tbme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
+      <link>http://localhost:1313/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
+      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Generalized Framework for Concentric Tube Robot Design Using Gradient-Based Optimization</title>
-      <link>https://cgirerd.github.io/publication/lin22tro/</link>
+      <link>http://localhost:1313/publication/lin22tro/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/lin22tro/</guid>
+      <guid>http://localhost:1313/publication/lin22tro/</guid>
       <description></description>
     </item>
     

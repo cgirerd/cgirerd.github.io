@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrey v. Kudryavtsev | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/andrey-v.-kudryavtsev/</link>
-      <atom:link href="https://cgirerd.github.io/author/andrey-v.-kudryavtsev/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/andrey-v.-kudryavtsev/</link>
+      <atom:link href="http://localhost:1313/author/andrey-v.-kudryavtsev/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrey v. Kudryavtsev</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Andrey v. Kudryavtsev</title>
-      <link>https://cgirerd.github.io/author/andrey-v.-kudryavtsev/</link>
+      <link>http://localhost:1313/author/andrey-v.-kudryavtsev/</link>
     </image>
     
     <item>
       <title>Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM</title>
-      <link>https://cgirerd.github.io/publication/girerd20tmrb/</link>
+      <link>http://localhost:1313/publication/girerd20tmrb/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/girerd20tmrb/</guid>
+      <guid>http://localhost:1313/publication/girerd20tmrb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots</title>
-      <link>https://cgirerd.github.io/publication/girerd20ral/</link>
+      <link>http://localhost:1313/publication/girerd20ral/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/girerd20ral/</guid>
+      <guid>http://localhost:1313/publication/girerd20ral/</guid>
       <description></description>
     </item>
     

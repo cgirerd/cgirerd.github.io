@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soft Robots | C. Girerd</title>
-    <link>https://cgirerd.github.io/tags/soft-robots/</link>
-      <atom:link href="https://cgirerd.github.io/tags/soft-robots/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/soft-robots/</link>
+      <atom:link href="http://localhost:1313/tags/soft-robots/index.xml" rel="self" type="application/rss+xml" />
     <description>Soft Robots</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Soft Robots</title>
-      <link>https://cgirerd.github.io/tags/soft-robots/</link>
+      <link>http://localhost:1313/tags/soft-robots/</link>
     </image>
     
     <item>
       <title>Vine Growing Robots</title>
-      <link>https://cgirerd.github.io/research/vine-growing-robots/</link>
+      <link>http://localhost:1313/research/vine-growing-robots/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/vine-growing-robots/</guid>
+      <guid>http://localhost:1313/research/vine-growing-robots/</guid>
       <description>&lt;p&gt;A new subclass of soft robot, known as tip-extending or &amp;ldquo;vine&amp;rdquo; robots, consists of long inflatable devices that move through the environment by extending from the tip. A key requirement for many applications of these robots is a working channel - a hollow tube through the core of the robot for passing tools, sensors, fluids, etc. While working channels have been proposed in a few vine robots, it remains an open challenge to create miniaturized vine robots (diameter &amp;lt; 1 cm) with working channels that enable continuous access through the core. In this paper, we analyze the growth models of current vine robot designs and show that the working channel greatly increases required pressure to grow at small scales due to internal friction. Based on this insight, we propose the concept of storing scrunched material at the tip of the vine robot to circumvent this frictional force. We validate our models and demonstrate this concept via prototypes down to diameters of 2.3 mm. Overall, this work enables the creation of miniaturized vine robots with working channels, which significantly enhances their practicality and potential for impact in applications such as minimally invasive surgery.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -42,20 +42,20 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -123,7 +123,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/tip-growing-robots/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/tip-growing-robots/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -220,14 +220,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/ayush-giri/&#34;&gt;Ayush Giri&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/jacobo-cervera-torralba/&#34;&gt;Jacobo Cervera-Torralba&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/michael-t.-tolley/&#34;&gt;Michael T. Tolley&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/ayush-giri/&#34;&gt;Ayush Giri&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/jacobo-cervera-torralba/&#34;&gt;Jacobo Cervera-Torralba&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/michael-t.-tolley/&#34;&gt;Michael T. Tolley&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/giri25tmech/&#34; class=&#34;underline&#34;&gt;InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/giri25tmech/&#34; class=&#34;underline&#34;&gt;InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy&lt;/a&gt;.
   &lt;em&gt;TMECH&lt;/em&gt;.
   
 
@@ -363,13 +363,13 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/anna-alvarez/&#34;&gt;Anna Alvarez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/elliot-w.-hawkes/&#34;&gt;Elliot W. Hawkes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/anna-alvarez/&#34;&gt;Anna Alvarez&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/elliot-w.-hawkes/&#34;&gt;Elliot W. Hawkes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2024).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd24tro/&#34; class=&#34;underline&#34;&gt;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/girerd24tro/&#34; class=&#34;underline&#34;&gt;Material Scrunching Enables Working Channels in Miniaturized Vine-Inspired Robots&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -437,7 +437,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd24tro/girerd24tro.mp4&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd24tro/girerd24tro.mp4&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
         Video
       &lt;/a&gt;
@@ -516,9 +516,9 @@
     
     <item>
       <title>Wireless Sensors</title>
-      <link>https://cgirerd.github.io/research/wireless-sensors/</link>
+      <link>http://localhost:1313/research/wireless-sensors/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/wireless-sensors/</guid>
+      <guid>http://localhost:1313/research/wireless-sensors/</guid>
       <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;p&gt;
@@ -544,17 +544,17 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/nagarjun-bhat/&#34;&gt;Nagarjun Bhat&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/siddhi-mundhra/&#34;&gt;Siddhi Mundhra&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/nagarjun-bhat/&#34;&gt;Nagarjun Bhat&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/siddhi-mundhra/&#34;&gt;Siddhi Mundhra&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta23acm/&#34; class=&#34;underline&#34;&gt;ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/gupta23acm/&#34; class=&#34;underline&#34;&gt;ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a&gt;.
   In &lt;em&gt;ACM IMWUT&lt;/em&gt;.
   
 
@@ -690,15 +690,15 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2022).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/park22ral/&#34; class=&#34;underline&#34;&gt;Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/park22ral/&#34; class=&#34;underline&#34;&gt;Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a&gt;.
   &lt;em&gt;RA-L&lt;/em&gt;.
   
 
@@ -738,7 +738,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/park22ral/park22ral.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/park22ral/park22ral.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -835,16 +835,16 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/&#34; class=&#34;underline&#34;&gt;Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/gupta22getmobile/&#34; class=&#34;underline&#34;&gt;Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a&gt;.
   In &lt;em&gt;GetMobile&lt;/em&gt;.
   
 
@@ -884,7 +884,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/gupta22getmobile.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/gupta22getmobile/gupta22getmobile.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -981,16 +981,16 @@
 
 
   &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd21sensors/&#34; class=&#34;underline&#34;&gt;Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/girerd21sensors/&#34; class=&#34;underline&#34;&gt;Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a&gt;.
   &lt;em&gt;IEEE Sensors Journal&lt;/em&gt;.
   
 
@@ -1030,7 +1030,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd21sensors/girerd21sensors.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/girerd21sensors/girerd21sensors.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -1127,16 +1127,16 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/&#34; class=&#34;underline&#34;&gt;WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/gupta21nsdi/&#34; class=&#34;underline&#34;&gt;WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a&gt;.
   In &lt;em&gt;NSDI&lt;/em&gt;.
   
 
@@ -1232,7 +1232,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/gupta21nsdi.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publication/gupta21nsdi/gupta21nsdi.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;

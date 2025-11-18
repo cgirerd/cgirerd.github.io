@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manideep Dunna | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/manideep-dunna/</link>
-      <atom:link href="https://cgirerd.github.io/author/manideep-dunna/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/manideep-dunna/</link>
+      <atom:link href="http://localhost:1313/author/manideep-dunna/index.xml" rel="self" type="application/rss+xml" />
     <description>Manideep Dunna</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Manideep Dunna</title>
-      <link>https://cgirerd.github.io/author/manideep-dunna/</link>
+      <link>http://localhost:1313/author/manideep-dunna/</link>
     </image>
     
     <item>
       <title>Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections</title>
-      <link>https://cgirerd.github.io/publication/gupta22getmobile/</link>
+      <link>http://localhost:1313/publication/gupta22getmobile/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/gupta22getmobile/</guid>
+      <guid>http://localhost:1313/publication/gupta22getmobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications</title>
-      <link>https://cgirerd.github.io/publication/girerd21sensors/</link>
+      <link>http://localhost:1313/publication/girerd21sensors/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/girerd21sensors/</guid>
+      <guid>http://localhost:1313/publication/girerd21sensors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum</title>
-      <link>https://cgirerd.github.io/publication/gupta21nsdi/</link>
+      <link>http://localhost:1313/publication/gupta21nsdi/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/gupta21nsdi/</guid>
+      <guid>http://localhost:1313/publication/gupta21nsdi/</guid>
       <description></description>
     </item>
     

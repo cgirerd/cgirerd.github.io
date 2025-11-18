@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan C. Dunn | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/ryan-c.-dunn/</link>
-      <atom:link href="https://cgirerd.github.io/author/ryan-c.-dunn/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ryan-c.-dunn/</link>
+      <atom:link href="http://localhost:1313/author/ryan-c.-dunn/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan C. Dunn</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Ryan C. Dunn</title>
-      <link>https://cgirerd.github.io/author/ryan-c.-dunn/</link>
+      <link>http://localhost:1313/author/ryan-c.-dunn/</link>
     </image>
     
     <item>
       <title>Scalable enforcement of geometric non-interference constraints for gradient-based optimization</title>
-      <link>https://cgirerd.github.io/publication/dunn23optimization/</link>
+      <link>http://localhost:1313/publication/dunn23optimization/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/dunn23optimization/</guid>
+      <guid>http://localhost:1313/publication/dunn23optimization/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Databases | C. Girerd</title>
-    <link>https://cgirerd.github.io/databases/</link>
-      <atom:link href="https://cgirerd.github.io/databases/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/databases/</link>
+      <atom:link href="http://localhost:1313/databases/index.xml" rel="self" type="application/rss+xml" />
     <description>Databases</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Databases</title>
-      <link>https://cgirerd.github.io/databases/</link>
+      <link>http://localhost:1313/databases/</link>
     </image>
     
     <item>
       <title>Tip-Growing Robots</title>
-      <link>https://cgirerd.github.io/databases/tip-growing-robots/</link>
+      <link>http://localhost:1313/databases/tip-growing-robots/</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/databases/tip-growing-robots/</guid>
+      <guid>http://localhost:1313/databases/tip-growing-robots/</guid>
       <description>&lt;p&gt;This web page is a resource on tip-growing robots that have been proposed to date in the literature. It will be kept up-to-date on a regular basis. If you are making use of this database, please cite our associated publication below.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
@@ -42,20 +42,20 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/shamsa-al-harthy/&#34;&gt;Shamsa Al Harthy&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/s.m.hadi-sadati/&#34;&gt;S.M.Hadi Sadati&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/sukjun-kim/&#34;&gt;Sukjun Kim&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/alessio-mondini/&#34;&gt;Alessio Mondini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/zicong-wu/&#34;&gt;Zicong Wu&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/brandon-saldarriaga/&#34;&gt;Brandon Saldarriaga&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/carlo-a.-seneci/&#34;&gt;Carlo A. Seneci&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/barbara-mazzolai/&#34;&gt;Barbara Mazzolai&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/christos-bergeles/&#34;&gt;Christos Bergeles&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2025).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/al_harthy24tro/&#34; class=&#34;underline&#34;&gt;Tip-Growing Robots: Design, Theory, Application&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -123,7 +123,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/tip-growing-robots/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/tip-growing-robots/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -211,9 +211,9 @@
     
     <item>
       <title>Concentric Tube Robots</title>
-      <link>https://cgirerd.github.io/databases/ctr-prototyping/</link>
+      <link>http://localhost:1313/databases/ctr-prototyping/</link>
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/databases/ctr-prototyping/</guid>
+      <guid>http://localhost:1313/databases/ctr-prototyping/</guid>
       <description>&lt;p&gt;This web page is a resource on the concentric tube robot tube sets and actuation units that have been proposed to date in the literature. It is kept up-to-date on a regular basis. If you are making use of this database, please cite our associated publication below.&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
@@ -239,14 +239,14 @@
 
 
   &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;http://localhost:1313/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
+      &lt;a href=&#34;http://localhost:1313/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;http://localhost:1313/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2023).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
   &lt;em&gt;TRO&lt;/em&gt;.
   
 
@@ -314,7 +314,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/databases/ctr-prototyping/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;

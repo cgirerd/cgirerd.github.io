@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dang Viet Anh Nguyen | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/dang-viet-anh-nguyen/</link>
-      <atom:link href="https://cgirerd.github.io/author/dang-viet-anh-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/dang-viet-anh-nguyen/</link>
+      <atom:link href="http://localhost:1313/author/dang-viet-anh-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>Dang Viet Anh Nguyen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Dang Viet Anh Nguyen</title>
-      <link>https://cgirerd.github.io/author/dang-viet-anh-nguyen/</link>
+      <link>http://localhost:1313/author/dang-viet-anh-nguyen/</link>
     </image>
     
     <item>
       <title>A Hybrid Concentric Tube Robot for Cholesteatoma Laser Surgery</title>
-      <link>https://cgirerd.github.io/publication/nguyen21ral/</link>
+      <link>http://localhost:1313/publication/nguyen21ral/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/nguyen21ral/</guid>
+      <guid>http://localhost:1313/publication/nguyen21ral/</guid>
       <description></description>
     </item>
     

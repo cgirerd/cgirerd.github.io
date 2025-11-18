@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ayush Giri | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/ayush-giri/</link>
-      <atom:link href="https://cgirerd.github.io/author/ayush-giri/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ayush-giri/</link>
+      <atom:link href="http://localhost:1313/author/ayush-giri/index.xml" rel="self" type="application/rss+xml" />
     <description>Ayush Giri</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Ayush Giri</title>
-      <link>https://cgirerd.github.io/author/ayush-giri/</link>
+      <link>http://localhost:1313/author/ayush-giri/</link>
     </image>
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
-      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
+      <link>http://localhost:1313/publication/giri25tmech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
+      <guid>http://localhost:1313/publication/giri25tmech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
-      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
+      <link>http://localhost:1313/publication/giri22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
+      <guid>http://localhost:1313/publication/giri22biorob/</guid>
       <description></description>
     </item>
     

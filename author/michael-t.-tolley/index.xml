@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael T. Tolley | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/michael-t.-tolley/</link>
-      <atom:link href="https://cgirerd.github.io/author/michael-t.-tolley/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/michael-t.-tolley/</link>
+      <atom:link href="http://localhost:1313/author/michael-t.-tolley/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael T. Tolley</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Michael T. Tolley</title>
-      <link>https://cgirerd.github.io/author/michael-t.-tolley/</link>
+      <link>http://localhost:1313/author/michael-t.-tolley/</link>
     </image>
     
     <item>
       <title>InchIGRAB: An Inchworm-Inspired Guided Retraction and Bending Device for Vine Robots During Colonoscopy</title>
-      <link>https://cgirerd.github.io/publication/giri25tmech/</link>
+      <link>http://localhost:1313/publication/giri25tmech/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/giri25tmech/</guid>
+      <guid>http://localhost:1313/publication/giri25tmech/</guid>
       <description></description>
     </item>
     

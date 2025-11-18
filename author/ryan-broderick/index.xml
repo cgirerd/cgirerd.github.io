@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Broderick | C. Girerd</title>
-    <link>https://cgirerd.github.io/author/ryan-broderick/</link>
-      <atom:link href="https://cgirerd.github.io/author/ryan-broderick/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ryan-broderick/</link>
+      <atom:link href="http://localhost:1313/author/ryan-broderick/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryan Broderick</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
+      <url>http://localhost:1313/media/icon_hu_3e0a6eb338cf4ce0.png</url>
       <title>Ryan Broderick</title>
-      <link>https://cgirerd.github.io/author/ryan-broderick/</link>
+      <link>http://localhost:1313/author/ryan-broderick/</link>
     </image>
     
     <item>
       <title>Modeling and Design of Soft, Positive-Pressure Actuated Suction Cups for Anchoring in Minimally Invasive Surgery</title>
-      <link>https://cgirerd.github.io/publication/giri22biorob/</link>
+      <link>http://localhost:1313/publication/giri22biorob/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/publication/giri22biorob/</guid>
+      <guid>http://localhost:1313/publication/giri22biorob/</guid>
       <description></description>
     </item>
     
