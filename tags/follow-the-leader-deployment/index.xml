@@ -1,2082 +1,397 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Follow-the-Leader Deployment | C. Girerd</title>
-    <link>https://cgirerd.github.io/tags/follow-the-leader-deployment/</link>
-      <atom:link href="https://cgirerd.github.io/tags/follow-the-leader-deployment/index.xml" rel="self" type="application/rss+xml" />
-    <description>Follow-the-Leader Deployment</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
-      <title>Follow-the-Leader Deployment</title>
-      <link>https://cgirerd.github.io/tags/follow-the-leader-deployment/</link>
-    </image>
-    
-    <item>
-      <title>Follow-the-Leader Deployment</title>
-      <link>https://cgirerd.github.io/research/ftl-deployment/</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/ftl-deployment/</guid>
-      <description>&lt;p&gt;The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2023).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
-  &lt;em&gt;TRO&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-04312792v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
-        Dataset
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/nwafor22tro/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TRO.2023.3255512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
-  &lt;em&gt;TMRB&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd20tmrb/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TMRB.2020.3034720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/thomas-schlinquer/&#34;&gt;Thomas Schlinquer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd19jmr/&#34; class=&#34;underline&#34;&gt;Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment&lt;/a&gt;.
-  &lt;em&gt;JMR&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd19jmr/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1115/1.4047983&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
-  &lt;em&gt;RA-L&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-03053015v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd20ral/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/LRA.2019.2963821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/thomas-lihoreau/&#34;&gt;Thomas Lihoreau&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/mourad-benassarou/&#34;&gt;Mourad Benassarou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/laurent-tavernier/&#34;&gt;Laurent Tavernier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/lionel-pazart/&#34;&gt;Lionel Pazart&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/emmanuel-haffen/&#34;&gt;Emmanuel Haffen&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/nicolas-andreff/&#34;&gt;Nicolas Andreff&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2018).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd18abme/&#34; class=&#34;underline&#34;&gt;In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy&lt;/a&gt;.
-  &lt;em&gt;ABME&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-02126171v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd18abme/anatomical_data.zip&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
-        Dataset
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd18abme/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1007/s10439-018-2076-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2018).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd18phdthesis/&#34; class=&#34;underline&#34;&gt;Conception de robots à tubes concentriques et application à l&amp;#39;inspection des cellules olfactives&lt;/a&gt;.
-  In &lt;em&gt;University of Strasbourg&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd18phdthesis/girerd18phdthesis.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd18phdthesis/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2017).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd17surgetica/&#34; class=&#34;underline&#34;&gt;Toward a Robotized Inspection of the Olfactory Epithelium&lt;/a&gt;.
-  In &lt;em&gt;Surgetica&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17surgetica/girerd17surgetica.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd17surgetica/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2017).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd17iros/&#34; class=&#34;underline&#34;&gt;Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment&lt;/a&gt;.
-  In &lt;em&gt;IROS&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17iros/girerd17iros.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd17iros/girerd17iros.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd17iros/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/IROS.2017.8206455&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2017).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd16ark/&#34; class=&#34;underline&#34;&gt;Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
-  In &lt;em&gt;ARK&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd16ark/girerd16ark.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd16ark/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1007/978-3-319-56802-7_3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2016).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd16cras/&#34; class=&#34;underline&#34;&gt;Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration&lt;/a&gt;.
-  In &lt;em&gt;CRAS&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd16cras/girerd16cras.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd16cras/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SLAM-Based Deployment</title>
-      <link>https://cgirerd.github.io/research/slam-based-deployment/</link>
-      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/slam-based-deployment/</guid>
-      <description>&lt;p&gt;The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/chibundo-nwafor/&#34;&gt;Chibundo Nwafor&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/guillaume-j.-laurent/&#34;&gt;Guillaume J. Laurent&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2023).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/nwafor22tro/&#34; class=&#34;underline&#34;&gt;Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a&gt;.
-  &lt;em&gt;TRO&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-04312792v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/databases/ctr-prototyping/&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
-        Dataset
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/nwafor22tro/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TRO.2023.3255512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/&#34; class=&#34;underline&#34;&gt;Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a&gt;.
-  &lt;em&gt;TMRB&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd20tmrb/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/TMRB.2020.3034720&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/andrey-v.-kudryavtsev/&#34;&gt;Andrey v. Kudryavtsev&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/patrick-rougeot/&#34;&gt;Patrick Rougeot&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/pierre-renaud/&#34;&gt;Pierre Renaud&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/kanty-rabenorosoa/&#34;&gt;Kanty Rabenorosoa&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/brahim-tamadazte/&#34;&gt;Brahim Tamadazte&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd20ral/&#34; class=&#34;underline&#34;&gt;SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a&gt;.
-  &lt;em&gt;RA-L&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-03053015v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd20ral/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/LRA.2019.2963821&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Follow-the-Leader Deployment | C. Girerd</title><link>https://cgirerd.github.io/tags/follow-the-leader-deployment/</link><atom:link href="https://cgirerd.github.io/tags/follow-the-leader-deployment/index.xml" rel="self" type="application/rss+xml"/><description>Follow-the-Leader Deployment</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url><title>Follow-the-Leader Deployment</title><link>https://cgirerd.github.io/tags/follow-the-leader-deployment/</link></image><item><title>Follow-the-Leader Deployment</title><link>https://cgirerd.github.io/research/ftl-deployment/</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>https://cgirerd.github.io/research/ftl-deployment/</guid><description>&lt;p>The particular architecture of concentric tube robots leads to lateral motions of their bodis while their tips are controlled. Such behavior can be undesired for deployment in constrained areas. In order to overcome this challenge, we worked on the follow-the-leader deployment of those robots, during which the robot body follows the path taken by its tip.&lt;/p>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/chibundo-nwafor/">Chibundo Nwafor&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/guillaume-j.-laurent/">Guillaume J. Laurent&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cgirerd.github.io/publication/nwafor22tro/" class="underline">Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a>.
+&lt;em>TRO&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-04312792v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/databases/ctr-prototyping/" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/>&lt;/svg>
+Dataset
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/nwafor22tro/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/TRO.2023.3255512" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/andrey-v.-kudryavtsev/">Andrey v. Kudryavtsev&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/patrick-rougeot/">Patrick Rougeot&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/brahim-tamadazte/">Brahim Tamadazte&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/equal-contribution/">Equal Contribution&lt;/a>&lt;/span>
+&lt;/span>
+(2020).
+&lt;a href="https://cgirerd.github.io/publication/girerd20tmrb/" class="underline">Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a>.
+&lt;em>TMRB&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd20tmrb/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/TMRB.2020.3034720" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/thomas-schlinquer/">Thomas Schlinquer&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/nicolas-andreff/">Nicolas Andreff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>
+&lt;/span>
+(2020).
+&lt;a href="https://cgirerd.github.io/publication/girerd19jmr/" class="underline">Design of Concentric Tube Robots using Tube Patterning for Follow-the-Leader Deployment&lt;/a>.
+&lt;em>JMR&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd19jmr/girerd19jmr.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd19jmr/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1115/1.4047983" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/andrey-v.-kudryavtsev/">Andrey v. Kudryavtsev&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/patrick-rougeot/">Patrick Rougeot&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/brahim-tamadazte/">Brahim Tamadazte&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/equal-contribution/">Equal Contribution&lt;/a>&lt;/span>
+&lt;/span>
+(2020).
+&lt;a href="https://cgirerd.github.io/publication/girerd20ral/" class="underline">SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a>.
+&lt;em>RA-L&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-03053015v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd20ral/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/LRA.2019.2963821" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/thomas-lihoreau/">Thomas Lihoreau&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/brahim-tamadazte/">Brahim Tamadazte&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/mourad-benassarou/">Mourad Benassarou&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/laurent-tavernier/">Laurent Tavernier&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/lionel-pazart/">Lionel Pazart&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/emmanuel-haffen/">Emmanuel Haffen&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/nicolas-andreff/">Nicolas Andreff&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>
+&lt;/span>
+(2018).
+&lt;a href="https://cgirerd.github.io/publication/girerd18abme/" class="underline">In Vivo Inspection of the Olfactory Epithelium: Feasibility of Robotized Optical Biopsy&lt;/a>.
+&lt;em>ABME&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-02126171v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd18abme/anatomical_data.zip" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/>&lt;/svg>
+Dataset
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd18abme/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1007/s10439-018-2076-9" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>
+&lt;/span>
+(2018).
+&lt;a href="https://cgirerd.github.io/publication/girerd18phdthesis/" class="underline">Conception de robots à tubes concentriques et application à l&amp;#39;inspection des cellules olfactives&lt;/a>.
+In &lt;em>University of Strasbourg&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd18phdthesis/girerd18phdthesis.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd18phdthesis/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>
+&lt;/span>
+(2017).
+&lt;a href="https://cgirerd.github.io/publication/girerd17surgetica/" class="underline">Toward a Robotized Inspection of the Olfactory Epithelium&lt;/a>.
+In &lt;em>Surgetica&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd17surgetica/girerd17surgetica.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd17surgetica/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/patrick-rougeot/">Patrick Rougeot&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>
+&lt;/span>
+(2017).
+&lt;a href="https://cgirerd.github.io/publication/girerd17iros/" class="underline">Towards Optical Biopsy of Olfactory Cells using Concentric Tube Robots with Follow-the-Leader Deployment&lt;/a>.
+In &lt;em>IROS&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd17iros/girerd17iros.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd17iros/girerd17iros.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd17iros/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/IROS.2017.8206455" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>
+&lt;/span>
+(2017).
+&lt;a href="https://cgirerd.github.io/publication/girerd16ark/" class="underline">Combining Tube Design and Simple Kinematic Strategy for Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a>.
+In &lt;em>ARK&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd16ark/girerd16ark.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd16ark/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1007/978-3-319-56802-7_3" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>
+&lt;/span>
+(2016).
+&lt;a href="https://cgirerd.github.io/publication/girerd16cras/" class="underline">Synthesis of a New Concentric Tube Robot for Olfactory Cells Exploration&lt;/a>.
+In &lt;em>CRAS&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd16cras/girerd16cras.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd16cras/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/p></description></item><item><title>SLAM-Based Deployment</title><link>https://cgirerd.github.io/research/slam-based-deployment/</link><pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate><guid>https://cgirerd.github.io/research/slam-based-deployment/</guid><description>&lt;p>The planning of continuum robots is generally based on the patient’s anatomy using pre-operative images. However, their practical deployment can be challenging. Open-loop approaches are prone to errors due to modeling accuracy or physiological motions of the patient during the procedure, and human-in-the-loop approaches require specific skills from the surgeon. To overcome those limits, we propose an automatic tip-steering approach for concentric tube robots based on visual SLAM (simultaneous localization and mapping).&lt;/p>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/chibundo-nwafor/">Chibundo Nwafor&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/guillaume-j.-laurent/">Guillaume J. Laurent&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cgirerd.github.io/publication/nwafor22tro/" class="underline">Design and Fabrication of Concentric Tube Robots: A Survey&lt;/a>.
+&lt;em>TRO&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-04312792v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/databases/ctr-prototyping/" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125"/>&lt;/svg>
+Dataset
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/nwafor22tro/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/TRO.2023.3255512" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/andrey-v.-kudryavtsev/">Andrey v. Kudryavtsev&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/patrick-rougeot/">Patrick Rougeot&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/brahim-tamadazte/">Brahim Tamadazte&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/equal-contribution/">Equal Contribution&lt;/a>&lt;/span>
+&lt;/span>
+(2020).
+&lt;a href="https://cgirerd.github.io/publication/girerd20tmrb/" class="underline">Automatic Tip-Steering of Concentric Tube Robots in the Trachea Based on Visual SLAM&lt;/a>.
+&lt;em>TMRB&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20tmrb/girerd20tmrb.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd20tmrb/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/TMRB.2020.3034720" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/andrey-v.-kudryavtsev/">Andrey v. Kudryavtsev&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/patrick-rougeot/">Patrick Rougeot&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/pierre-renaud/">Pierre Renaud&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/kanty-rabenorosoa/">Kanty Rabenorosoa&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/brahim-tamadazte/">Brahim Tamadazte&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/equal-contribution/">Equal Contribution&lt;/a>&lt;/span>
+&lt;/span>
+(2020).
+&lt;a href="https://cgirerd.github.io/publication/girerd20ral/" class="underline">SLAM-Based Follow-the-Leader Deployment of Concentric Tube Robots&lt;/a>.
+&lt;em>RA-L&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-03053015v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd20ral/girerd20ral.mp4" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd20ral/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/LRA.2019.2963821" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/p></description></item></channel></rss>

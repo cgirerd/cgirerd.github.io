@@ -1,783 +1,158 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wireless Sensors | C. Girerd</title>
-    <link>https://cgirerd.github.io/tags/wireless-sensors/</link>
-      <atom:link href="https://cgirerd.github.io/tags/wireless-sensors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wireless Sensors</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url>
-      <title>Wireless Sensors</title>
-      <link>https://cgirerd.github.io/tags/wireless-sensors/</link>
-    </image>
-    
-    <item>
-      <title>Wireless Sensors</title>
-      <link>https://cgirerd.github.io/research/wireless-sensors/</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://cgirerd.github.io/research/wireless-sensors/</guid>
-      <description>&lt;p&gt;The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/nagarjun-bhat/&#34;&gt;Nagarjun Bhat&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/siddhi-mundhra/&#34;&gt;Siddhi Mundhra&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2023).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta23acm/&#34; class=&#34;underline&#34;&gt;ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a&gt;.
-  In &lt;em&gt;ACM IMWUT&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://hal.science/hal-04312880v1/document&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/gupta23acm/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1145/3580793&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/daegue-park/&#34;&gt;Daegue Park&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/shayaun-bashar/&#34;&gt;Shayaun Bashar&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2022).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/park22ral/&#34; class=&#34;underline&#34;&gt;Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a&gt;.
-  &lt;em&gt;RA-L&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/park22ral/park22ral.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/park22ral/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/LRA.2022.3184767&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/&#34; class=&#34;underline&#34;&gt;Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a&gt;.
-  In &lt;em&gt;GetMobile&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta22getmobile/gupta22getmobile.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/gupta22getmobile/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1145/3511285.3511296&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/equal-contribution/&#34;&gt;Equal Contribution&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/girerd21sensors/&#34; class=&#34;underline&#34;&gt;Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a&gt;.
-  &lt;em&gt;IEEE Sensors Journal&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/girerd21sensors/girerd21sensors.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/girerd21sensors/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.1109/JSEN.2021.3049225&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/agrim-gupta/&#34;&gt;Agrim Gupta&lt;/a&gt;&lt;/span&gt;, &lt;span class=&#34;font-bold&#34;&gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/cedric-girerd/&#34;&gt;Cédric Girerd&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/manideep-dunna/&#34;&gt;Manideep Dunna&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/qiming-zhang/&#34;&gt;Qiming Zhang&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/raghav-subbaraman/&#34;&gt;Raghav Subbaraman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/tania-k.-morimoto/&#34;&gt;Tania K. Morimoto&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://cgirerd.github.io/author/dinesh-bharadia/&#34;&gt;Dinesh Bharadia&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/&#34; class=&#34;underline&#34;&gt;WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a&gt;.
-  In &lt;em&gt;NSDI&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://www.usenix.org/system/files/nsdi21_slides_gupta.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6&#34;/&gt;&lt;/svg&gt;
-        Slides
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://www.youtube.com/watch?v=JNwX953xcBo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://cgirerd.github.io/publication/gupta21nsdi/gupta21nsdi.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publication/gupta21nsdi/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wireless Sensors | C. Girerd</title><link>https://cgirerd.github.io/tags/wireless-sensors/</link><atom:link href="https://cgirerd.github.io/tags/wireless-sensors/index.xml" rel="self" type="application/rss+xml"/><description>Wireless Sensors</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>https://cgirerd.github.io/media/icon_hu_3e0a6eb338cf4ce0.png</url><title>Wireless Sensors</title><link>https://cgirerd.github.io/tags/wireless-sensors/</link></image><item><title>Wireless Sensors</title><link>https://cgirerd.github.io/research/wireless-sensors/</link><pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate><guid>https://cgirerd.github.io/research/wireless-sensors/</guid><description>&lt;p>The ability to sense forces is a critical component for ensuring that robots can safely interact with their environment. Yet there are numerous situations, in particular for medical applications, where environmental and sensor density requirements can pose challenges to sensor design. To overcome those limitations, we proposed new wireless force sensors.&lt;/p>
+&lt;h2 id="publications">Publications&lt;/h2>
+&lt;p>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/agrim-gupta/">Agrim Gupta&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/daegue-park/">Daegue Park&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/shayaun-bashar/">Shayaun Bashar&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/nagarjun-bhat/">Nagarjun Bhat&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/siddhi-mundhra/">Siddhi Mundhra&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/dinesh-bharadia/">Dinesh Bharadia&lt;/a>&lt;/span>
+&lt;/span>
+(2023).
+&lt;a href="https://cgirerd.github.io/publication/gupta23acm/" class="underline">ForceSticker: Wireless, Batteryless, Thin &amp;amp; Flexible Force Sensors&lt;/a>.
+In &lt;em>ACM IMWUT&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://hal.science/hal-04312880v1/document" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/gupta23acm/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1145/3580793" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/daegue-park/">Daegue Park&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/agrim-gupta/">Agrim Gupta&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/shayaun-bashar/">Shayaun Bashar&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/dinesh-bharadia/">Dinesh Bharadia&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>
+&lt;/span>
+(2022).
+&lt;a href="https://cgirerd.github.io/publication/park22ral/" class="underline">Design and Evaluation of a Miniaturized Force Sensor Based on Wave Backscattering&lt;/a>.
+&lt;em>RA-L&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/park22ral/park22ral.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/park22ral/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/LRA.2022.3184767" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/agrim-gupta/">Agrim Gupta&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/manideep-dunna/">Manideep Dunna&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/qiming-zhang/">Qiming Zhang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/raghav-subbaraman/">Raghav Subbaraman&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/dinesh-bharadia/">Dinesh Bharadia&lt;/a>&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://cgirerd.github.io/publication/gupta22getmobile/" class="underline">Expanding the horizons of wireless sensing: Sensing and localizing contact forces with signal reflections&lt;/a>.
+In &lt;em>GetMobile&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/gupta22getmobile/gupta22getmobile.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/gupta22getmobile/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1145/3511285.3511296" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/qiming-zhang/">Qiming Zhang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/agrim-gupta/">Agrim Gupta&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/manideep-dunna/">Manideep Dunna&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/dinesh-bharadia/">Dinesh Bharadia&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/equal-contribution/">Equal Contribution&lt;/a>&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://cgirerd.github.io/publication/girerd21sensors/" class="underline">Towards a Wireless Force Sensor Based on Wave Backscattering for Medical Applications&lt;/a>.
+&lt;em>IEEE Sensors Journal&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/girerd21sensors/girerd21sensors.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/girerd21sensors/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://doi.org/10.1109/JSEN.2021.3049225" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/>&lt;/svg>
+DOI
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+&lt;i class="far fa-file-alt pub-icon" aria-hidden="true">&lt;/i>
+&lt;span class="article-metadata li-cite-author">
+&lt;span >
+&lt;a href="https://cgirerd.github.io/author/agrim-gupta/">Agrim Gupta&lt;/a>&lt;/span>, &lt;span class="font-bold">
+&lt;a href="https://cgirerd.github.io/author/cedric-girerd/">Cédric Girerd&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/manideep-dunna/">Manideep Dunna&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/qiming-zhang/">Qiming Zhang&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/raghav-subbaraman/">Raghav Subbaraman&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/tania-k.-morimoto/">Tania K. Morimoto&lt;/a>&lt;/span>, &lt;span >
+&lt;a href="https://cgirerd.github.io/author/dinesh-bharadia/">Dinesh Bharadia&lt;/a>&lt;/span>
+&lt;/span>
+(2021).
+&lt;a href="https://cgirerd.github.io/publication/gupta21nsdi/" class="underline">WiForce: Wireless Sensing and Localization of Contact Forces on a Space Continuum&lt;/a>.
+In &lt;em>NSDI&lt;/em>.
+&lt;div class="flex flex-wrap space-x-3">
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://www.usenix.org/system/files/nsdi21_slides_gupta.pdf" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6"/>&lt;/svg>
+Slides
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://www.youtube.com/watch?v=JNwX953xcBo" target="_blank" rel="noopener">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z"/>&lt;/svg>
+Video
+&lt;/a>
+&lt;a class="hb-attachment-link hb-attachment-link-small" href="https://cgirerd.github.io/publication/gupta21nsdi/gupta21nsdi.pdf" >
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9"/>&lt;/svg>
+PDF
+&lt;/a>
+&lt;button class="hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer" type="button" data-filename="/publication/gupta21nsdi/cite.bib">
+&lt;svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75"/>&lt;/svg>
+&lt;span>Cite&lt;/span>
+&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;/p></description></item></channel></rss>
